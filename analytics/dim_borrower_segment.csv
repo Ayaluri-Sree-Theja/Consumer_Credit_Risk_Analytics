@@ -1,0 +1,3592 @@
+homeownership,verified_income,income_band,emp_length_bucket,state,borrower_segment_id
+MORTGAGE,Verified,Upper-Mid,3-5,NJ,1
+RENT,Not Verified,Low,6-10,HI,2
+RENT,Source Verified,Low,3-5,WI,3
+RENT,Not Verified,Low,1-2,PA,4
+RENT,Verified,Low,6-10,CA,5
+OWN,Not Verified,Low,,KY,6
+MORTGAGE,Source Verified,Low,6-10,MI,7
+MORTGAGE,Source Verified,High,6-10,AZ,8
+MORTGAGE,Source Verified,Lower-Mid,6-10,NV,9
+RENT,Not Verified,Low,3-5,IL,10
+MORTGAGE,Verified,Upper-Mid,6-10,IL,11
+MORTGAGE,Source Verified,Upper-Mid,1-2,FL,12
+MORTGAGE,Source Verified,High,3-5,SC,13
+MORTGAGE,Source Verified,Upper-Mid,6-10,CO,14
+MORTGAGE,Verified,Low,,FL,15
+MORTGAGE,Not Verified,Lower-Mid,6-10,TN,16
+MORTGAGE,Not Verified,Lower-Mid,,NV,17
+RENT,Source Verified,Upper-Mid,3-5,NV,18
+MORTGAGE,Verified,High,6-10,IL,19
+MORTGAGE,Source Verified,Upper-Mid,1-2,CA,20
+MORTGAGE,Not Verified,Lower-Mid,6-10,KY,21
+MORTGAGE,Source Verified,Low,1-2,NV,22
+MORTGAGE,Not Verified,High,3-5,NJ,23
+MORTGAGE,Verified,Low,,TX,24
+RENT,Not Verified,Upper-Mid,6-10,VA,25
+MORTGAGE,Source Verified,Lower-Mid,6-10,PA,26
+RENT,Source Verified,Lower-Mid,1-2,NY,27
+RENT,Not Verified,Lower-Mid,3-5,GA,28
+MORTGAGE,Source Verified,Lower-Mid,3-5,MO,29
+MORTGAGE,Verified,High,3-5,CA,30
+MORTGAGE,Source Verified,High,3-5,TX,31
+MORTGAGE,Verified,Lower-Mid,6-10,AR,32
+MORTGAGE,Source Verified,Upper-Mid,3-5,SC,33
+MORTGAGE,Not Verified,High,6-10,CA,34
+OWN,Source Verified,Upper-Mid,1-2,MD,35
+RENT,Source Verified,Low,1-2,MD,36
+MORTGAGE,Verified,Upper-Mid,6-10,NJ,37
+RENT,Not Verified,Upper-Mid,1-2,PA,38
+RENT,Source Verified,Lower-Mid,1-2,CA,39
+MORTGAGE,Not Verified,Low,,MI,40
+RENT,Source Verified,Upper-Mid,3-5,MD,41
+RENT,Source Verified,Upper-Mid,6-10,VA,42
+RENT,Source Verified,Low,1-2,TX,43
+OWN,Not Verified,Upper-Mid,6-10,NC,44
+MORTGAGE,Not Verified,High,1-2,FL,45
+RENT,Verified,Low,0 or less,TX,46
+RENT,Not Verified,Low,1-2,NE,47
+MORTGAGE,Source Verified,Upper-Mid,6-10,NC,48
+MORTGAGE,Verified,High,1-2,TX,49
+RENT,Not Verified,High,6-10,TX,50
+RENT,Source Verified,High,1-2,CA,51
+MORTGAGE,Source Verified,Upper-Mid,6-10,GA,52
+MORTGAGE,Not Verified,Upper-Mid,3-5,NC,53
+OWN,Source Verified,Low,,FL,54
+MORTGAGE,Verified,Upper-Mid,6-10,NV,55
+MORTGAGE,Not Verified,Upper-Mid,,NV,56
+RENT,Not Verified,High,6-10,CO,57
+MORTGAGE,Verified,Lower-Mid,6-10,WV,58
+OWN,Source Verified,Lower-Mid,6-10,MD,59
+RENT,Not Verified,High,1-2,VA,60
+MORTGAGE,Verified,High,6-10,VA,61
+MORTGAGE,Source Verified,High,6-10,CA,62
+MORTGAGE,Not Verified,Upper-Mid,0 or less,PA,63
+MORTGAGE,Not Verified,Low,6-10,FL,64
+MORTGAGE,Source Verified,Lower-Mid,3-5,IL,65
+MORTGAGE,Not Verified,Upper-Mid,3-5,NH,66
+RENT,Source Verified,Low,0 or less,UT,67
+OWN,Source Verified,Low,,DE,68
+RENT,Source Verified,Low,0 or less,MA,69
+RENT,Source Verified,Lower-Mid,3-5,NJ,70
+RENT,Source Verified,Low,3-5,KY,71
+MORTGAGE,Source Verified,Upper-Mid,1-2,NC,72
+RENT,Verified,Low,,OR,73
+RENT,Verified,Lower-Mid,0 or less,OH,74
+MORTGAGE,Verified,Low,6-10,TX,75
+MORTGAGE,Verified,Low,3-5,CA,76
+MORTGAGE,Verified,Upper-Mid,0 or less,OK,77
+MORTGAGE,Source Verified,Upper-Mid,1-2,PA,78
+MORTGAGE,Source Verified,High,6-10,TX,79
+MORTGAGE,Source Verified,Low,6-10,FL,80
+MORTGAGE,Verified,Upper-Mid,6-10,VA,81
+OWN,Not Verified,Upper-Mid,6-10,SD,82
+MORTGAGE,Not Verified,High,6-10,MO,83
+MORTGAGE,Source Verified,Lower-Mid,1-2,IL,84
+OWN,Source Verified,Low,3-5,TX,85
+RENT,Source Verified,Upper-Mid,6-10,FL,86
+RENT,Source Verified,Lower-Mid,1-2,AZ,87
+MORTGAGE,Source Verified,High,6-10,NY,88
+OWN,Verified,High,6-10,NJ,89
+RENT,Not Verified,Lower-Mid,3-5,IL,90
+RENT,Not Verified,Lower-Mid,,MN,91
+MORTGAGE,Not Verified,High,3-5,TX,92
+RENT,Source Verified,High,6-10,CO,93
+MORTGAGE,Not Verified,Upper-Mid,6-10,MA,94
+MORTGAGE,Source Verified,Upper-Mid,6-10,NJ,95
+MORTGAGE,Verified,Low,6-10,MN,96
+OWN,Not Verified,Upper-Mid,6-10,NY,97
+RENT,Source Verified,Lower-Mid,3-5,IL,98
+MORTGAGE,Source Verified,High,0 or less,TX,99
+MORTGAGE,Not Verified,High,3-5,TN,100
+MORTGAGE,Not Verified,Lower-Mid,6-10,NH,101
+RENT,Source Verified,Low,1-2,SC,102
+MORTGAGE,Not Verified,Upper-Mid,1-2,NY,103
+MORTGAGE,Verified,Low,1-2,FL,104
+RENT,Source Verified,Lower-Mid,1-2,TX,105
+RENT,Not Verified,Lower-Mid,6-10,TX,106
+RENT,Source Verified,Lower-Mid,1-2,FL,107
+MORTGAGE,Source Verified,Lower-Mid,6-10,AL,108
+RENT,Not Verified,Low,,WY,109
+RENT,Source Verified,Upper-Mid,3-5,CA,110
+MORTGAGE,Source Verified,Lower-Mid,0 or less,PA,111
+RENT,Source Verified,High,3-5,CA,112
+MORTGAGE,Not Verified,Lower-Mid,6-10,CO,113
+RENT,Not Verified,Low,6-10,NY,114
+MORTGAGE,Verified,Low,,MO,115
+OWN,Verified,Lower-Mid,3-5,FL,116
+MORTGAGE,Source Verified,High,6-10,MO,117
+MORTGAGE,Source Verified,Lower-Mid,3-5,CA,118
+MORTGAGE,Verified,High,6-10,NY,119
+RENT,Source Verified,Low,1-2,MA,120
+RENT,Not Verified,Low,3-5,TN,121
+OWN,Source Verified,High,6-10,NJ,122
+MORTGAGE,Source Verified,Upper-Mid,3-5,LA,123
+MORTGAGE,Source Verified,Low,0 or less,OH,124
+RENT,Not Verified,High,1-2,MA,125
+OWN,Verified,High,6-10,WV,126
+RENT,Verified,High,6-10,GA,127
+MORTGAGE,Source Verified,Upper-Mid,3-5,CA,128
+RENT,Not Verified,Low,6-10,PA,129
+RENT,Not Verified,Low,3-5,WI,130
+OWN,Not Verified,Low,,TX,131
+OWN,Not Verified,Low,6-10,IN,132
+OWN,Source Verified,Low,1-2,CA,133
+MORTGAGE,Verified,Low,6-10,OH,134
+RENT,Not Verified,High,1-2,CA,135
+RENT,Verified,Lower-Mid,3-5,CA,136
+RENT,Not Verified,Low,6-10,MI,137
+MORTGAGE,Verified,Low,1-2,NY,138
+RENT,Not Verified,Low,1-2,IL,139
+RENT,Not Verified,High,3-5,KS,140
+OWN,Verified,Low,,NY,141
+MORTGAGE,Source Verified,Upper-Mid,6-10,NY,142
+RENT,Not Verified,Upper-Mid,1-2,OH,143
+MORTGAGE,Verified,Lower-Mid,3-5,MA,144
+MORTGAGE,Not Verified,High,6-10,MD,145
+RENT,Source Verified,High,0 or less,AR,146
+RENT,Source Verified,Lower-Mid,3-5,NY,147
+RENT,Source Verified,Low,6-10,MS,148
+RENT,Not Verified,,,AZ,149
+RENT,Not Verified,High,3-5,VA,150
+MORTGAGE,Not Verified,Low,6-10,IL,151
+OWN,Source Verified,Lower-Mid,,TN,152
+MORTGAGE,Source Verified,High,3-5,CA,153
+MORTGAGE,Not Verified,Upper-Mid,1-2,IL,154
+RENT,Source Verified,Low,0 or less,OR,155
+MORTGAGE,Source Verified,Lower-Mid,6-10,FL,156
+RENT,Source Verified,Lower-Mid,0 or less,CA,157
+MORTGAGE,Not Verified,Upper-Mid,6-10,IN,158
+MORTGAGE,Source Verified,Upper-Mid,6-10,MN,159
+MORTGAGE,Not Verified,Lower-Mid,,TX,160
+MORTGAGE,Verified,High,3-5,NC,161
+MORTGAGE,Not Verified,High,3-5,MS,162
+RENT,Not Verified,Upper-Mid,1-2,NY,163
+OWN,Source Verified,Lower-Mid,3-5,TX,164
+MORTGAGE,Source Verified,High,1-2,NY,165
+RENT,Source Verified,Upper-Mid,6-10,OR,166
+MORTGAGE,Not Verified,Lower-Mid,6-10,TX,167
+MORTGAGE,Source Verified,Low,0 or less,NY,168
+RENT,Not Verified,Lower-Mid,1-2,CA,169
+RENT,Source Verified,Upper-Mid,1-2,GA,170
+MORTGAGE,Source Verified,Lower-Mid,3-5,AL,171
+OWN,Not Verified,Upper-Mid,6-10,FL,172
+MORTGAGE,Source Verified,High,6-10,MI,173
+OWN,Source Verified,Upper-Mid,6-10,CO,174
+RENT,Not Verified,Upper-Mid,1-2,SC,175
+MORTGAGE,Source Verified,Low,3-5,NC,176
+RENT,Not Verified,Low,,NC,177
+RENT,Source Verified,Low,0 or less,WA,178
+OWN,Not Verified,Upper-Mid,0 or less,LA,179
+RENT,Source Verified,Upper-Mid,6-10,NE,180
+MORTGAGE,Source Verified,Lower-Mid,6-10,CO,181
+RENT,Verified,Upper-Mid,6-10,CA,182
+RENT,Not Verified,Low,3-5,FL,183
+RENT,Source Verified,High,6-10,CA,184
+RENT,Not Verified,Upper-Mid,1-2,FL,185
+MORTGAGE,Not Verified,Low,6-10,KY,186
+MORTGAGE,Source Verified,Low,3-5,CA,187
+OWN,Verified,Upper-Mid,6-10,AR,188
+MORTGAGE,Verified,Upper-Mid,,NJ,189
+RENT,Source Verified,Upper-Mid,6-10,TX,190
+OWN,Not Verified,Low,0 or less,CA,191
+MORTGAGE,Not Verified,Upper-Mid,3-5,TX,192
+MORTGAGE,Source Verified,Low,6-10,NJ,193
+RENT,Source Verified,Low,1-2,CA,194
+MORTGAGE,Verified,High,1-2,NC,195
+RENT,Source Verified,Low,3-5,CA,196
+RENT,Source Verified,Low,6-10,CA,197
+RENT,Not Verified,Upper-Mid,6-10,SC,198
+RENT,Verified,Low,,AL,199
+RENT,Source Verified,High,1-2,VA,200
+MORTGAGE,Source Verified,Lower-Mid,6-10,CA,201
+RENT,Source Verified,High,1-2,NC,202
+RENT,Not Verified,Low,1-2,CA,203
+MORTGAGE,Not Verified,Upper-Mid,6-10,CA,204
+MORTGAGE,Not Verified,Upper-Mid,3-5,NJ,205
+MORTGAGE,Source Verified,Lower-Mid,6-10,GA,206
+RENT,Not Verified,Lower-Mid,3-5,NY,207
+RENT,Not Verified,Low,3-5,WA,208
+RENT,Not Verified,Upper-Mid,6-10,GA,209
+RENT,Verified,High,6-10,MD,210
+MORTGAGE,Source Verified,Low,,TX,211
+MORTGAGE,Verified,High,1-2,MA,212
+RENT,Not Verified,Upper-Mid,6-10,CA,213
+OWN,Verified,Low,3-5,ME,214
+RENT,Verified,Upper-Mid,1-2,NY,215
+MORTGAGE,Source Verified,High,1-2,CA,216
+OWN,Verified,Low,3-5,FL,217
+RENT,Source Verified,Lower-Mid,0 or less,VT,218
+RENT,Not Verified,Lower-Mid,6-10,NJ,219
+RENT,Verified,Low,3-5,OR,220
+OWN,Source Verified,Lower-Mid,6-10,TX,221
+RENT,Verified,Low,1-2,ME,222
+MORTGAGE,Not Verified,High,,MA,223
+RENT,Not Verified,Lower-Mid,1-2,IL,224
+OWN,Source Verified,High,1-2,CT,225
+RENT,Source Verified,Low,,NE,226
+RENT,Not Verified,Low,0 or less,OH,227
+MORTGAGE,Not Verified,High,6-10,GA,228
+RENT,Source Verified,Lower-Mid,3-5,FL,229
+MORTGAGE,Source Verified,High,0 or less,NY,230
+MORTGAGE,Verified,Upper-Mid,3-5,NY,231
+RENT,Not Verified,Low,3-5,NY,232
+MORTGAGE,Not Verified,High,,CA,233
+OWN,Source Verified,Lower-Mid,,UT,234
+OWN,Source Verified,High,1-2,FL,235
+RENT,Source Verified,Upper-Mid,6-10,WA,236
+RENT,Verified,High,6-10,NJ,237
+MORTGAGE,Verified,Upper-Mid,6-10,MN,238
+MORTGAGE,Verified,High,6-10,MA,239
+OWN,Source Verified,Low,1-2,MI,240
+MORTGAGE,Not Verified,Upper-Mid,6-10,IL,241
+OWN,Verified,Lower-Mid,6-10,IL,242
+OWN,Not Verified,Upper-Mid,3-5,PA,243
+MORTGAGE,Verified,High,6-10,NC,244
+RENT,Not Verified,Lower-Mid,6-10,OH,245
+OWN,Not Verified,Upper-Mid,3-5,NY,246
+MORTGAGE,Source Verified,High,6-10,KY,247
+RENT,Not Verified,Upper-Mid,6-10,NM,248
+MORTGAGE,Verified,Low,3-5,IN,249
+MORTGAGE,Not Verified,Low,6-10,AZ,250
+RENT,Not Verified,Lower-Mid,6-10,NY,251
+MORTGAGE,Verified,Lower-Mid,1-2,MN,252
+MORTGAGE,Not Verified,High,0 or less,KY,253
+MORTGAGE,Source Verified,Low,3-5,VA,254
+RENT,Source Verified,Low,,PA,255
+RENT,Not Verified,Upper-Mid,6-10,MA,256
+MORTGAGE,Verified,Low,,NJ,257
+MORTGAGE,Not Verified,Lower-Mid,3-5,TX,258
+RENT,Source Verified,Low,3-5,NY,259
+RENT,Not Verified,Low,0 or less,FL,260
+OWN,Verified,Lower-Mid,3-5,NY,261
+RENT,Verified,Low,,TN,262
+MORTGAGE,Not Verified,Upper-Mid,,CO,263
+MORTGAGE,Source Verified,Upper-Mid,6-10,AL,264
+MORTGAGE,Source Verified,Lower-Mid,6-10,WI,265
+MORTGAGE,Not Verified,High,6-10,NY,266
+RENT,Source Verified,Lower-Mid,1-2,GA,267
+RENT,Not Verified,Lower-Mid,1-2,MN,268
+MORTGAGE,Not Verified,Lower-Mid,6-10,PA,269
+MORTGAGE,Source Verified,Upper-Mid,6-10,MD,270
+RENT,Verified,Upper-Mid,6-10,GA,271
+OWN,Not Verified,Low,1-2,NJ,272
+MORTGAGE,Verified,Low,,CA,273
+RENT,Not Verified,Lower-Mid,6-10,SC,274
+MORTGAGE,Source Verified,Upper-Mid,3-5,TX,275
+OWN,Verified,Low,3-5,CA,276
+MORTGAGE,Verified,High,3-5,IL,277
+RENT,Not Verified,Low,1-2,OH,278
+RENT,Verified,Low,0 or less,CO,279
+MORTGAGE,Verified,Lower-Mid,6-10,AK,280
+MORTGAGE,Source Verified,Upper-Mid,6-10,KY,281
+RENT,Source Verified,High,3-5,GA,282
+MORTGAGE,Source Verified,Upper-Mid,6-10,CA,283
+MORTGAGE,Not Verified,Upper-Mid,6-10,MS,284
+RENT,Verified,Lower-Mid,6-10,MI,285
+MORTGAGE,Not Verified,Upper-Mid,1-2,SC,286
+MORTGAGE,Not Verified,High,6-10,NM,287
+MORTGAGE,Not Verified,Upper-Mid,6-10,OK,288
+MORTGAGE,Not Verified,High,6-10,DE,289
+MORTGAGE,Not Verified,Low,,PA,290
+MORTGAGE,Not Verified,Upper-Mid,6-10,NJ,291
+MORTGAGE,Source Verified,High,6-10,NC,292
+RENT,Source Verified,High,6-10,NY,293
+RENT,Source Verified,Low,1-2,NY,294
+RENT,Not Verified,Upper-Mid,0 or less,MA,295
+RENT,Not Verified,High,3-5,CA,296
+MORTGAGE,Source Verified,High,6-10,CT,297
+RENT,Not Verified,Low,6-10,MN,298
+MORTGAGE,Source Verified,High,6-10,NV,299
+MORTGAGE,Source Verified,Lower-Mid,6-10,NY,300
+MORTGAGE,Not Verified,Upper-Mid,1-2,NC,301
+MORTGAGE,Source Verified,Low,6-10,GA,302
+RENT,Not Verified,Upper-Mid,3-5,CA,303
+MORTGAGE,Not Verified,Upper-Mid,6-10,FL,304
+MORTGAGE,Source Verified,Upper-Mid,6-10,TX,305
+RENT,Source Verified,Low,6-10,FL,306
+MORTGAGE,Source Verified,Lower-Mid,0 or less,MO,307
+MORTGAGE,Source Verified,High,6-10,MA,308
+RENT,Verified,High,6-10,CO,309
+MORTGAGE,Not Verified,High,1-2,NH,310
+MORTGAGE,Not Verified,Upper-Mid,6-10,PA,311
+MORTGAGE,Verified,Upper-Mid,6-10,VT,312
+MORTGAGE,Source Verified,Lower-Mid,6-10,MI,313
+MORTGAGE,Verified,High,6-10,AZ,314
+RENT,Not Verified,High,6-10,WA,315
+RENT,Source Verified,High,6-10,MA,316
+MORTGAGE,Verified,Upper-Mid,1-2,CA,317
+OWN,Source Verified,Upper-Mid,1-2,CA,318
+RENT,Not Verified,High,6-10,CA,319
+MORTGAGE,Source Verified,High,3-5,NJ,320
+MORTGAGE,Verified,Upper-Mid,1-2,MN,321
+MORTGAGE,Not Verified,Upper-Mid,6-10,GA,322
+RENT,Verified,High,3-5,UT,323
+MORTGAGE,Verified,Low,6-10,VA,324
+RENT,Verified,Low,1-2,WA,325
+MORTGAGE,Verified,High,6-10,TX,326
+OWN,Source Verified,Upper-Mid,6-10,NJ,327
+RENT,Not Verified,Low,1-2,OR,328
+RENT,Not Verified,Lower-Mid,6-10,VA,329
+MORTGAGE,Not Verified,High,6-10,IL,330
+MORTGAGE,Source Verified,Upper-Mid,6-10,FL,331
+MORTGAGE,Source Verified,High,3-5,AZ,332
+OWN,Not Verified,Lower-Mid,6-10,GA,333
+OWN,Not Verified,Upper-Mid,1-2,MI,334
+RENT,Verified,Lower-Mid,1-2,CA,335
+MORTGAGE,Not Verified,Lower-Mid,,MD,336
+RENT,Not Verified,Upper-Mid,0 or less,FL,337
+MORTGAGE,Source Verified,Lower-Mid,6-10,OH,338
+RENT,Not Verified,Lower-Mid,1-2,IN,339
+RENT,Verified,Lower-Mid,3-5,MI,340
+MORTGAGE,Source Verified,Upper-Mid,6-10,MA,341
+MORTGAGE,Not Verified,High,3-5,IL,342
+MORTGAGE,Source Verified,Upper-Mid,6-10,TN,343
+RENT,Not Verified,Low,1-2,AK,344
+OWN,Verified,Lower-Mid,6-10,AL,345
+MORTGAGE,Verified,Low,,OH,346
+RENT,Source Verified,Low,1-2,CO,347
+MORTGAGE,Source Verified,Low,6-10,AL,348
+RENT,Not Verified,Lower-Mid,3-5,NE,349
+RENT,Source Verified,Lower-Mid,1-2,CT,350
+OWN,Verified,Low,6-10,WA,351
+MORTGAGE,Not Verified,High,0 or less,FL,352
+RENT,Not Verified,Lower-Mid,1-2,NJ,353
+RENT,Not Verified,Upper-Mid,3-5,FL,354
+MORTGAGE,Not Verified,High,6-10,FL,355
+OWN,Verified,High,6-10,FL,356
+OWN,Not Verified,Upper-Mid,6-10,GA,357
+MORTGAGE,Not Verified,Upper-Mid,6-10,AZ,358
+OWN,Source Verified,Low,,MI,359
+RENT,Source Verified,Upper-Mid,3-5,VA,360
+RENT,Not Verified,Lower-Mid,0 or less,CA,361
+MORTGAGE,Not Verified,Lower-Mid,0 or less,CO,362
+MORTGAGE,Not Verified,Upper-Mid,3-5,IN,363
+RENT,Source Verified,High,3-5,MA,364
+RENT,Source Verified,Upper-Mid,6-10,NY,365
+RENT,Verified,Low,,MD,366
+RENT,Source Verified,Low,1-2,AZ,367
+RENT,Not Verified,Upper-Mid,1-2,MS,368
+RENT,Source Verified,Low,6-10,AL,369
+MORTGAGE,Source Verified,Lower-Mid,6-10,NC,370
+RENT,Not Verified,High,1-2,MN,371
+MORTGAGE,Not Verified,Upper-Mid,6-10,TX,372
+RENT,Source Verified,Lower-Mid,3-5,CA,373
+RENT,Source Verified,Low,6-10,NY,374
+MORTGAGE,Source Verified,Low,1-2,CT,375
+MORTGAGE,Verified,Low,,IL,376
+MORTGAGE,Verified,Upper-Mid,3-5,GA,377
+MORTGAGE,Verified,Low,6-10,CA,378
+RENT,Verified,Upper-Mid,,CA,379
+MORTGAGE,Source Verified,Low,1-2,GA,380
+RENT,Not Verified,Lower-Mid,,NJ,381
+RENT,Not Verified,Low,3-5,VA,382
+MORTGAGE,Verified,Lower-Mid,6-10,NJ,383
+RENT,Not Verified,Low,0 or less,MI,384
+MORTGAGE,Source Verified,Upper-Mid,6-10,IL,385
+OWN,Source Verified,Upper-Mid,6-10,TN,386
+OWN,Verified,Low,,UT,387
+MORTGAGE,Not Verified,Upper-Mid,6-10,WA,388
+RENT,Not Verified,Low,3-5,AL,389
+RENT,Verified,High,6-10,IL,390
+OWN,Source Verified,Low,6-10,FL,391
+OWN,Not Verified,Low,,LA,392
+RENT,Verified,Low,6-10,MI,393
+MORTGAGE,Verified,Lower-Mid,6-10,CA,394
+OWN,Not Verified,Low,0 or less,MI,395
+RENT,Not Verified,Upper-Mid,1-2,TX,396
+MORTGAGE,Verified,Lower-Mid,6-10,MT,397
+RENT,Source Verified,High,3-5,NY,398
+RENT,Source Verified,Low,3-5,ME,399
+MORTGAGE,Not Verified,Upper-Mid,6-10,OR,400
+RENT,Verified,Upper-Mid,0 or less,GA,401
+RENT,Source Verified,Lower-Mid,0 or less,MD,402
+RENT,Source Verified,Lower-Mid,1-2,PA,403
+MORTGAGE,Source Verified,Lower-Mid,6-10,LA,404
+MORTGAGE,Verified,Upper-Mid,3-5,CA,405
+RENT,Source Verified,Lower-Mid,0 or less,MN,406
+MORTGAGE,Verified,Upper-Mid,6-10,AL,407
+RENT,Not Verified,Upper-Mid,6-10,NY,408
+RENT,Source Verified,High,6-10,LA,409
+MORTGAGE,Not Verified,Low,6-10,WI,410
+RENT,Verified,Low,3-5,IL,411
+RENT,Source Verified,Low,,CA,412
+MORTGAGE,Not Verified,Upper-Mid,3-5,NV,413
+OWN,Verified,Upper-Mid,6-10,LA,414
+MORTGAGE,Not Verified,Upper-Mid,6-10,CT,415
+MORTGAGE,Not Verified,Low,6-10,WA,416
+RENT,Verified,Upper-Mid,3-5,CO,417
+RENT,Source Verified,Low,1-2,OR,418
+RENT,Verified,Upper-Mid,,AZ,419
+RENT,Source Verified,High,1-2,NJ,420
+MORTGAGE,Not Verified,Upper-Mid,3-5,FL,421
+RENT,Not Verified,Lower-Mid,6-10,WI,422
+RENT,Source Verified,Low,1-2,MI,423
+OWN,Not Verified,Low,1-2,AR,424
+RENT,Not Verified,Low,0 or less,CA,425
+MORTGAGE,Verified,Low,1-2,AZ,426
+RENT,Not Verified,Upper-Mid,6-10,NC,427
+RENT,Source Verified,Upper-Mid,1-2,FL,428
+MORTGAGE,Source Verified,Low,,IL,429
+MORTGAGE,Source Verified,High,6-10,FL,430
+RENT,Not Verified,Upper-Mid,6-10,CO,431
+MORTGAGE,Source Verified,Lower-Mid,6-10,IN,432
+MORTGAGE,Not Verified,Lower-Mid,3-5,CT,433
+MORTGAGE,Verified,Low,6-10,AR,434
+MORTGAGE,Source Verified,Upper-Mid,6-10,AK,435
+MORTGAGE,Source Verified,High,6-10,PA,436
+OWN,Not Verified,High,1-2,TN,437
+OWN,Not Verified,Lower-Mid,6-10,FL,438
+MORTGAGE,Source Verified,Low,6-10,IN,439
+OWN,Not Verified,Low,6-10,OH,440
+RENT,Verified,Low,1-2,NY,441
+MORTGAGE,Not Verified,Low,3-5,SC,442
+MORTGAGE,Source Verified,Upper-Mid,6-10,MI,443
+MORTGAGE,Verified,Lower-Mid,3-5,MN,444
+RENT,Not Verified,Lower-Mid,6-10,AR,445
+MORTGAGE,Source Verified,Upper-Mid,1-2,MD,446
+MORTGAGE,Not Verified,Upper-Mid,6-10,VA,447
+RENT,Source Verified,Upper-Mid,3-5,NJ,448
+RENT,Not Verified,Upper-Mid,3-5,CT,449
+MORTGAGE,Not Verified,Upper-Mid,6-10,UT,450
+MORTGAGE,Source Verified,Lower-Mid,6-10,SC,451
+RENT,Not Verified,Lower-Mid,3-5,CA,452
+MORTGAGE,Source Verified,Low,1-2,WA,453
+MORTGAGE,Verified,Low,3-5,CT,454
+MORTGAGE,Not Verified,Upper-Mid,6-10,OH,455
+RENT,Source Verified,Lower-Mid,3-5,NC,456
+OWN,Not Verified,Low,,OH,457
+OWN,Source Verified,Upper-Mid,3-5,LA,458
+MORTGAGE,Verified,Low,6-10,CO,459
+RENT,Not Verified,Lower-Mid,1-2,NY,460
+RENT,Verified,Lower-Mid,3-5,AL,461
+RENT,Verified,Low,3-5,MD,462
+RENT,Source Verified,High,3-5,IL,463
+MORTGAGE,Verified,Low,1-2,OK,464
+RENT,Not Verified,Low,,CA,465
+OWN,Source Verified,High,6-10,MD,466
+MORTGAGE,Verified,Low,6-10,MI,467
+RENT,Source Verified,Upper-Mid,3-5,OK,468
+MORTGAGE,Source Verified,High,3-5,FL,469
+RENT,Source Verified,Lower-Mid,1-2,NJ,470
+RENT,Not Verified,Lower-Mid,6-10,KS,471
+RENT,Verified,Upper-Mid,6-10,TX,472
+MORTGAGE,Verified,Lower-Mid,6-10,NY,473
+MORTGAGE,Source Verified,High,6-10,NJ,474
+OWN,Not Verified,Upper-Mid,,CA,475
+OWN,Verified,Upper-Mid,6-10,FL,476
+RENT,Source Verified,Upper-Mid,3-5,NY,477
+RENT,Source Verified,High,3-5,VA,478
+MORTGAGE,Verified,High,1-2,OR,479
+MORTGAGE,Not Verified,High,1-2,NC,480
+RENT,Verified,Lower-Mid,6-10,NY,481
+MORTGAGE,Verified,High,6-10,OH,482
+OWN,Source Verified,Low,1-2,WI,483
+OWN,Not Verified,Lower-Mid,3-5,KY,484
+OWN,Source Verified,High,6-10,NY,485
+OWN,Not Verified,High,6-10,NY,486
+RENT,Source Verified,High,3-5,OH,487
+MORTGAGE,Source Verified,Lower-Mid,6-10,CT,488
+OWN,Source Verified,Low,,MS,489
+MORTGAGE,Not Verified,Lower-Mid,1-2,WA,490
+MORTGAGE,Not Verified,Upper-Mid,6-10,NY,491
+RENT,Verified,Low,6-10,MS,492
+MORTGAGE,Not Verified,High,1-2,CA,493
+MORTGAGE,Not Verified,Low,3-5,AK,494
+MORTGAGE,Verified,High,0 or less,SC,495
+RENT,Source Verified,Low,1-2,NJ,496
+MORTGAGE,Verified,Lower-Mid,3-5,CA,497
+RENT,Source Verified,Lower-Mid,0 or less,GA,498
+RENT,Source Verified,High,6-10,GA,499
+MORTGAGE,Not Verified,Upper-Mid,0 or less,MI,500
+MORTGAGE,Verified,High,6-10,TN,501
+MORTGAGE,Not Verified,Low,,GA,502
+RENT,Verified,Lower-Mid,6-10,TX,503
+RENT,Source Verified,Lower-Mid,6-10,NY,504
+OWN,Not Verified,Low,3-5,OH,505
+MORTGAGE,Source Verified,Upper-Mid,3-5,WA,506
+RENT,Source Verified,Lower-Mid,3-5,MN,507
+OWN,Source Verified,Low,1-2,NY,508
+MORTGAGE,Not Verified,High,3-5,OH,509
+RENT,Not Verified,Lower-Mid,6-10,MA,510
+MORTGAGE,Source Verified,Lower-Mid,3-5,FL,511
+RENT,Source Verified,High,6-10,VA,512
+OWN,Not Verified,High,6-10,KY,513
+RENT,Source Verified,Lower-Mid,3-5,OH,514
+RENT,Not Verified,Upper-Mid,1-2,CA,515
+OWN,Source Verified,High,3-5,PA,516
+RENT,Not Verified,Low,,MS,517
+RENT,Verified,High,6-10,TX,518
+OWN,Source Verified,Lower-Mid,1-2,LA,519
+MORTGAGE,Not Verified,High,6-10,AZ,520
+RENT,Verified,Upper-Mid,6-10,FL,521
+MORTGAGE,Source Verified,Upper-Mid,6-10,IN,522
+RENT,Not Verified,Lower-Mid,1-2,NC,523
+MORTGAGE,Verified,Upper-Mid,1-2,NJ,524
+MORTGAGE,Verified,Low,3-5,FL,525
+MORTGAGE,Source Verified,Upper-Mid,1-2,RI,526
+OWN,Not Verified,High,6-10,TX,527
+RENT,Not Verified,High,1-2,WA,528
+RENT,Verified,Low,3-5,CA,529
+RENT,Not Verified,Upper-Mid,0 or less,NJ,530
+RENT,Not Verified,Upper-Mid,1-2,IL,531
+MORTGAGE,Verified,Upper-Mid,3-5,MN,532
+MORTGAGE,Verified,Low,6-10,NY,533
+MORTGAGE,Not Verified,Upper-Mid,6-10,KS,534
+RENT,Not Verified,Upper-Mid,0 or less,NC,535
+MORTGAGE,Verified,Low,3-5,TX,536
+MORTGAGE,Source Verified,Lower-Mid,6-10,NE,537
+MORTGAGE,Not Verified,Upper-Mid,3-5,CA,538
+OWN,Not Verified,Low,6-10,LA,539
+RENT,Verified,Low,6-10,MO,540
+OWN,Not Verified,High,6-10,NJ,541
+MORTGAGE,Source Verified,High,3-5,PA,542
+MORTGAGE,Source Verified,High,6-10,OH,543
+RENT,Verified,Low,,CA,544
+MORTGAGE,Verified,High,6-10,NJ,545
+RENT,Not Verified,Low,,AZ,546
+OWN,Not Verified,Upper-Mid,6-10,MA,547
+OWN,Source Verified,Upper-Mid,3-5,GA,548
+MORTGAGE,Not Verified,Lower-Mid,3-5,GA,549
+MORTGAGE,Not Verified,High,6-10,WV,550
+OWN,Not Verified,High,1-2,IL,551
+MORTGAGE,Not Verified,Low,0 or less,CO,552
+OWN,Source Verified,Upper-Mid,,OR,553
+MORTGAGE,Verified,Upper-Mid,6-10,FL,554
+RENT,Source Verified,High,3-5,ND,555
+RENT,Source Verified,Lower-Mid,6-10,TX,556
+MORTGAGE,Source Verified,High,6-10,MD,557
+MORTGAGE,Source Verified,Lower-Mid,3-5,WI,558
+RENT,Not Verified,Lower-Mid,1-2,TX,559
+MORTGAGE,Not Verified,High,6-10,IN,560
+MORTGAGE,Not Verified,High,6-10,VA,561
+OWN,Not Verified,High,6-10,CO,562
+RENT,Source Verified,Low,0 or less,TX,563
+RENT,Not Verified,Upper-Mid,1-2,MA,564
+MORTGAGE,Verified,Lower-Mid,6-10,IL,565
+MORTGAGE,Source Verified,Upper-Mid,3-5,IN,566
+RENT,Verified,Lower-Mid,1-2,IL,567
+RENT,Source Verified,Low,3-5,NM,568
+RENT,Source Verified,Lower-Mid,1-2,NV,569
+RENT,Not Verified,High,1-2,NY,570
+MORTGAGE,Source Verified,Upper-Mid,1-2,SC,571
+MORTGAGE,Not Verified,Upper-Mid,1-2,VA,572
+MORTGAGE,Source Verified,Low,1-2,UT,573
+RENT,Verified,High,3-5,CA,574
+RENT,Source Verified,Low,1-2,MT,575
+MORTGAGE,Source Verified,Lower-Mid,3-5,NY,576
+RENT,Not Verified,Lower-Mid,6-10,CA,577
+MORTGAGE,Source Verified,Lower-Mid,6-10,MN,578
+MORTGAGE,Source Verified,High,6-10,CO,579
+RENT,Source Verified,Lower-Mid,6-10,AL,580
+RENT,Source Verified,Lower-Mid,1-2,MI,581
+OWN,Source Verified,Upper-Mid,6-10,GA,582
+MORTGAGE,Source Verified,High,3-5,GA,583
+MORTGAGE,Source Verified,Lower-Mid,0 or less,WI,584
+MORTGAGE,Not Verified,Lower-Mid,0 or less,WA,585
+OWN,Not Verified,Low,,NY,586
+MORTGAGE,Not Verified,Low,1-2,PA,587
+MORTGAGE,Not Verified,High,6-10,TX,588
+RENT,Not Verified,Lower-Mid,3-5,PA,589
+RENT,Source Verified,Lower-Mid,6-10,FL,590
+MORTGAGE,Verified,High,3-5,MN,591
+RENT,Source Verified,High,1-2,MA,592
+RENT,Not Verified,Upper-Mid,6-10,WI,593
+RENT,Source Verified,Upper-Mid,6-10,MD,594
+OWN,Source Verified,Lower-Mid,6-10,MI,595
+OWN,Source Verified,Upper-Mid,6-10,SC,596
+RENT,Source Verified,Upper-Mid,3-5,CO,597
+MORTGAGE,Source Verified,Upper-Mid,6-10,MO,598
+OWN,Source Verified,High,0 or less,AZ,599
+MORTGAGE,Not Verified,Lower-Mid,6-10,IL,600
+MORTGAGE,Verified,Low,3-5,SC,601
+RENT,Source Verified,Upper-Mid,6-10,CT,602
+RENT,Source Verified,Upper-Mid,3-5,MT,603
+RENT,Source Verified,High,6-10,OR,604
+RENT,Source Verified,Upper-Mid,1-2,CA,605
+MORTGAGE,Source Verified,Lower-Mid,6-10,MO,606
+RENT,Not Verified,Lower-Mid,1-2,MA,607
+MORTGAGE,Source Verified,Low,3-5,GA,608
+RENT,Source Verified,Upper-Mid,6-10,HI,609
+OWN,Not Verified,Lower-Mid,3-5,MA,610
+RENT,Not Verified,Upper-Mid,6-10,IL,611
+OWN,Source Verified,Low,1-2,FL,612
+MORTGAGE,Not Verified,Lower-Mid,6-10,SC,613
+RENT,Verified,Low,,NJ,614
+MORTGAGE,Not Verified,High,6-10,OH,615
+MORTGAGE,Not Verified,Lower-Mid,1-2,MN,616
+MORTGAGE,Source Verified,High,1-2,AZ,617
+RENT,Not Verified,Upper-Mid,3-5,WA,618
+RENT,Source Verified,Lower-Mid,1-2,MN,619
+OWN,Source Verified,Lower-Mid,6-10,NM,620
+RENT,Verified,Upper-Mid,3-5,OR,621
+RENT,Verified,Low,1-2,AZ,622
+MORTGAGE,Verified,Upper-Mid,3-5,ME,623
+MORTGAGE,Source Verified,Upper-Mid,6-10,OH,624
+MORTGAGE,Source Verified,Upper-Mid,3-5,TN,625
+MORTGAGE,Not Verified,Lower-Mid,1-2,NC,626
+MORTGAGE,Not Verified,Upper-Mid,,NY,627
+MORTGAGE,Source Verified,Upper-Mid,1-2,IN,628
+MORTGAGE,Not Verified,Low,6-10,HI,629
+RENT,Source Verified,High,1-2,LA,630
+RENT,Source Verified,Low,6-10,CO,631
+MORTGAGE,Source Verified,Upper-Mid,6-10,AR,632
+MORTGAGE,Verified,Upper-Mid,6-10,WA,633
+MORTGAGE,Not Verified,Lower-Mid,0 or less,IL,634
+OWN,Source Verified,Lower-Mid,3-5,OH,635
+RENT,Verified,High,3-5,CO,636
+MORTGAGE,Not Verified,Lower-Mid,6-10,KS,637
+MORTGAGE,Not Verified,Lower-Mid,6-10,CA,638
+RENT,Not Verified,Low,3-5,CA,639
+RENT,Source Verified,Lower-Mid,6-10,HI,640
+RENT,Not Verified,High,6-10,MA,641
+MORTGAGE,Not Verified,High,1-2,NE,642
+RENT,Source Verified,Lower-Mid,0 or less,AZ,643
+MORTGAGE,Not Verified,Low,3-5,TX,644
+MORTGAGE,Source Verified,Lower-Mid,1-2,AZ,645
+RENT,Not Verified,Lower-Mid,1-2,CT,646
+OWN,Not Verified,High,3-5,WI,647
+OWN,Source Verified,Low,,WA,648
+MORTGAGE,Source Verified,Lower-Mid,1-2,NY,649
+RENT,Not Verified,Low,,OH,650
+OWN,Not Verified,Upper-Mid,3-5,CA,651
+OWN,Verified,Low,,FL,652
+RENT,Not Verified,Lower-Mid,1-2,MD,653
+MORTGAGE,Verified,High,6-10,CA,654
+OWN,Source Verified,Low,1-2,GA,655
+OWN,Verified,Lower-Mid,3-5,CO,656
+OWN,Source Verified,Upper-Mid,3-5,TX,657
+MORTGAGE,Source Verified,Low,6-10,MS,658
+MORTGAGE,Not Verified,High,3-5,IN,659
+MORTGAGE,Verified,High,6-10,PA,660
+MORTGAGE,Not Verified,Low,,OH,661
+RENT,Verified,Low,,WI,662
+MORTGAGE,Verified,Upper-Mid,6-10,TX,663
+RENT,Not Verified,Low,1-2,DC,664
+RENT,Not Verified,Low,6-10,IL,665
+RENT,Not Verified,High,0 or less,MO,666
+RENT,Not Verified,Lower-Mid,6-10,PA,667
+RENT,Not Verified,Upper-Mid,3-5,NY,668
+MORTGAGE,Source Verified,Lower-Mid,3-5,CO,669
+RENT,Verified,Lower-Mid,,CA,670
+MORTGAGE,Not Verified,Low,0 or less,FL,671
+MORTGAGE,Source Verified,Lower-Mid,3-5,ID,672
+RENT,Source Verified,Lower-Mid,1-2,IL,673
+MORTGAGE,Not Verified,Lower-Mid,1-2,OR,674
+MORTGAGE,Not Verified,Lower-Mid,3-5,WI,675
+MORTGAGE,Verified,Low,3-5,NJ,676
+OWN,Source Verified,Upper-Mid,3-5,IL,677
+RENT,Source Verified,Upper-Mid,6-10,NJ,678
+MORTGAGE,Not Verified,Low,3-5,FL,679
+RENT,Not Verified,Low,,NJ,680
+RENT,Source Verified,Upper-Mid,3-5,OH,681
+MORTGAGE,Verified,High,6-10,NE,682
+OWN,Source Verified,Low,6-10,OK,683
+MORTGAGE,Source Verified,Low,6-10,WA,684
+RENT,Source Verified,High,0 or less,PA,685
+MORTGAGE,Not Verified,Lower-Mid,3-5,CO,686
+MORTGAGE,Source Verified,Lower-Mid,1-2,LA,687
+MORTGAGE,Verified,Low,1-2,PA,688
+MORTGAGE,Source Verified,Lower-Mid,1-2,DC,689
+RENT,Verified,Lower-Mid,,VA,690
+MORTGAGE,Not Verified,Low,3-5,PA,691
+MORTGAGE,Verified,Low,0 or less,VA,692
+RENT,Not Verified,Lower-Mid,1-2,VA,693
+MORTGAGE,Source Verified,Upper-Mid,6-10,AZ,694
+MORTGAGE,Source Verified,Upper-Mid,6-10,NH,695
+MORTGAGE,Verified,Low,6-10,NV,696
+MORTGAGE,Source Verified,High,3-5,KY,697
+RENT,Source Verified,High,6-10,IL,698
+OWN,Not Verified,Low,3-5,KS,699
+MORTGAGE,Not Verified,High,6-10,MS,700
+RENT,Verified,Upper-Mid,6-10,SC,701
+OWN,Source Verified,Upper-Mid,6-10,KS,702
+OWN,Source Verified,Upper-Mid,1-2,MI,703
+OWN,Not Verified,Low,3-5,NH,704
+MORTGAGE,Source Verified,Upper-Mid,6-10,LA,705
+OWN,Source Verified,Low,6-10,TX,706
+RENT,Not Verified,Low,0 or less,MO,707
+OWN,Source Verified,High,0 or less,CA,708
+OWN,Source Verified,Low,3-5,WV,709
+MORTGAGE,Source Verified,Lower-Mid,1-2,AL,710
+OWN,Not Verified,Lower-Mid,3-5,IN,711
+RENT,Verified,Low,3-5,FL,712
+MORTGAGE,Not Verified,High,0 or less,CO,713
+OWN,Source Verified,High,6-10,TX,714
+RENT,Not Verified,Low,3-5,AZ,715
+MORTGAGE,Verified,Low,3-5,AR,716
+OWN,Source Verified,Low,3-5,OR,717
+OWN,Source Verified,Low,6-10,IL,718
+RENT,Source Verified,Low,,VA,719
+OWN,Not Verified,Upper-Mid,,IL,720
+MORTGAGE,Verified,High,6-10,NV,721
+OWN,Not Verified,Lower-Mid,,CA,722
+MORTGAGE,Source Verified,Lower-Mid,3-5,OH,723
+MORTGAGE,Source Verified,High,1-2,OK,724
+RENT,Source Verified,Low,0 or less,CA,725
+MORTGAGE,Not Verified,High,0 or less,OH,726
+MORTGAGE,Source Verified,High,6-10,OR,727
+RENT,Not Verified,High,1-2,MD,728
+OWN,Source Verified,Upper-Mid,3-5,AZ,729
+RENT,Source Verified,Lower-Mid,6-10,IL,730
+RENT,Not Verified,Upper-Mid,6-10,WY,731
+MORTGAGE,Verified,Upper-Mid,6-10,NC,732
+RENT,Not Verified,Low,1-2,AZ,733
+OWN,Source Verified,Low,1-2,KS,734
+RENT,Source Verified,Lower-Mid,6-10,AZ,735
+MORTGAGE,Not Verified,High,3-5,AR,736
+MORTGAGE,Source Verified,High,3-5,MA,737
+MORTGAGE,Source Verified,Upper-Mid,0 or less,WA,738
+MORTGAGE,Not Verified,Low,3-5,IN,739
+RENT,Verified,Lower-Mid,3-5,GA,740
+RENT,Source Verified,Lower-Mid,0 or less,NC,741
+RENT,Verified,Upper-Mid,6-10,LA,742
+RENT,Source Verified,Lower-Mid,3-5,NH,743
+RENT,Not Verified,,,IN,744
+MORTGAGE,Not Verified,Upper-Mid,3-5,MN,745
+OWN,Not Verified,Lower-Mid,6-10,TX,746
+OWN,Not Verified,Upper-Mid,0 or less,CO,747
+RENT,Verified,Lower-Mid,1-2,MO,748
+OWN,Source Verified,Low,6-10,MO,749
+RENT,Verified,Low,1-2,HI,750
+MORTGAGE,Not Verified,Upper-Mid,6-10,MD,751
+RENT,Not Verified,Lower-Mid,6-10,OR,752
+RENT,Source Verified,Upper-Mid,6-10,LA,753
+RENT,Source Verified,Low,3-5,NC,754
+RENT,Not Verified,Lower-Mid,1-2,TN,755
+MORTGAGE,Verified,Lower-Mid,3-5,IL,756
+MORTGAGE,Source Verified,Upper-Mid,0 or less,MI,757
+RENT,Not Verified,Low,3-5,NV,758
+MORTGAGE,Source Verified,Lower-Mid,6-10,NH,759
+RENT,Verified,Low,3-5,TX,760
+MORTGAGE,Not Verified,Lower-Mid,6-10,IN,761
+MORTGAGE,Source Verified,Low,6-10,NC,762
+RENT,Not Verified,Upper-Mid,1-2,TN,763
+RENT,Not Verified,Lower-Mid,6-10,WA,764
+MORTGAGE,Source Verified,High,6-10,VA,765
+MORTGAGE,Verified,Lower-Mid,6-10,AL,766
+MORTGAGE,Not Verified,High,6-10,MA,767
+MORTGAGE,Not Verified,Low,6-10,GA,768
+MORTGAGE,Not Verified,Lower-Mid,1-2,CA,769
+OWN,Verified,Low,3-5,SC,770
+MORTGAGE,Not Verified,Low,3-5,NJ,771
+RENT,Not Verified,Upper-Mid,1-2,VA,772
+MORTGAGE,Source Verified,Lower-Mid,6-10,KY,773
+OWN,Verified,Low,1-2,IN,774
+RENT,Not Verified,High,1-2,FL,775
+MORTGAGE,Not Verified,Lower-Mid,6-10,GA,776
+OWN,Not Verified,Upper-Mid,6-10,VA,777
+RENT,Verified,Upper-Mid,1-2,DC,778
+RENT,Verified,High,6-10,UT,779
+RENT,Source Verified,Lower-Mid,6-10,AR,780
+MORTGAGE,Not Verified,Lower-Mid,3-5,NE,781
+OWN,Verified,Lower-Mid,0 or less,NJ,782
+RENT,Not Verified,Upper-Mid,6-10,MD,783
+RENT,Not Verified,Low,3-5,OH,784
+MORTGAGE,Source Verified,High,3-5,CO,785
+MORTGAGE,Source Verified,High,6-10,GA,786
+RENT,Not Verified,Upper-Mid,6-10,FL,787
+MORTGAGE,Not Verified,Upper-Mid,,MI,788
+MORTGAGE,Verified,High,1-2,CA,789
+MORTGAGE,Verified,Lower-Mid,3-5,TX,790
+MORTGAGE,Verified,High,6-10,MI,791
+OWN,Verified,Upper-Mid,6-10,NC,792
+MORTGAGE,Source Verified,High,1-2,MA,793
+RENT,Verified,Lower-Mid,6-10,FL,794
+MORTGAGE,Verified,Low,1-2,CT,795
+MORTGAGE,Not Verified,Lower-Mid,1-2,TN,796
+MORTGAGE,Not Verified,Upper-Mid,6-10,CO,797
+OWN,Not Verified,Upper-Mid,3-5,ME,798
+RENT,Verified,Lower-Mid,1-2,NY,799
+RENT,Source Verified,High,0 or less,FL,800
+RENT,Not Verified,Low,1-2,FL,801
+MORTGAGE,Not Verified,Upper-Mid,0 or less,IL,802
+MORTGAGE,Source Verified,High,3-5,MD,803
+RENT,Not Verified,Lower-Mid,3-5,MA,804
+OWN,Source Verified,Low,6-10,WV,805
+RENT,Source Verified,Low,1-2,FL,806
+MORTGAGE,Source Verified,Low,6-10,CO,807
+MORTGAGE,Verified,Lower-Mid,1-2,NY,808
+MORTGAGE,Verified,Lower-Mid,6-10,IN,809
+RENT,Source Verified,Low,6-10,VA,810
+RENT,Source Verified,Lower-Mid,,CA,811
+MORTGAGE,Source Verified,High,6-10,OK,812
+RENT,Verified,Low,3-5,PA,813
+OWN,Source Verified,Lower-Mid,0 or less,MI,814
+RENT,Not Verified,Lower-Mid,1-2,WV,815
+MORTGAGE,Source Verified,Lower-Mid,6-10,TN,816
+MORTGAGE,Source Verified,Low,3-5,NV,817
+RENT,Verified,Lower-Mid,3-5,WA,818
+MORTGAGE,Verified,Lower-Mid,6-10,TN,819
+OWN,Not Verified,Lower-Mid,6-10,MO,820
+OWN,Not Verified,High,3-5,GA,821
+RENT,Not Verified,High,1-2,TX,822
+RENT,Source Verified,Upper-Mid,1-2,TX,823
+RENT,Source Verified,Lower-Mid,1-2,MA,824
+OWN,Source Verified,High,6-10,MN,825
+MORTGAGE,Source Verified,Lower-Mid,3-5,RI,826
+RENT,Source Verified,Low,,FL,827
+MORTGAGE,Source Verified,Lower-Mid,6-10,KS,828
+OWN,Verified,Low,0 or less,TN,829
+OWN,Verified,Lower-Mid,6-10,NY,830
+MORTGAGE,Source Verified,High,1-2,ID,831
+RENT,Source Verified,Upper-Mid,1-2,UT,832
+MORTGAGE,Not Verified,Upper-Mid,1-2,CO,833
+OWN,Source Verified,Low,3-5,CA,834
+MORTGAGE,Source Verified,High,1-2,SC,835
+RENT,Not Verified,Lower-Mid,1-2,LA,836
+OWN,Not Verified,High,6-10,CA,837
+RENT,Not Verified,Upper-Mid,6-10,NV,838
+RENT,Verified,Upper-Mid,1-2,TX,839
+RENT,Source Verified,Lower-Mid,6-10,KS,840
+RENT,Source Verified,Upper-Mid,1-2,NY,841
+RENT,Source Verified,Lower-Mid,6-10,NJ,842
+RENT,Source Verified,Lower-Mid,0 or less,VA,843
+RENT,Not Verified,Low,,IN,844
+RENT,Source Verified,Upper-Mid,6-10,IL,845
+MORTGAGE,Verified,Upper-Mid,6-10,OH,846
+RENT,Not Verified,Low,6-10,OK,847
+MORTGAGE,Verified,Low,6-10,IL,848
+RENT,Source Verified,High,0 or less,CA,849
+RENT,Not Verified,Lower-Mid,3-5,CO,850
+OWN,Source Verified,Low,6-10,OH,851
+MORTGAGE,Verified,Low,3-5,WI,852
+MORTGAGE,Verified,Low,6-10,MO,853
+MORTGAGE,Not Verified,Upper-Mid,3-5,MA,854
+RENT,Verified,Low,3-5,CO,855
+RENT,Not Verified,Low,3-5,NE,856
+RENT,Verified,Low,6-10,NV,857
+MORTGAGE,Source Verified,High,6-10,VT,858
+RENT,Source Verified,Low,0 or less,MD,859
+RENT,Verified,Lower-Mid,1-2,WA,860
+MORTGAGE,Verified,Upper-Mid,,CA,861
+MORTGAGE,Verified,High,,SC,862
+MORTGAGE,Verified,Upper-Mid,6-10,GA,863
+RENT,Verified,Upper-Mid,6-10,NY,864
+RENT,Not Verified,Lower-Mid,6-10,MI,865
+RENT,Source Verified,Low,3-5,WA,866
+RENT,Not Verified,Low,6-10,VA,867
+MORTGAGE,Source Verified,High,,SC,868
+RENT,Not Verified,Upper-Mid,3-5,VA,869
+MORTGAGE,Verified,High,6-10,CO,870
+RENT,Not Verified,Low,3-5,TX,871
+RENT,Source Verified,Low,3-5,PA,872
+MORTGAGE,Source Verified,High,1-2,MD,873
+RENT,Verified,Low,6-10,MN,874
+OWN,Not Verified,Lower-Mid,6-10,KY,875
+MORTGAGE,Source Verified,Upper-Mid,1-2,ID,876
+MORTGAGE,Not Verified,Low,6-10,MA,877
+RENT,Not Verified,High,0 or less,TX,878
+RENT,Not Verified,Low,,GA,879
+MORTGAGE,Verified,Lower-Mid,6-10,MN,880
+MORTGAGE,Not Verified,Low,3-5,NV,881
+RENT,Not Verified,Lower-Mid,,MO,882
+MORTGAGE,Source Verified,High,1-2,FL,883
+RENT,Verified,Low,1-2,MA,884
+RENT,Not Verified,Lower-Mid,0 or less,MO,885
+RENT,Verified,Low,0 or less,CA,886
+OWN,Source Verified,Low,,GA,887
+MORTGAGE,Not Verified,Low,6-10,VA,888
+OWN,Source Verified,Upper-Mid,1-2,AL,889
+MORTGAGE,Verified,Upper-Mid,3-5,MA,890
+RENT,Source Verified,Low,1-2,OH,891
+OWN,Not Verified,Lower-Mid,,GA,892
+MORTGAGE,Source Verified,Low,1-2,SC,893
+RENT,Verified,Lower-Mid,6-10,WI,894
+OWN,Verified,Low,3-5,TX,895
+RENT,Not Verified,Lower-Mid,,AR,896
+OWN,Not Verified,Low,6-10,AR,897
+RENT,Source Verified,Low,6-10,MA,898
+MORTGAGE,Not Verified,High,3-5,PA,899
+MORTGAGE,Source Verified,High,6-10,IN,900
+MORTGAGE,Not Verified,High,,WV,901
+MORTGAGE,Source Verified,Lower-Mid,3-5,IN,902
+RENT,Source Verified,Lower-Mid,6-10,CO,903
+RENT,Source Verified,Upper-Mid,3-5,SC,904
+RENT,Source Verified,Lower-Mid,3-5,VA,905
+MORTGAGE,Source Verified,Upper-Mid,6-10,KS,906
+OWN,Source Verified,Upper-Mid,3-5,TN,907
+MORTGAGE,Source Verified,Lower-Mid,6-10,ND,908
+MORTGAGE,Source Verified,High,3-5,NC,909
+RENT,Verified,Low,,CO,910
+MORTGAGE,Source Verified,Upper-Mid,1-2,IL,911
+MORTGAGE,Source Verified,High,3-5,NV,912
+OWN,Verified,Low,6-10,OH,913
+OWN,Not Verified,Upper-Mid,3-5,MD,914
+OWN,Source Verified,Upper-Mid,0 or less,NH,915
+RENT,Source Verified,Upper-Mid,0 or less,TX,916
+RENT,Verified,Upper-Mid,3-5,NJ,917
+MORTGAGE,Source Verified,High,3-5,AL,918
+MORTGAGE,Not Verified,Lower-Mid,3-5,OH,919
+MORTGAGE,Not Verified,High,1-2,OH,920
+MORTGAGE,Not Verified,Upper-Mid,,MO,921
+RENT,Not Verified,Low,,WA,922
+RENT,Verified,High,0 or less,CA,923
+OWN,Verified,Upper-Mid,,ID,924
+MORTGAGE,Source Verified,Low,6-10,CA,925
+MORTGAGE,Verified,Upper-Mid,,GA,926
+MORTGAGE,Not Verified,Upper-Mid,,MD,927
+RENT,Not Verified,Low,1-2,KS,928
+OWN,Source Verified,Low,,NE,929
+RENT,Source Verified,Low,,NC,930
+MORTGAGE,Not Verified,,,OK,931
+MORTGAGE,Source Verified,Low,6-10,MA,932
+MORTGAGE,Verified,Lower-Mid,,MI,933
+OWN,Not Verified,High,0 or less,RI,934
+MORTGAGE,Not Verified,High,3-5,WA,935
+RENT,Not Verified,Low,6-10,UT,936
+RENT,Not Verified,Low,6-10,CA,937
+MORTGAGE,Not Verified,High,6-10,SC,938
+RENT,Verified,Lower-Mid,3-5,IN,939
+RENT,Verified,Upper-Mid,6-10,WA,940
+RENT,Not Verified,Low,0 or less,CT,941
+RENT,Source Verified,Upper-Mid,1-2,DE,942
+RENT,Source Verified,Upper-Mid,3-5,FL,943
+OWN,Verified,Low,3-5,KY,944
+MORTGAGE,Source Verified,Lower-Mid,3-5,GA,945
+MORTGAGE,Not Verified,Upper-Mid,,TX,946
+MORTGAGE,Source Verified,Upper-Mid,6-10,VA,947
+RENT,Not Verified,High,6-10,NV,948
+MORTGAGE,Not Verified,Upper-Mid,1-2,MA,949
+RENT,Source Verified,High,6-10,MN,950
+RENT,Source Verified,Low,3-5,MD,951
+RENT,Not Verified,Upper-Mid,6-10,PA,952
+RENT,Not Verified,Low,3-5,MI,953
+OWN,Source Verified,Low,6-10,GA,954
+RENT,Source Verified,Low,6-10,CT,955
+RENT,Source Verified,Lower-Mid,6-10,CA,956
+RENT,Not Verified,High,3-5,NC,957
+MORTGAGE,Verified,Upper-Mid,6-10,OK,958
+RENT,Source Verified,Low,1-2,AR,959
+OWN,Not Verified,Low,,PA,960
+RENT,Verified,Upper-Mid,1-2,AZ,961
+MORTGAGE,Not Verified,Lower-Mid,6-10,WI,962
+MORTGAGE,Verified,Low,,AZ,963
+RENT,Verified,Low,3-5,NV,964
+MORTGAGE,Verified,Low,6-10,GA,965
+RENT,Not Verified,Low,1-2,NV,966
+MORTGAGE,Verified,High,6-10,AL,967
+RENT,Not Verified,Low,3-5,MO,968
+MORTGAGE,Source Verified,Lower-Mid,1-2,FL,969
+MORTGAGE,Not Verified,Lower-Mid,1-2,CO,970
+RENT,Source Verified,Lower-Mid,6-10,GA,971
+RENT,Not Verified,Low,3-5,KS,972
+MORTGAGE,Source Verified,High,6-10,MS,973
+OWN,Source Verified,Upper-Mid,6-10,WY,974
+RENT,Verified,Lower-Mid,6-10,OR,975
+OWN,Not Verified,Lower-Mid,3-5,TX,976
+OWN,Source Verified,High,6-10,CA,977
+MORTGAGE,Not Verified,,,WA,978
+MORTGAGE,Verified,Upper-Mid,3-5,TN,979
+MORTGAGE,Source Verified,Low,3-5,OH,980
+OWN,Source Verified,Lower-Mid,1-2,CA,981
+OWN,Not Verified,Upper-Mid,6-10,WI,982
+MORTGAGE,Verified,Lower-Mid,3-5,IN,983
+RENT,Source Verified,Lower-Mid,3-5,GA,984
+MORTGAGE,Not Verified,High,0 or less,NC,985
+MORTGAGE,Source Verified,High,0 or less,MI,986
+MORTGAGE,Verified,High,1-2,IN,987
+MORTGAGE,Not Verified,Upper-Mid,1-2,AL,988
+RENT,Not Verified,Upper-Mid,1-2,WA,989
+OWN,Source Verified,Low,1-2,IN,990
+MORTGAGE,Not Verified,Lower-Mid,6-10,NY,991
+MORTGAGE,Verified,Upper-Mid,6-10,OR,992
+MORTGAGE,Source Verified,Lower-Mid,1-2,WA,993
+RENT,Not Verified,Low,0 or less,NV,994
+MORTGAGE,Not Verified,High,6-10,CO,995
+RENT,Source Verified,Lower-Mid,3-5,PA,996
+MORTGAGE,Verified,Lower-Mid,1-2,IN,997
+MORTGAGE,Verified,Upper-Mid,1-2,TX,998
+RENT,Verified,High,1-2,MA,999
+MORTGAGE,Source Verified,Upper-Mid,3-5,MD,1000
+MORTGAGE,Source Verified,Lower-Mid,6-10,AZ,1001
+MORTGAGE,Source Verified,Upper-Mid,0 or less,VA,1002
+MORTGAGE,Source Verified,Lower-Mid,6-10,TX,1003
+MORTGAGE,Verified,High,3-5,FL,1004
+RENT,Verified,Lower-Mid,6-10,ND,1005
+MORTGAGE,Source Verified,High,,TX,1006
+RENT,Source Verified,Low,0 or less,NY,1007
+MORTGAGE,Not Verified,Low,0 or less,TN,1008
+RENT,Source Verified,Lower-Mid,3-5,TX,1009
+RENT,Source Verified,Upper-Mid,6-10,GA,1010
+MORTGAGE,Verified,Upper-Mid,1-2,GA,1011
+MORTGAGE,Source Verified,Lower-Mid,0 or less,NY,1012
+RENT,Not Verified,Low,1-2,TX,1013
+RENT,Verified,High,3-5,FL,1014
+MORTGAGE,Not Verified,High,6-10,NJ,1015
+RENT,Not Verified,Lower-Mid,3-5,MS,1016
+RENT,Verified,Upper-Mid,6-10,NC,1017
+OWN,Source Verified,Upper-Mid,6-10,KY,1018
+RENT,Not Verified,High,6-10,IL,1019
+OWN,Not Verified,Upper-Mid,3-5,VA,1020
+MORTGAGE,Not Verified,High,6-10,NC,1021
+RENT,Source Verified,Low,6-10,NJ,1022
+MORTGAGE,Source Verified,High,3-5,MS,1023
+MORTGAGE,Not Verified,Upper-Mid,0 or less,IN,1024
+RENT,Not Verified,Upper-Mid,3-5,IN,1025
+RENT,Not Verified,Upper-Mid,3-5,NC,1026
+RENT,Source Verified,Upper-Mid,6-10,CA,1027
+OWN,Not Verified,Low,3-5,SC,1028
+MORTGAGE,Not Verified,Lower-Mid,6-10,FL,1029
+RENT,Not Verified,Lower-Mid,0 or less,MI,1030
+MORTGAGE,Source Verified,Low,0 or less,NC,1031
+OWN,Not Verified,High,3-5,VA,1032
+OWN,Source Verified,Lower-Mid,3-5,IL,1033
+RENT,Source Verified,Low,6-10,TX,1034
+RENT,Not Verified,Lower-Mid,3-5,NH,1035
+OWN,Verified,Low,6-10,NJ,1036
+MORTGAGE,Not Verified,High,6-10,PA,1037
+RENT,Verified,Low,6-10,MA,1038
+OWN,Verified,Upper-Mid,6-10,ND,1039
+RENT,Not Verified,High,6-10,CT,1040
+MORTGAGE,Source Verified,Low,3-5,FL,1041
+OWN,Verified,Lower-Mid,6-10,SC,1042
+RENT,Not Verified,Lower-Mid,6-10,IL,1043
+MORTGAGE,Verified,Lower-Mid,1-2,NJ,1044
+OWN,Not Verified,Low,6-10,MN,1045
+RENT,Not Verified,Low,,CT,1046
+RENT,Verified,Upper-Mid,6-10,KY,1047
+MORTGAGE,Source Verified,Lower-Mid,6-10,MD,1048
+OWN,Not Verified,Lower-Mid,6-10,CT,1049
+MORTGAGE,Source Verified,High,3-5,IL,1050
+MORTGAGE,Not Verified,Upper-Mid,1-2,TX,1051
+OWN,Verified,Upper-Mid,3-5,AL,1052
+OWN,Verified,Lower-Mid,3-5,SC,1053
+RENT,Source Verified,High,0 or less,NY,1054
+OWN,Source Verified,Upper-Mid,6-10,IL,1055
+RENT,Source Verified,Low,3-5,NJ,1056
+RENT,Not Verified,Low,1-2,WI,1057
+MORTGAGE,Source Verified,High,6-10,ID,1058
+OWN,Source Verified,High,6-10,VA,1059
+RENT,Not Verified,High,0 or less,NY,1060
+RENT,Source Verified,Low,1-2,PA,1061
+OWN,Not Verified,Low,6-10,TX,1062
+MORTGAGE,Not Verified,Low,1-2,MI,1063
+OWN,Source Verified,Low,,OK,1064
+OWN,Source Verified,Low,1-2,OR,1065
+MORTGAGE,Source Verified,Upper-Mid,1-2,MA,1066
+RENT,Source Verified,Low,0 or less,AZ,1067
+OWN,Verified,Lower-Mid,6-10,TX,1068
+RENT,Source Verified,Low,6-10,NE,1069
+RENT,Verified,Low,1-2,PA,1070
+RENT,Source Verified,Lower-Mid,1-2,CO,1071
+OWN,Not Verified,Low,,NJ,1072
+MORTGAGE,Verified,Low,6-10,ME,1073
+RENT,Not Verified,Upper-Mid,,CA,1074
+RENT,Verified,Low,,MA,1075
+OWN,Verified,High,,CA,1076
+RENT,Verified,High,6-10,AZ,1077
+MORTGAGE,Source Verified,High,6-10,IL,1078
+RENT,Not Verified,Low,6-10,MD,1079
+MORTGAGE,Not Verified,High,6-10,OK,1080
+MORTGAGE,Verified,Low,6-10,AZ,1081
+RENT,Not Verified,Low,6-10,FL,1082
+RENT,Source Verified,High,3-5,NJ,1083
+RENT,Not Verified,Low,3-5,NJ,1084
+MORTGAGE,Not Verified,Lower-Mid,,IL,1085
+OWN,Not Verified,Low,,IL,1086
+MORTGAGE,Verified,Upper-Mid,3-5,OH,1087
+MORTGAGE,Not Verified,Lower-Mid,1-2,WI,1088
+RENT,Not Verified,Low,1-2,NY,1089
+MORTGAGE,Source Verified,Lower-Mid,3-5,SD,1090
+RENT,Source Verified,Low,3-5,FL,1091
+MORTGAGE,Source Verified,Low,6-10,NE,1092
+OWN,Not Verified,Lower-Mid,6-10,AL,1093
+MORTGAGE,Source Verified,Lower-Mid,1-2,TX,1094
+RENT,Source Verified,Low,0 or less,ND,1095
+MORTGAGE,Not Verified,High,6-10,NV,1096
+OWN,Verified,Low,0 or less,AL,1097
+RENT,Verified,High,1-2,CA,1098
+MORTGAGE,Not Verified,Lower-Mid,0 or less,OR,1099
+MORTGAGE,Verified,High,6-10,SC,1100
+RENT,Source Verified,Lower-Mid,1-2,IN,1101
+MORTGAGE,Source Verified,High,3-5,LA,1102
+MORTGAGE,Source Verified,Upper-Mid,3-5,NC,1103
+RENT,Verified,Low,6-10,OH,1104
+OWN,Verified,Low,6-10,TX,1105
+OWN,Not Verified,Upper-Mid,,SC,1106
+RENT,Verified,Low,,NY,1107
+RENT,Not Verified,Lower-Mid,1-2,NM,1108
+MORTGAGE,Source Verified,Low,3-5,SC,1109
+MORTGAGE,Not Verified,High,0 or less,CA,1110
+MORTGAGE,Source Verified,Upper-Mid,1-2,TX,1111
+RENT,Not Verified,Lower-Mid,6-10,FL,1112
+MORTGAGE,Not Verified,High,0 or less,TN,1113
+MORTGAGE,Not Verified,Lower-Mid,3-5,CA,1114
+MORTGAGE,Source Verified,High,0 or less,FL,1115
+MORTGAGE,Not Verified,Upper-Mid,6-10,WV,1116
+RENT,Not Verified,Low,0 or less,NY,1117
+MORTGAGE,Verified,Lower-Mid,6-10,PA,1118
+RENT,Verified,Lower-Mid,0 or less,WA,1119
+OWN,Not Verified,Lower-Mid,6-10,AZ,1120
+MORTGAGE,Source Verified,Lower-Mid,6-10,OR,1121
+MORTGAGE,Source Verified,Low,6-10,NY,1122
+MORTGAGE,Not Verified,Lower-Mid,,FL,1123
+MORTGAGE,Source Verified,High,6-10,KS,1124
+MORTGAGE,Source Verified,Low,6-10,TX,1125
+MORTGAGE,Not Verified,Upper-Mid,6-10,SC,1126
+RENT,Source Verified,Low,1-2,GA,1127
+MORTGAGE,Verified,Upper-Mid,6-10,SC,1128
+RENT,Not Verified,High,6-10,NJ,1129
+OWN,Not Verified,High,1-2,NY,1130
+OWN,Source Verified,High,6-10,WA,1131
+RENT,Source Verified,Upper-Mid,1-2,MD,1132
+RENT,Not Verified,Low,3-5,MN,1133
+MORTGAGE,Source Verified,Low,0 or less,VA,1134
+RENT,Verified,Low,,LA,1135
+OWN,Not Verified,Upper-Mid,1-2,TX,1136
+MORTGAGE,Source Verified,Upper-Mid,3-5,KY,1137
+OWN,Source Verified,High,6-10,IL,1138
+MORTGAGE,Not Verified,Low,6-10,MO,1139
+RENT,Verified,Lower-Mid,6-10,AZ,1140
+MORTGAGE,Not Verified,High,6-10,MN,1141
+MORTGAGE,Not Verified,Low,1-2,KY,1142
+RENT,Source Verified,Upper-Mid,3-5,AZ,1143
+OWN,Not Verified,Upper-Mid,6-10,NJ,1144
+OWN,Verified,Low,6-10,MD,1145
+MORTGAGE,Not Verified,Upper-Mid,1-2,NJ,1146
+MORTGAGE,Source Verified,Lower-Mid,1-2,PA,1147
+OWN,Source Verified,Lower-Mid,6-10,VA,1148
+MORTGAGE,Verified,Low,6-10,FL,1149
+RENT,Verified,Low,3-5,NY,1150
+MORTGAGE,Source Verified,Low,6-10,LA,1151
+MORTGAGE,Verified,High,6-10,OR,1152
+OWN,Not Verified,Lower-Mid,3-5,TN,1153
+MORTGAGE,Verified,Upper-Mid,6-10,CA,1154
+RENT,Not Verified,Low,1-2,MO,1155
+RENT,Source Verified,Lower-Mid,1-2,MD,1156
+MORTGAGE,Not Verified,Lower-Mid,,NH,1157
+MORTGAGE,Verified,Upper-Mid,3-5,OR,1158
+MORTGAGE,Not Verified,Lower-Mid,1-2,AZ,1159
+RENT,Source Verified,Low,1-2,AL,1160
+MORTGAGE,Source Verified,Lower-Mid,3-5,LA,1161
+OWN,Source Verified,Upper-Mid,6-10,CT,1162
+RENT,Source Verified,Low,3-5,MI,1163
+OWN,Source Verified,Lower-Mid,6-10,NY,1164
+RENT,Verified,Upper-Mid,1-2,WA,1165
+RENT,Verified,Lower-Mid,6-10,WA,1166
+RENT,Not Verified,,,IL,1167
+MORTGAGE,Source Verified,Lower-Mid,3-5,NJ,1168
+MORTGAGE,Not Verified,High,1-2,DC,1169
+MORTGAGE,Verified,Upper-Mid,6-10,AK,1170
+MORTGAGE,Verified,High,0 or less,IL,1171
+MORTGAGE,Verified,Upper-Mid,0 or less,OH,1172
+MORTGAGE,Source Verified,Lower-Mid,3-5,TX,1173
+RENT,Not Verified,Low,,MO,1174
+MORTGAGE,Source Verified,Low,,AR,1175
+RENT,Verified,Lower-Mid,1-2,TX,1176
+MORTGAGE,Source Verified,Upper-Mid,1-2,GA,1177
+RENT,Verified,Lower-Mid,1-2,RI,1178
+RENT,Verified,Low,6-10,VA,1179
+OWN,Source Verified,Low,,CA,1180
+MORTGAGE,Not Verified,Low,3-5,MN,1181
+MORTGAGE,Source Verified,Lower-Mid,3-5,NE,1182
+RENT,Source Verified,Low,3-5,TX,1183
+RENT,Source Verified,High,3-5,MD,1184
+OWN,Source Verified,Low,3-5,NM,1185
+MORTGAGE,Not Verified,Low,,CO,1186
+RENT,Verified,Lower-Mid,0 or less,TX,1187
+MORTGAGE,Source Verified,Low,6-10,VA,1188
+RENT,Not Verified,Low,1-2,WA,1189
+RENT,Verified,Lower-Mid,6-10,PA,1190
+RENT,Source Verified,Low,,NJ,1191
+RENT,Source Verified,Lower-Mid,3-5,WA,1192
+MORTGAGE,Source Verified,Lower-Mid,6-10,VA,1193
+MORTGAGE,Verified,Low,3-5,MI,1194
+RENT,Verified,Low,3-5,WI,1195
+RENT,Verified,High,6-10,NY,1196
+RENT,Not Verified,Lower-Mid,0 or less,NY,1197
+OWN,Not Verified,Low,6-10,NY,1198
+MORTGAGE,Source Verified,High,6-10,WI,1199
+MORTGAGE,Not Verified,Upper-Mid,,NC,1200
+MORTGAGE,Verified,High,3-5,MA,1201
+MORTGAGE,Source Verified,Lower-Mid,3-5,VA,1202
+MORTGAGE,Verified,,,TX,1203
+OWN,Source Verified,High,6-10,FL,1204
+RENT,Not Verified,High,6-10,MD,1205
+OWN,Not Verified,Lower-Mid,6-10,IL,1206
+OWN,Verified,Lower-Mid,1-2,WI,1207
+MORTGAGE,Source Verified,Low,6-10,WI,1208
+RENT,Not Verified,Upper-Mid,3-5,TX,1209
+RENT,Not Verified,Lower-Mid,3-5,MN,1210
+OWN,Verified,Low,1-2,CO,1211
+MORTGAGE,Not Verified,Lower-Mid,6-10,NV,1212
+MORTGAGE,Not Verified,Low,0 or less,RI,1213
+OWN,Not Verified,High,1-2,FL,1214
+OWN,Source Verified,High,6-10,CT,1215
+MORTGAGE,Source Verified,Upper-Mid,3-5,GA,1216
+RENT,Not Verified,High,1-2,NJ,1217
+OWN,Source Verified,Lower-Mid,0 or less,NC,1218
+MORTGAGE,Verified,Upper-Mid,3-5,TX,1219
+OWN,Source Verified,Upper-Mid,6-10,FL,1220
+MORTGAGE,Not Verified,High,1-2,IL,1221
+MORTGAGE,Source Verified,Upper-Mid,3-5,UT,1222
+MORTGAGE,Source Verified,Upper-Mid,3-5,MI,1223
+RENT,Source Verified,Upper-Mid,6-10,MN,1224
+RENT,Not Verified,High,3-5,FL,1225
+RENT,Not Verified,Low,6-10,TN,1226
+RENT,Verified,Low,3-5,NM,1227
+OWN,Source Verified,Upper-Mid,,CA,1228
+MORTGAGE,Verified,Upper-Mid,3-5,AZ,1229
+MORTGAGE,Verified,High,6-10,GA,1230
+RENT,Not Verified,High,6-10,NY,1231
+MORTGAGE,Not Verified,High,3-5,ID,1232
+RENT,Source Verified,Upper-Mid,6-10,TN,1233
+RENT,Verified,Low,3-5,WA,1234
+OWN,Verified,Lower-Mid,3-5,MI,1235
+RENT,Verified,Upper-Mid,3-5,ME,1236
+MORTGAGE,Source Verified,High,1-2,CO,1237
+RENT,Not Verified,Low,6-10,OR,1238
+OWN,Verified,Lower-Mid,1-2,NV,1239
+OWN,Source Verified,Low,6-10,SC,1240
+MORTGAGE,Not Verified,Lower-Mid,0 or less,LA,1241
+MORTGAGE,Not Verified,Upper-Mid,3-5,SC,1242
+MORTGAGE,Verified,Upper-Mid,3-5,SC,1243
+MORTGAGE,Verified,Lower-Mid,3-5,MD,1244
+MORTGAGE,Verified,Lower-Mid,6-10,WA,1245
+RENT,Not Verified,Upper-Mid,3-5,MA,1246
+RENT,Not Verified,Low,1-2,NJ,1247
+RENT,Not Verified,Low,1-2,KY,1248
+RENT,Verified,Low,1-2,OK,1249
+OWN,Not Verified,Low,,WI,1250
+MORTGAGE,Not Verified,Low,6-10,UT,1251
+RENT,Source Verified,Upper-Mid,0 or less,VA,1252
+RENT,Verified,Low,1-2,NH,1253
+MORTGAGE,Verified,High,0 or less,NM,1254
+MORTGAGE,Verified,Upper-Mid,6-10,MO,1255
+MORTGAGE,Source Verified,High,0 or less,IL,1256
+MORTGAGE,Verified,High,3-5,NY,1257
+MORTGAGE,Verified,Lower-Mid,6-10,MO,1258
+RENT,Not Verified,Lower-Mid,3-5,KS,1259
+MORTGAGE,Verified,Upper-Mid,6-10,IN,1260
+MORTGAGE,Verified,Low,6-10,NE,1261
+OWN,Not Verified,High,6-10,VA,1262
+OWN,Not Verified,,,TX,1263
+OWN,Verified,Low,3-5,MO,1264
+MORTGAGE,Source Verified,High,1-2,TX,1265
+RENT,Source Verified,Upper-Mid,6-10,NH,1266
+RENT,Source Verified,High,6-10,NJ,1267
+RENT,Verified,Upper-Mid,3-5,TX,1268
+RENT,Not Verified,Low,3-5,CT,1269
+MORTGAGE,Not Verified,High,1-2,CO,1270
+MORTGAGE,Source Verified,High,1-2,MO,1271
+RENT,Source Verified,Lower-Mid,0 or less,PA,1272
+RENT,Source Verified,High,6-10,HI,1273
+RENT,Not Verified,Upper-Mid,6-10,AL,1274
+OWN,Not Verified,Lower-Mid,,FL,1275
+MORTGAGE,Source Verified,Upper-Mid,6-10,WY,1276
+RENT,Not Verified,Upper-Mid,6-10,CT,1277
+RENT,Source Verified,Low,6-10,SC,1278
+MORTGAGE,Source Verified,High,1-2,NJ,1279
+MORTGAGE,Verified,Low,1-2,TX,1280
+RENT,Verified,Low,,PA,1281
+RENT,Verified,Low,,FL,1282
+MORTGAGE,Verified,Upper-Mid,6-10,MD,1283
+RENT,Verified,Lower-Mid,6-10,IL,1284
+RENT,Not Verified,Low,6-10,GA,1285
+MORTGAGE,Not Verified,Lower-Mid,,GA,1286
+MORTGAGE,Source Verified,Low,3-5,CO,1287
+RENT,Source Verified,Upper-Mid,1-2,WI,1288
+RENT,Source Verified,Low,0 or less,NC,1289
+RENT,Not Verified,Lower-Mid,6-10,CT,1290
+MORTGAGE,Verified,High,6-10,FL,1291
+MORTGAGE,Verified,Lower-Mid,1-2,TX,1292
+MORTGAGE,Verified,Upper-Mid,,MD,1293
+MORTGAGE,Verified,Lower-Mid,3-5,SC,1294
+RENT,Source Verified,Lower-Mid,3-5,MA,1295
+RENT,Verified,Low,0 or less,CT,1296
+MORTGAGE,Verified,Low,6-10,KY,1297
+RENT,Not Verified,High,3-5,TX,1298
+MORTGAGE,Source Verified,Low,1-2,CA,1299
+MORTGAGE,Verified,Lower-Mid,6-10,VA,1300
+MORTGAGE,Not Verified,Lower-Mid,6-10,OH,1301
+OWN,Verified,Upper-Mid,,CA,1302
+MORTGAGE,Verified,High,6-10,MD,1303
+MORTGAGE,Not Verified,Low,1-2,MD,1304
+MORTGAGE,Verified,High,6-10,WA,1305
+RENT,Source Verified,High,6-10,PA,1306
+OWN,Source Verified,Upper-Mid,1-2,DC,1307
+RENT,Not Verified,Upper-Mid,0 or less,PA,1308
+RENT,Verified,High,6-10,CA,1309
+OWN,Not Verified,Low,3-5,CA,1310
+MORTGAGE,Source Verified,Lower-Mid,0 or less,VA,1311
+MORTGAGE,Source Verified,Upper-Mid,6-10,CT,1312
+RENT,Source Verified,Low,6-10,NC,1313
+RENT,Not Verified,Low,6-10,AZ,1314
+MORTGAGE,Not Verified,Upper-Mid,,AZ,1315
+MORTGAGE,Source Verified,High,3-5,IN,1316
+RENT,Verified,Upper-Mid,3-5,CA,1317
+MORTGAGE,Verified,Lower-Mid,,CA,1318
+OWN,Source Verified,Upper-Mid,0 or less,NC,1319
+OWN,Not Verified,Lower-Mid,6-10,WV,1320
+MORTGAGE,Not Verified,Upper-Mid,6-10,NC,1321
+RENT,Not Verified,Low,6-10,ME,1322
+RENT,Source Verified,Low,1-2,NV,1323
+MORTGAGE,Verified,Low,0 or less,MD,1324
+OWN,Source Verified,Low,0 or less,RI,1325
+OWN,Not Verified,Lower-Mid,6-10,PA,1326
+RENT,Not Verified,Lower-Mid,,KS,1327
+RENT,Source Verified,Lower-Mid,1-2,OK,1328
+OWN,Verified,Upper-Mid,,NC,1329
+MORTGAGE,Not Verified,Low,6-10,TX,1330
+RENT,Not Verified,Upper-Mid,3-5,AZ,1331
+OWN,Source Verified,Upper-Mid,1-2,MN,1332
+RENT,Source Verified,Lower-Mid,3-5,MD,1333
+MORTGAGE,Source Verified,High,6-10,WA,1334
+MORTGAGE,Source Verified,Low,6-10,OR,1335
+OWN,Source Verified,Upper-Mid,6-10,OH,1336
+OWN,Verified,Low,,SC,1337
+OWN,Not Verified,Upper-Mid,6-10,CA,1338
+OWN,Not Verified,Low,,MS,1339
+RENT,Source Verified,Lower-Mid,3-5,CO,1340
+RENT,Verified,Upper-Mid,6-10,MN,1341
+OWN,Not Verified,Lower-Mid,6-10,IN,1342
+MORTGAGE,Source Verified,Upper-Mid,3-5,IL,1343
+OWN,Verified,Low,6-10,NV,1344
+MORTGAGE,Not Verified,Lower-Mid,3-5,PA,1345
+RENT,Verified,Lower-Mid,0 or less,CA,1346
+MORTGAGE,Verified,Low,,WI,1347
+RENT,Source Verified,Upper-Mid,6-10,WI,1348
+OWN,Not Verified,Low,3-5,LA,1349
+MORTGAGE,Not Verified,Lower-Mid,6-10,NC,1350
+OWN,Verified,Low,6-10,PA,1351
+RENT,Not Verified,Lower-Mid,6-10,NC,1352
+RENT,Not Verified,Upper-Mid,6-10,NJ,1353
+MORTGAGE,Not Verified,Lower-Mid,3-5,FL,1354
+MORTGAGE,Verified,High,0 or less,FL,1355
+OWN,Not Verified,Low,3-5,CT,1356
+MORTGAGE,Source Verified,High,1-2,VA,1357
+RENT,Not Verified,Upper-Mid,3-5,KS,1358
+MORTGAGE,Not Verified,Lower-Mid,1-2,NY,1359
+RENT,Verified,Low,,NE,1360
+OWN,Source Verified,Low,6-10,DE,1361
+MORTGAGE,Not Verified,Upper-Mid,,CA,1362
+RENT,Verified,Upper-Mid,1-2,CO,1363
+MORTGAGE,Not Verified,Lower-Mid,3-5,DE,1364
+MORTGAGE,Source Verified,Upper-Mid,1-2,MN,1365
+OWN,Not Verified,Upper-Mid,6-10,PA,1366
+MORTGAGE,Not Verified,High,0 or less,WA,1367
+MORTGAGE,Verified,Lower-Mid,6-10,KY,1368
+MORTGAGE,Not Verified,High,3-5,MI,1369
+MORTGAGE,Not Verified,Upper-Mid,3-5,AL,1370
+RENT,Not Verified,Low,1-2,NC,1371
+MORTGAGE,Source Verified,High,6-10,ND,1372
+RENT,Verified,Upper-Mid,1-2,DE,1373
+RENT,Verified,Lower-Mid,1-2,WI,1374
+MORTGAGE,Verified,Upper-Mid,,CO,1375
+MORTGAGE,Not Verified,High,3-5,CA,1376
+MORTGAGE,Not Verified,High,3-5,NY,1377
+RENT,Not Verified,Upper-Mid,6-10,OH,1378
+RENT,Source Verified,Lower-Mid,6-10,RI,1379
+MORTGAGE,Not Verified,Upper-Mid,6-10,TN,1380
+MORTGAGE,Verified,Lower-Mid,0 or less,MD,1381
+MORTGAGE,Not Verified,Low,6-10,VT,1382
+MORTGAGE,Source Verified,Lower-Mid,,WV,1383
+RENT,Source Verified,Lower-Mid,3-5,CT,1384
+RENT,Verified,Upper-Mid,3-5,NY,1385
+MORTGAGE,Source Verified,Upper-Mid,6-10,PA,1386
+RENT,Verified,Low,0 or less,OH,1387
+MORTGAGE,Not Verified,High,6-10,OR,1388
+MORTGAGE,Not Verified,Upper-Mid,6-10,NV,1389
+MORTGAGE,Not Verified,Lower-Mid,6-10,VT,1390
+MORTGAGE,Source Verified,High,1-2,OR,1391
+OWN,Source Verified,Low,6-10,NY,1392
+RENT,Verified,Low,,ID,1393
+MORTGAGE,Source Verified,High,3-5,KS,1394
+MORTGAGE,Not Verified,Upper-Mid,1-2,CT,1395
+OWN,Not Verified,Upper-Mid,3-5,CO,1396
+MORTGAGE,Not Verified,Low,1-2,NV,1397
+MORTGAGE,Not Verified,Lower-Mid,1-2,SD,1398
+MORTGAGE,Verified,Lower-Mid,3-5,NC,1399
+MORTGAGE,Source Verified,Lower-Mid,6-10,MA,1400
+MORTGAGE,Not Verified,Low,6-10,NY,1401
+OWN,Not Verified,Low,6-10,MS,1402
+OWN,Verified,Upper-Mid,3-5,TX,1403
+RENT,Verified,Lower-Mid,3-5,VA,1404
+OWN,Source Verified,Lower-Mid,3-5,CA,1405
+RENT,Not Verified,Lower-Mid,0 or less,WI,1406
+MORTGAGE,Verified,Low,6-10,WY,1407
+MORTGAGE,Verified,Upper-Mid,1-2,FL,1408
+RENT,Verified,Upper-Mid,6-10,MD,1409
+OWN,Verified,Upper-Mid,3-5,MD,1410
+RENT,Source Verified,High,6-10,OK,1411
+MORTGAGE,Not Verified,High,3-5,MA,1412
+MORTGAGE,Not Verified,Low,1-2,UT,1413
+MORTGAGE,Not Verified,Upper-Mid,6-10,MN,1414
+RENT,Not Verified,Lower-Mid,3-5,NJ,1415
+OWN,Source Verified,Lower-Mid,,MD,1416
+RENT,Not Verified,Lower-Mid,6-10,RI,1417
+MORTGAGE,Verified,Low,6-10,MD,1418
+OWN,Not Verified,Upper-Mid,1-2,GA,1419
+RENT,Source Verified,Lower-Mid,0 or less,WA,1420
+OWN,Source Verified,Upper-Mid,6-10,MI,1421
+MORTGAGE,Source Verified,High,3-5,TN,1422
+MORTGAGE,Verified,Low,,CO,1423
+MORTGAGE,Verified,Low,1-2,MO,1424
+RENT,Verified,Lower-Mid,6-10,ID,1425
+RENT,Not Verified,Low,3-5,MD,1426
+MORTGAGE,Verified,Lower-Mid,1-2,NE,1427
+RENT,Not Verified,Upper-Mid,0 or less,CA,1428
+MORTGAGE,Verified,Low,1-2,NV,1429
+RENT,Source Verified,Low,6-10,KS,1430
+RENT,Verified,High,3-5,NC,1431
+MORTGAGE,Source Verified,High,1-2,WA,1432
+MORTGAGE,Not Verified,Low,6-10,CT,1433
+RENT,Source Verified,High,6-10,FL,1434
+OWN,Verified,Lower-Mid,6-10,OH,1435
+RENT,Verified,Low,,OH,1436
+OWN,Not Verified,Low,6-10,PA,1437
+MORTGAGE,Source Verified,High,0 or less,NC,1438
+RENT,Not Verified,High,1-2,CT,1439
+MORTGAGE,Not Verified,Low,6-10,KS,1440
+RENT,Source Verified,Lower-Mid,6-10,WY,1441
+RENT,Verified,Lower-Mid,6-10,NC,1442
+MORTGAGE,Verified,Low,,SD,1443
+MORTGAGE,Verified,High,0 or less,NC,1444
+RENT,Not Verified,Upper-Mid,6-10,TX,1445
+MORTGAGE,Source Verified,High,1-2,CT,1446
+RENT,Source Verified,Low,,IN,1447
+RENT,Not Verified,Lower-Mid,1-2,SC,1448
+RENT,Not Verified,High,6-10,OH,1449
+MORTGAGE,Source Verified,Low,,NJ,1450
+MORTGAGE,Source Verified,Lower-Mid,6-10,IL,1451
+RENT,Source Verified,Lower-Mid,3-5,OR,1452
+OWN,Source Verified,Low,1-2,NC,1453
+MORTGAGE,Source Verified,Low,0 or less,OK,1454
+MORTGAGE,Not Verified,Low,6-10,OH,1455
+RENT,Not Verified,Lower-Mid,3-5,VA,1456
+MORTGAGE,Not Verified,Upper-Mid,3-5,WY,1457
+RENT,Not Verified,High,6-10,VA,1458
+MORTGAGE,Source Verified,Upper-Mid,3-5,FL,1459
+RENT,Verified,Upper-Mid,1-2,IL,1460
+RENT,Verified,Lower-Mid,1-2,GA,1461
+OWN,Source Verified,Low,3-5,FL,1462
+MORTGAGE,Source Verified,Low,1-2,AZ,1463
+RENT,Source Verified,Upper-Mid,1-2,NJ,1464
+MORTGAGE,Verified,High,6-10,MN,1465
+OWN,Source Verified,High,3-5,LA,1466
+OWN,Verified,High,3-5,MD,1467
+MORTGAGE,Verified,High,3-5,LA,1468
+RENT,Source Verified,Lower-Mid,1-2,OR,1469
+RENT,Verified,Upper-Mid,0 or less,MA,1470
+RENT,Not Verified,High,1-2,NC,1471
+RENT,Source Verified,Lower-Mid,1-2,OH,1472
+RENT,Verified,Lower-Mid,,NY,1473
+RENT,Verified,Lower-Mid,,IL,1474
+RENT,Source Verified,Lower-Mid,6-10,WI,1475
+RENT,Verified,Low,6-10,WV,1476
+MORTGAGE,Verified,High,6-10,CT,1477
+RENT,Source Verified,Upper-Mid,3-5,IN,1478
+OWN,Verified,Lower-Mid,6-10,AR,1479
+RENT,Verified,Low,1-2,VA,1480
+RENT,Source Verified,Lower-Mid,1-2,NC,1481
+RENT,Source Verified,High,3-5,WA,1482
+OWN,Not Verified,Low,,MI,1483
+RENT,Verified,High,6-10,KY,1484
+RENT,Not Verified,Upper-Mid,1-2,NJ,1485
+MORTGAGE,Source Verified,Low,1-2,NY,1486
+MORTGAGE,Verified,Low,1-2,MN,1487
+RENT,Verified,Low,6-10,IL,1488
+MORTGAGE,Not Verified,Lower-Mid,6-10,MI,1489
+MORTGAGE,Not Verified,High,3-5,MD,1490
+MORTGAGE,Verified,Lower-Mid,6-10,NV,1491
+RENT,Verified,Low,1-2,FL,1492
+MORTGAGE,Verified,Lower-Mid,,NY,1493
+OWN,Source Verified,Lower-Mid,3-5,GA,1494
+RENT,Not Verified,Upper-Mid,0 or less,TN,1495
+RENT,Verified,Lower-Mid,1-2,MT,1496
+RENT,Source Verified,Low,3-5,OH,1497
+MORTGAGE,Verified,Lower-Mid,3-5,UT,1498
+MORTGAGE,Not Verified,Upper-Mid,1-2,WI,1499
+OWN,Source Verified,Upper-Mid,3-5,NY,1500
+OWN,Not Verified,Lower-Mid,,WV,1501
+MORTGAGE,Source Verified,Low,3-5,TX,1502
+RENT,Not Verified,Low,1-2,CO,1503
+OWN,Not Verified,Upper-Mid,6-10,RI,1504
+RENT,Verified,Lower-Mid,6-10,CA,1505
+MORTGAGE,Source Verified,Upper-Mid,3-5,MN,1506
+OWN,Verified,Lower-Mid,3-5,TX,1507
+MORTGAGE,Verified,Upper-Mid,6-10,TN,1508
+MORTGAGE,Source Verified,Lower-Mid,3-5,MA,1509
+MORTGAGE,Source Verified,Lower-Mid,1-2,KS,1510
+RENT,Not Verified,Lower-Mid,6-10,NV,1511
+MORTGAGE,Verified,Lower-Mid,6-10,ID,1512
+OWN,Not Verified,High,6-10,TN,1513
+MORTGAGE,Source Verified,Lower-Mid,3-5,KY,1514
+MORTGAGE,Source Verified,High,,CA,1515
+MORTGAGE,Source Verified,High,0 or less,ID,1516
+OWN,Source Verified,High,3-5,FL,1517
+OWN,Not Verified,Lower-Mid,6-10,MI,1518
+RENT,Not Verified,Low,0 or less,PA,1519
+RENT,Source Verified,Lower-Mid,6-10,MA,1520
+MORTGAGE,Not Verified,Upper-Mid,1-2,TN,1521
+OWN,Source Verified,High,6-10,AL,1522
+RENT,Not Verified,Low,6-10,NC,1523
+OWN,Not Verified,Low,3-5,IN,1524
+RENT,Verified,Low,6-10,WA,1525
+RENT,Verified,Low,1-2,CA,1526
+RENT,Not Verified,Lower-Mid,1-2,AZ,1527
+MORTGAGE,Source Verified,Low,6-10,PA,1528
+OWN,Verified,Low,,OH,1529
+RENT,Not Verified,Low,3-5,NC,1530
+OWN,Not Verified,Lower-Mid,6-10,OH,1531
+OWN,Verified,Low,,KS,1532
+RENT,Verified,High,6-10,SC,1533
+OWN,Source Verified,Low,1-2,TX,1534
+RENT,Not Verified,Upper-Mid,3-5,GA,1535
+OWN,Source Verified,Low,3-5,NC,1536
+MORTGAGE,Not Verified,Low,,AZ,1537
+MORTGAGE,Not Verified,Low,1-2,ME,1538
+OWN,Not Verified,Lower-Mid,,NY,1539
+MORTGAGE,Source Verified,Lower-Mid,,CA,1540
+RENT,Source Verified,Low,3-5,AR,1541
+MORTGAGE,Not Verified,High,1-2,PA,1542
+MORTGAGE,Verified,Low,6-10,WV,1543
+MORTGAGE,Source Verified,Low,6-10,MN,1544
+MORTGAGE,Verified,Lower-Mid,,AL,1545
+MORTGAGE,Not Verified,Low,,NC,1546
+MORTGAGE,Verified,Lower-Mid,6-10,MD,1547
+MORTGAGE,Source Verified,Low,0 or less,CA,1548
+OWN,Source Verified,Upper-Mid,3-5,CA,1549
+OWN,Source Verified,Lower-Mid,3-5,NJ,1550
+OWN,Verified,Low,,CA,1551
+RENT,Source Verified,High,1-2,IL,1552
+OWN,Source Verified,Upper-Mid,3-5,MA,1553
+MORTGAGE,Not Verified,Low,,FL,1554
+MORTGAGE,Verified,Upper-Mid,1-2,MI,1555
+RENT,Not Verified,High,3-5,NY,1556
+RENT,Verified,Lower-Mid,,FL,1557
+MORTGAGE,Verified,Low,,WV,1558
+MORTGAGE,Source Verified,High,1-2,TN,1559
+MORTGAGE,Source Verified,Upper-Mid,3-5,RI,1560
+OWN,Not Verified,High,3-5,CA,1561
+MORTGAGE,Source Verified,Lower-Mid,,WA,1562
+MORTGAGE,Source Verified,Lower-Mid,1-2,GA,1563
+OWN,Not Verified,Upper-Mid,6-10,IL,1564
+OWN,Source Verified,Low,3-5,PA,1565
+MORTGAGE,Verified,High,0 or less,NE,1566
+OWN,Source Verified,High,6-10,KY,1567
+MORTGAGE,Source Verified,High,3-5,VA,1568
+RENT,Source Verified,Low,6-10,OR,1569
+MORTGAGE,Source Verified,Upper-Mid,0 or less,CT,1570
+MORTGAGE,Not Verified,Lower-Mid,6-10,MA,1571
+MORTGAGE,Verified,Low,6-10,ID,1572
+OWN,Not Verified,Lower-Mid,6-10,CA,1573
+RENT,Source Verified,Lower-Mid,6-10,PA,1574
+MORTGAGE,Not Verified,Upper-Mid,3-5,CT,1575
+OWN,Not Verified,Upper-Mid,6-10,TX,1576
+RENT,Not Verified,Upper-Mid,3-5,AL,1577
+OWN,Not Verified,High,3-5,SC,1578
+RENT,Source Verified,High,0 or less,TX,1579
+MORTGAGE,Verified,Upper-Mid,1-2,MO,1580
+RENT,Verified,Low,6-10,TX,1581
+MORTGAGE,Verified,High,3-5,AZ,1582
+OWN,Verified,Lower-Mid,,NY,1583
+RENT,Not Verified,Low,6-10,WA,1584
+RENT,Not Verified,Upper-Mid,0 or less,KS,1585
+MORTGAGE,Verified,Upper-Mid,,MS,1586
+MORTGAGE,Source Verified,High,6-10,SC,1587
+MORTGAGE,Source Verified,Upper-Mid,0 or less,MA,1588
+RENT,Verified,High,1-2,TX,1589
+MORTGAGE,Verified,Low,6-10,MA,1590
+OWN,Verified,Upper-Mid,6-10,NY,1591
+RENT,Not Verified,,,TX,1592
+MORTGAGE,Not Verified,Low,3-5,MT,1593
+OWN,Not Verified,Lower-Mid,6-10,TN,1594
+RENT,Source Verified,Low,0 or less,FL,1595
+RENT,Not Verified,,,CA,1596
+MORTGAGE,Not Verified,Low,6-10,PA,1597
+MORTGAGE,Verified,Upper-Mid,3-5,FL,1598
+OWN,Not Verified,Low,,AZ,1599
+MORTGAGE,Not Verified,Lower-Mid,1-2,FL,1600
+MORTGAGE,Not Verified,Lower-Mid,6-10,MN,1601
+RENT,Source Verified,Lower-Mid,6-10,MD,1602
+RENT,Source Verified,Upper-Mid,,CT,1603
+MORTGAGE,Not Verified,Upper-Mid,6-10,NE,1604
+RENT,Source Verified,High,1-2,AZ,1605
+RENT,Source Verified,Lower-Mid,1-2,NM,1606
+RENT,Verified,Low,,SC,1607
+RENT,Source Verified,Low,1-2,WI,1608
+MORTGAGE,Source Verified,Lower-Mid,,NV,1609
+MORTGAGE,Not Verified,Lower-Mid,,CA,1610
+MORTGAGE,Source Verified,Lower-Mid,1-2,MD,1611
+MORTGAGE,Verified,Upper-Mid,3-5,WI,1612
+RENT,Source Verified,Low,0 or less,NJ,1613
+MORTGAGE,Verified,Low,6-10,PA,1614
+RENT,Not Verified,Lower-Mid,6-10,MD,1615
+MORTGAGE,Verified,High,6-10,LA,1616
+MORTGAGE,Verified,High,1-2,GA,1617
+RENT,Source Verified,Lower-Mid,6-10,NV,1618
+MORTGAGE,Source Verified,Low,6-10,OH,1619
+OWN,Source Verified,High,6-10,NV,1620
+MORTGAGE,Verified,High,1-2,CO,1621
+MORTGAGE,Verified,Lower-Mid,6-10,FL,1622
+RENT,Source Verified,Upper-Mid,3-5,MA,1623
+MORTGAGE,Verified,Upper-Mid,6-10,MI,1624
+OWN,Not Verified,High,3-5,AK,1625
+OWN,Not Verified,Upper-Mid,6-10,MD,1626
+MORTGAGE,Verified,Upper-Mid,1-2,MS,1627
+RENT,Source Verified,Lower-Mid,0 or less,IL,1628
+MORTGAGE,Not Verified,Low,1-2,MN,1629
+MORTGAGE,Verified,Low,3-5,OH,1630
+OWN,Not Verified,Upper-Mid,3-5,ND,1631
+RENT,Not Verified,Low,6-10,TX,1632
+MORTGAGE,Not Verified,Upper-Mid,6-10,MI,1633
+OWN,Verified,High,6-10,SC,1634
+MORTGAGE,Verified,Lower-Mid,6-10,WI,1635
+RENT,Not Verified,Upper-Mid,1-2,HI,1636
+MORTGAGE,Not Verified,Lower-Mid,0 or less,MA,1637
+MORTGAGE,Not Verified,Lower-Mid,0 or less,GA,1638
+OWN,Verified,Lower-Mid,6-10,CA,1639
+OWN,Verified,Upper-Mid,3-5,NY,1640
+MORTGAGE,Not Verified,Upper-Mid,3-5,KY,1641
+MORTGAGE,Source Verified,High,6-10,RI,1642
+RENT,Verified,Upper-Mid,3-5,OH,1643
+MORTGAGE,Source Verified,Low,,GA,1644
+OWN,Not Verified,Low,1-2,CO,1645
+OWN,Source Verified,Lower-Mid,0 or less,FL,1646
+RENT,Source Verified,High,1-2,NY,1647
+RENT,Not Verified,Low,0 or less,AZ,1648
+RENT,Source Verified,Low,,MD,1649
+MORTGAGE,Source Verified,Lower-Mid,3-5,MS,1650
+MORTGAGE,Verified,Upper-Mid,1-2,CO,1651
+OWN,Not Verified,Upper-Mid,1-2,VA,1652
+OWN,Source Verified,High,0 or less,FL,1653
+MORTGAGE,Verified,Low,0 or less,AL,1654
+RENT,Not Verified,Low,,NY,1655
+RENT,Source Verified,High,0 or less,VA,1656
+RENT,Source Verified,Upper-Mid,1-2,NV,1657
+OWN,Not Verified,Low,6-10,OK,1658
+RENT,Not Verified,Upper-Mid,3-5,NJ,1659
+OWN,Source Verified,Low,3-5,MN,1660
+OWN,Not Verified,High,6-10,MD,1661
+RENT,Source Verified,Upper-Mid,3-5,GA,1662
+OWN,Source Verified,Lower-Mid,6-10,MS,1663
+MORTGAGE,Source Verified,Low,6-10,NV,1664
+OWN,Source Verified,Lower-Mid,6-10,NC,1665
+OWN,Source Verified,Upper-Mid,6-10,MS,1666
+OWN,Source Verified,Upper-Mid,6-10,NY,1667
+MORTGAGE,Verified,Upper-Mid,,NY,1668
+RENT,Not Verified,Upper-Mid,6-10,DC,1669
+MORTGAGE,Not Verified,Low,6-10,CA,1670
+MORTGAGE,Source Verified,Low,1-2,IN,1671
+RENT,Source Verified,Upper-Mid,0 or less,CA,1672
+RENT,Not Verified,Lower-Mid,0 or less,FL,1673
+MORTGAGE,Not Verified,High,3-5,OR,1674
+OWN,Source Verified,Upper-Mid,6-10,TX,1675
+MORTGAGE,Verified,Low,1-2,GA,1676
+RENT,Verified,Lower-Mid,3-5,NY,1677
+RENT,Source Verified,Low,1-2,WA,1678
+OWN,Not Verified,High,3-5,NY,1679
+OWN,Source Verified,Upper-Mid,6-10,CA,1680
+RENT,Source Verified,Low,3-5,MA,1681
+MORTGAGE,Source Verified,High,3-5,CT,1682
+OWN,Verified,Lower-Mid,,FL,1683
+MORTGAGE,Verified,High,3-5,PA,1684
+MORTGAGE,Source Verified,Low,3-5,IL,1685
+OWN,Verified,Low,,PA,1686
+RENT,Verified,Low,3-5,MO,1687
+MORTGAGE,Not Verified,Upper-Mid,0 or less,CA,1688
+MORTGAGE,Verified,Low,,TN,1689
+MORTGAGE,Not Verified,Low,6-10,NC,1690
+OWN,Not Verified,Upper-Mid,1-2,NV,1691
+MORTGAGE,Source Verified,High,0 or less,PA,1692
+RENT,Verified,Low,3-5,VA,1693
+RENT,Source Verified,High,6-10,AZ,1694
+MORTGAGE,Verified,Upper-Mid,3-5,VA,1695
+MORTGAGE,Not Verified,Lower-Mid,1-2,IN,1696
+MORTGAGE,Verified,Upper-Mid,1-2,LA,1697
+MORTGAGE,Source Verified,Lower-Mid,1-2,NC,1698
+OWN,Verified,Upper-Mid,,NY,1699
+MORTGAGE,Not Verified,High,6-10,AK,1700
+OWN,Verified,Upper-Mid,6-10,PA,1701
+MORTGAGE,Not Verified,High,3-5,AL,1702
+MORTGAGE,Verified,Lower-Mid,1-2,WA,1703
+MORTGAGE,Not Verified,Upper-Mid,3-5,OR,1704
+OWN,Verified,Low,6-10,VA,1705
+OWN,Source Verified,Lower-Mid,3-5,NC,1706
+MORTGAGE,Source Verified,Low,3-5,AZ,1707
+RENT,Not Verified,Low,,PA,1708
+RENT,Not Verified,High,1-2,PA,1709
+RENT,Not Verified,Lower-Mid,1-2,ME,1710
+OWN,Verified,High,6-10,CA,1711
+MORTGAGE,Verified,Lower-Mid,1-2,MO,1712
+MORTGAGE,Not Verified,Lower-Mid,0 or less,CA,1713
+RENT,Source Verified,Low,,WA,1714
+OWN,Source Verified,Lower-Mid,0 or less,RI,1715
+RENT,Not Verified,Upper-Mid,6-10,MN,1716
+OWN,Not Verified,Lower-Mid,1-2,IL,1717
+RENT,Verified,Lower-Mid,3-5,IL,1718
+OWN,Not Verified,Lower-Mid,1-2,MO,1719
+MORTGAGE,Source Verified,Upper-Mid,1-2,NV,1720
+MORTGAGE,Verified,Low,,MI,1721
+MORTGAGE,Not Verified,High,6-10,WA,1722
+RENT,Verified,Upper-Mid,3-5,WA,1723
+RENT,Not Verified,High,3-5,WA,1724
+MORTGAGE,Not Verified,Upper-Mid,,WI,1725
+OWN,Verified,Low,,AL,1726
+OWN,Not Verified,High,6-10,OH,1727
+OWN,Source Verified,Low,1-2,LA,1728
+RENT,Source Verified,Low,0 or less,IL,1729
+OWN,Not Verified,Low,,MA,1730
+RENT,Source Verified,Upper-Mid,1-2,HI,1731
+RENT,Source Verified,Upper-Mid,6-10,PA,1732
+RENT,Source Verified,High,0 or less,NJ,1733
+MORTGAGE,Verified,Lower-Mid,6-10,AZ,1734
+MORTGAGE,Not Verified,Low,0 or less,NC,1735
+MORTGAGE,Verified,High,3-5,TX,1736
+RENT,Not Verified,Lower-Mid,0 or less,VA,1737
+RENT,Source Verified,Upper-Mid,1-2,AL,1738
+RENT,Not Verified,Lower-Mid,6-10,GA,1739
+MORTGAGE,Source Verified,High,6-10,LA,1740
+MORTGAGE,Verified,Upper-Mid,1-2,NY,1741
+MORTGAGE,Verified,Lower-Mid,,GA,1742
+RENT,Source Verified,Lower-Mid,0 or less,FL,1743
+OWN,Not Verified,Upper-Mid,6-10,IN,1744
+RENT,Source Verified,Upper-Mid,3-5,IL,1745
+MORTGAGE,Not Verified,Upper-Mid,3-5,OH,1746
+MORTGAGE,Not Verified,High,3-5,VA,1747
+OWN,Not Verified,Lower-Mid,0 or less,CA,1748
+MORTGAGE,Source Verified,Low,3-5,WA,1749
+MORTGAGE,Source Verified,Upper-Mid,1-2,NH,1750
+OWN,Source Verified,Low,6-10,KY,1751
+OWN,Not Verified,High,,NJ,1752
+RENT,Not Verified,High,6-10,FL,1753
+MORTGAGE,Verified,Low,,OK,1754
+RENT,Not Verified,Low,,FL,1755
+OWN,Source Verified,Lower-Mid,,NM,1756
+OWN,Not Verified,Low,,FL,1757
+RENT,Verified,Lower-Mid,6-10,NJ,1758
+MORTGAGE,Source Verified,Upper-Mid,3-5,CT,1759
+MORTGAGE,Not Verified,Upper-Mid,3-5,PA,1760
+MORTGAGE,Verified,Low,6-10,TN,1761
+MORTGAGE,Verified,Lower-Mid,3-5,GA,1762
+RENT,Verified,Low,6-10,NY,1763
+MORTGAGE,Verified,Low,,NC,1764
+OWN,Source Verified,High,6-10,GA,1765
+MORTGAGE,Verified,Lower-Mid,0 or less,NV,1766
+RENT,Source Verified,Upper-Mid,3-5,NC,1767
+RENT,Not Verified,High,0 or less,NH,1768
+RENT,Source Verified,Low,0 or less,GA,1769
+MORTGAGE,Verified,Lower-Mid,1-2,PA,1770
+MORTGAGE,Not Verified,High,6-10,CT,1771
+MORTGAGE,Not Verified,Upper-Mid,0 or less,NJ,1772
+MORTGAGE,Not Verified,Lower-Mid,3-5,VA,1773
+OWN,Verified,Low,,WA,1774
+MORTGAGE,Not Verified,Low,6-10,AL,1775
+OWN,Source Verified,Lower-Mid,6-10,CA,1776
+MORTGAGE,Verified,Upper-Mid,0 or less,OR,1777
+OWN,Source Verified,Lower-Mid,6-10,TN,1778
+MORTGAGE,Not Verified,Lower-Mid,,AZ,1779
+RENT,Verified,High,1-2,AR,1780
+RENT,Not Verified,High,3-5,MA,1781
+RENT,Source Verified,Upper-Mid,3-5,AK,1782
+OWN,Source Verified,Lower-Mid,3-5,FL,1783
+MORTGAGE,Verified,Low,,IN,1784
+MORTGAGE,Not Verified,High,6-10,VT,1785
+RENT,Not Verified,High,6-10,ID,1786
+RENT,Source Verified,Low,3-5,AK,1787
+MORTGAGE,Not Verified,Upper-Mid,3-5,IL,1788
+OWN,Not Verified,Low,6-10,SC,1789
+OWN,Not Verified,Low,,GA,1790
+OWN,Verified,Low,,TX,1791
+MORTGAGE,Verified,Low,3-5,NC,1792
+MORTGAGE,Source Verified,Lower-Mid,1-2,UT,1793
+MORTGAGE,Not Verified,Lower-Mid,1-2,TX,1794
+RENT,Source Verified,Lower-Mid,1-2,UT,1795
+MORTGAGE,Source Verified,Upper-Mid,0 or less,PA,1796
+RENT,Not Verified,Lower-Mid,6-10,AZ,1797
+MORTGAGE,Not Verified,Upper-Mid,1-2,MD,1798
+MORTGAGE,Verified,Lower-Mid,6-10,NE,1799
+MORTGAGE,Not Verified,Lower-Mid,1-2,PA,1800
+OWN,Not Verified,Low,1-2,TX,1801
+OWN,Verified,Lower-Mid,,AL,1802
+OWN,Not Verified,Low,1-2,CA,1803
+MORTGAGE,Not Verified,High,6-10,HI,1804
+MORTGAGE,Verified,High,1-2,NY,1805
+RENT,Source Verified,Upper-Mid,0 or less,NC,1806
+OWN,Source Verified,Lower-Mid,3-5,PA,1807
+RENT,Verified,Upper-Mid,0 or less,IL,1808
+MORTGAGE,Not Verified,High,3-5,NE,1809
+MORTGAGE,Not Verified,High,6-10,MI,1810
+RENT,Source Verified,High,1-2,GA,1811
+RENT,Source Verified,Lower-Mid,0 or less,MI,1812
+RENT,Source Verified,Low,6-10,PA,1813
+MORTGAGE,Source Verified,Upper-Mid,0 or less,WI,1814
+OWN,Not Verified,Low,6-10,KS,1815
+OWN,Verified,High,0 or less,GA,1816
+MORTGAGE,Not Verified,Upper-Mid,6-10,ND,1817
+OWN,Verified,Upper-Mid,6-10,KY,1818
+RENT,Source Verified,Low,0 or less,TN,1819
+MORTGAGE,Not Verified,Lower-Mid,6-10,NJ,1820
+RENT,Verified,Upper-Mid,0 or less,CA,1821
+MORTGAGE,Not Verified,Lower-Mid,1-2,MO,1822
+RENT,Verified,Low,6-10,CT,1823
+OWN,Verified,Upper-Mid,1-2,WV,1824
+MORTGAGE,Source Verified,Low,1-2,AL,1825
+RENT,Verified,Low,,TX,1826
+MORTGAGE,Not Verified,Low,1-2,AL,1827
+OWN,Not Verified,Upper-Mid,6-10,WA,1828
+RENT,Verified,Low,,AR,1829
+MORTGAGE,Not Verified,Lower-Mid,6-10,OR,1830
+OWN,Not Verified,High,3-5,IL,1831
+RENT,Verified,Low,3-5,MN,1832
+RENT,Verified,Low,0 or less,IL,1833
+MORTGAGE,Verified,Low,0 or less,AZ,1834
+OWN,Source Verified,Low,3-5,NJ,1835
+RENT,Not Verified,Upper-Mid,3-5,HI,1836
+RENT,Verified,High,6-10,NC,1837
+RENT,Verified,Upper-Mid,6-10,MI,1838
+OWN,Source Verified,High,1-2,WA,1839
+MORTGAGE,Source Verified,Low,1-2,FL,1840
+MORTGAGE,Not Verified,Low,6-10,MN,1841
+OWN,Verified,Low,6-10,CA,1842
+MORTGAGE,Verified,Lower-Mid,3-5,CO,1843
+MORTGAGE,Verified,Upper-Mid,0 or less,MI,1844
+RENT,Not Verified,Lower-Mid,3-5,CT,1845
+MORTGAGE,Not Verified,Low,1-2,OH,1846
+MORTGAGE,Source Verified,Upper-Mid,3-5,ID,1847
+RENT,Source Verified,Low,0 or less,IN,1848
+OWN,Verified,Low,6-10,AL,1849
+MORTGAGE,Not Verified,Low,,DE,1850
+RENT,Not Verified,High,3-5,RI,1851
+MORTGAGE,Not Verified,High,6-10,TN,1852
+OWN,Source Verified,Lower-Mid,6-10,AR,1853
+MORTGAGE,Source Verified,Upper-Mid,6-10,NM,1854
+MORTGAGE,Source Verified,High,6-10,TN,1855
+MORTGAGE,Source Verified,Lower-Mid,0 or less,TX,1856
+OWN,Verified,High,6-10,CO,1857
+RENT,Source Verified,Low,3-5,NE,1858
+RENT,Source Verified,Lower-Mid,3-5,MI,1859
+MORTGAGE,Verified,Lower-Mid,3-5,SD,1860
+OWN,Source Verified,Low,6-10,MN,1861
+MORTGAGE,Verified,Lower-Mid,6-10,GA,1862
+OWN,Source Verified,Upper-Mid,3-5,FL,1863
+OWN,Verified,Lower-Mid,3-5,PA,1864
+RENT,Verified,Upper-Mid,1-2,OH,1865
+RENT,Not Verified,Lower-Mid,3-5,OH,1866
+RENT,Not Verified,High,0 or less,MN,1867
+RENT,Not Verified,Upper-Mid,6-10,AZ,1868
+RENT,Verified,Lower-Mid,0 or less,VA,1869
+MORTGAGE,Source Verified,High,1-2,NC,1870
+RENT,Not Verified,Lower-Mid,,FL,1871
+MORTGAGE,Source Verified,Lower-Mid,1-2,TN,1872
+MORTGAGE,Source Verified,High,1-2,AL,1873
+MORTGAGE,Source Verified,Lower-Mid,0 or less,OH,1874
+RENT,Not Verified,Lower-Mid,1-2,RI,1875
+MORTGAGE,Not Verified,High,0 or less,IL,1876
+OWN,Not Verified,High,0 or less,FL,1877
+MORTGAGE,Source Verified,Low,,FL,1878
+MORTGAGE,Verified,High,6-10,RI,1879
+OWN,Not Verified,Lower-Mid,1-2,CA,1880
+RENT,Verified,Low,6-10,LA,1881
+MORTGAGE,Source Verified,High,3-5,MN,1882
+RENT,Source Verified,High,6-10,WA,1883
+OWN,Verified,Upper-Mid,,LA,1884
+OWN,Verified,Low,,IN,1885
+OWN,Not Verified,Low,6-10,WI,1886
+MORTGAGE,Verified,Lower-Mid,3-5,FL,1887
+RENT,Verified,Upper-Mid,6-10,NV,1888
+OWN,Source Verified,Upper-Mid,6-10,NV,1889
+RENT,Not Verified,Low,,KS,1890
+MORTGAGE,Not Verified,High,1-2,MD,1891
+MORTGAGE,Source Verified,Lower-Mid,6-10,WA,1892
+MORTGAGE,Not Verified,Upper-Mid,1-2,OH,1893
+OWN,Source Verified,Low,3-5,GA,1894
+RENT,Verified,Low,1-2,MI,1895
+MORTGAGE,Verified,Low,1-2,NC,1896
+MORTGAGE,Not Verified,Low,6-10,TN,1897
+OWN,Not Verified,Upper-Mid,3-5,GA,1898
+RENT,Source Verified,Low,6-10,MN,1899
+RENT,Not Verified,Lower-Mid,0 or less,MA,1900
+RENT,Not Verified,Low,0 or less,MA,1901
+MORTGAGE,Verified,Lower-Mid,6-10,OR,1902
+MORTGAGE,Not Verified,Lower-Mid,0 or less,CT,1903
+MORTGAGE,Not Verified,Lower-Mid,6-10,MT,1904
+MORTGAGE,Not Verified,Low,6-10,IN,1905
+MORTGAGE,Verified,Low,6-10,NC,1906
+OWN,Source Verified,High,3-5,MO,1907
+MORTGAGE,Source Verified,Lower-Mid,1-2,SC,1908
+RENT,Not Verified,Upper-Mid,1-2,MD,1909
+RENT,Not Verified,Lower-Mid,3-5,SC,1910
+RENT,Verified,Low,,MO,1911
+MORTGAGE,Verified,High,3-5,CT,1912
+MORTGAGE,Verified,Low,,NY,1913
+MORTGAGE,Source Verified,Upper-Mid,6-10,SC,1914
+RENT,Verified,High,6-10,OR,1915
+RENT,Verified,Low,0 or less,IN,1916
+MORTGAGE,Verified,Low,1-2,CA,1917
+MORTGAGE,Source Verified,High,6-10,NH,1918
+OWN,Not Verified,Upper-Mid,6-10,SC,1919
+RENT,Not Verified,Lower-Mid,0 or less,UT,1920
+OWN,Not Verified,Upper-Mid,6-10,UT,1921
+RENT,Not Verified,Lower-Mid,0 or less,MD,1922
+RENT,Verified,Low,0 or less,MO,1923
+RENT,Not Verified,Low,1-2,CT,1924
+RENT,Verified,Low,3-5,SC,1925
+RENT,Source Verified,Lower-Mid,6-10,IN,1926
+MORTGAGE,Verified,Low,3-5,GA,1927
+OWN,Verified,Lower-Mid,6-10,AZ,1928
+MORTGAGE,Verified,Lower-Mid,6-10,TX,1929
+OWN,Not Verified,Low,1-2,MI,1930
+MORTGAGE,Not Verified,Lower-Mid,0 or less,MI,1931
+MORTGAGE,Not Verified,High,0 or less,NY,1932
+OWN,Source Verified,Lower-Mid,0 or less,TX,1933
+MORTGAGE,Source Verified,High,6-10,MN,1934
+OWN,Verified,Upper-Mid,6-10,AL,1935
+RENT,Verified,Low,,WA,1936
+MORTGAGE,Source Verified,Low,0 or less,WA,1937
+MORTGAGE,Source Verified,Lower-Mid,6-10,UT,1938
+RENT,Verified,Low,6-10,PA,1939
+MORTGAGE,Source Verified,Low,0 or less,TN,1940
+OWN,Verified,Upper-Mid,3-5,MT,1941
+MORTGAGE,Source Verified,High,0 or less,CA,1942
+MORTGAGE,Source Verified,Lower-Mid,1-2,CA,1943
+RENT,Not Verified,,,MS,1944
+MORTGAGE,Not Verified,Low,3-5,OH,1945
+MORTGAGE,Source Verified,Low,3-5,PA,1946
+MORTGAGE,Verified,Lower-Mid,1-2,VA,1947
+MORTGAGE,Source Verified,Low,6-10,SC,1948
+MORTGAGE,Verified,Low,1-2,WI,1949
+RENT,Source Verified,Low,6-10,WI,1950
+OWN,Verified,Low,1-2,GA,1951
+MORTGAGE,Not Verified,High,0 or less,TX,1952
+RENT,Source Verified,Upper-Mid,1-2,WA,1953
+RENT,Source Verified,Low,6-10,MI,1954
+OWN,Source Verified,Low,,TX,1955
+RENT,Verified,Upper-Mid,3-5,MI,1956
+MORTGAGE,Source Verified,Lower-Mid,3-5,NC,1957
+MORTGAGE,Source Verified,Upper-Mid,6-10,NV,1958
+MORTGAGE,Not Verified,Lower-Mid,6-10,AZ,1959
+MORTGAGE,Verified,Low,,VA,1960
+MORTGAGE,Not Verified,Upper-Mid,,ME,1961
+OWN,Source Verified,Upper-Mid,1-2,TX,1962
+MORTGAGE,Not Verified,Lower-Mid,0 or less,OH,1963
+MORTGAGE,Source Verified,High,0 or less,UT,1964
+MORTGAGE,Source Verified,High,1-2,OH,1965
+MORTGAGE,Verified,High,6-10,IN,1966
+MORTGAGE,Verified,Upper-Mid,3-5,IL,1967
+MORTGAGE,Verified,Low,3-5,TN,1968
+OWN,Not Verified,High,3-5,TX,1969
+RENT,Not Verified,Low,,AL,1970
+MORTGAGE,Source Verified,Lower-Mid,3-5,MN,1971
+MORTGAGE,Not Verified,Upper-Mid,3-5,MO,1972
+MORTGAGE,Verified,Low,,GA,1973
+OWN,Verified,Upper-Mid,3-5,WV,1974
+OWN,Source Verified,Lower-Mid,1-2,FL,1975
+MORTGAGE,Source Verified,Upper-Mid,6-10,DE,1976
+RENT,Not Verified,Upper-Mid,1-2,MI,1977
+OWN,Not Verified,Low,,TN,1978
+MORTGAGE,Source Verified,Upper-Mid,3-5,HI,1979
+RENT,Source Verified,High,1-2,TX,1980
+MORTGAGE,Source Verified,Low,6-10,HI,1981
+MORTGAGE,Not Verified,Upper-Mid,6-10,AL,1982
+OWN,Source Verified,High,1-2,CA,1983
+MORTGAGE,Not Verified,High,1-2,AZ,1984
+OWN,Not Verified,Lower-Mid,6-10,NV,1985
+RENT,Not Verified,Lower-Mid,3-5,MD,1986
+MORTGAGE,Not Verified,Low,,TN,1987
+MORTGAGE,Source Verified,High,1-2,MT,1988
+OWN,Source Verified,Upper-Mid,6-10,AK,1989
+MORTGAGE,Source Verified,Lower-Mid,3-5,KS,1990
+MORTGAGE,Not Verified,High,6-10,NE,1991
+MORTGAGE,Not Verified,Lower-Mid,3-5,MN,1992
+MORTGAGE,Not Verified,High,1-2,SC,1993
+OWN,Source Verified,Upper-Mid,6-10,NM,1994
+MORTGAGE,Not Verified,Upper-Mid,3-5,CO,1995
+MORTGAGE,Not Verified,Lower-Mid,3-5,MS,1996
+RENT,Not Verified,Lower-Mid,0 or less,WY,1997
+RENT,Source Verified,Upper-Mid,1-2,MI,1998
+OWN,Not Verified,High,6-10,MA,1999
+RENT,Verified,Lower-Mid,0 or less,OR,2000
+MORTGAGE,Source Verified,Upper-Mid,3-5,CO,2001
+MORTGAGE,Source Verified,Upper-Mid,6-10,OR,2002
+MORTGAGE,Not Verified,High,1-2,OK,2003
+MORTGAGE,Source Verified,Low,1-2,TX,2004
+MORTGAGE,Not Verified,Upper-Mid,0 or less,NC,2005
+MORTGAGE,Verified,High,6-10,MO,2006
+OWN,Not Verified,High,,NY,2007
+RENT,Not Verified,Low,6-10,MO,2008
+OWN,Verified,Low,,TN,2009
+RENT,Not Verified,Upper-Mid,6-10,WA,2010
+OWN,Source Verified,Upper-Mid,3-5,KY,2011
+OWN,Not Verified,Upper-Mid,,AL,2012
+MORTGAGE,Not Verified,Upper-Mid,1-2,GA,2013
+OWN,Not Verified,High,1-2,TX,2014
+RENT,Source Verified,Low,3-5,VA,2015
+RENT,Not Verified,Upper-Mid,6-10,AK,2016
+MORTGAGE,Not Verified,Lower-Mid,6-10,MO,2017
+MORTGAGE,Verified,Upper-Mid,6-10,WV,2018
+MORTGAGE,Verified,Low,3-5,KY,2019
+OWN,Source Verified,Low,6-10,AR,2020
+MORTGAGE,Source Verified,Lower-Mid,1-2,OH,2021
+OWN,Not Verified,Low,,NC,2022
+MORTGAGE,Not Verified,Lower-Mid,,CT,2023
+RENT,Not Verified,Lower-Mid,6-10,CO,2024
+MORTGAGE,Verified,Low,1-2,KY,2025
+MORTGAGE,Source Verified,High,3-5,NY,2026
+RENT,Source Verified,Lower-Mid,3-5,HI,2027
+RENT,Not Verified,Lower-Mid,1-2,WA,2028
+RENT,Source Verified,Lower-Mid,6-10,OH,2029
+RENT,Source Verified,Low,3-5,CT,2030
+RENT,Not Verified,Upper-Mid,3-5,MD,2031
+MORTGAGE,Source Verified,Lower-Mid,3-5,PA,2032
+MORTGAGE,Verified,Lower-Mid,1-2,NC,2033
+RENT,Not Verified,Lower-Mid,1-2,NV,2034
+RENT,Not Verified,High,1-2,CO,2035
+OWN,Source Verified,Upper-Mid,6-10,WV,2036
+RENT,Source Verified,Low,,MI,2037
+MORTGAGE,Not Verified,Upper-Mid,6-10,DC,2038
+OWN,Not Verified,Lower-Mid,3-5,KS,2039
+MORTGAGE,Verified,High,6-10,ME,2040
+MORTGAGE,Source Verified,Lower-Mid,,OR,2041
+MORTGAGE,Verified,Low,1-2,LA,2042
+RENT,Verified,Lower-Mid,,HI,2043
+MORTGAGE,Source Verified,Lower-Mid,6-10,MS,2044
+MORTGAGE,Not Verified,Lower-Mid,0 or less,VA,2045
+MORTGAGE,Source Verified,Lower-Mid,1-2,NJ,2046
+MORTGAGE,Source Verified,Lower-Mid,,AZ,2047
+OWN,Verified,Low,3-5,WA,2048
+MORTGAGE,Verified,Lower-Mid,,VT,2049
+MORTGAGE,Verified,Lower-Mid,,AZ,2050
+MORTGAGE,Not Verified,Lower-Mid,,AR,2051
+RENT,Not Verified,Lower-Mid,3-5,VT,2052
+RENT,Source Verified,Upper-Mid,0 or less,NY,2053
+MORTGAGE,Source Verified,Lower-Mid,0 or less,CO,2054
+OWN,Not Verified,Low,6-10,VA,2055
+RENT,Verified,Upper-Mid,1-2,NJ,2056
+MORTGAGE,Verified,Upper-Mid,,OH,2057
+RENT,Verified,Upper-Mid,1-2,FL,2058
+RENT,Source Verified,High,3-5,CO,2059
+OWN,Not Verified,Upper-Mid,3-5,IN,2060
+OWN,Not Verified,Low,,NV,2061
+RENT,Not Verified,Low,0 or less,TX,2062
+RENT,Source Verified,Upper-Mid,,NY,2063
+RENT,Source Verified,Lower-Mid,0 or less,TX,2064
+OWN,Source Verified,Lower-Mid,,IN,2065
+RENT,Verified,Lower-Mid,1-2,UT,2066
+MORTGAGE,Source Verified,Low,6-10,KS,2067
+RENT,Not Verified,Low,6-10,MA,2068
+MORTGAGE,Not Verified,Upper-Mid,0 or less,FL,2069
+OWN,Source Verified,Low,,TN,2070
+MORTGAGE,Not Verified,Lower-Mid,6-10,VA,2071
+MORTGAGE,Source Verified,Low,6-10,OK,2072
+RENT,Verified,High,,FL,2073
+RENT,Source Verified,High,1-2,IN,2074
+RENT,Not Verified,Lower-Mid,6-10,HI,2075
+MORTGAGE,Verified,Upper-Mid,6-10,CO,2076
+MORTGAGE,Not Verified,High,3-5,CT,2077
+MORTGAGE,Verified,Low,1-2,MA,2078
+MORTGAGE,Verified,Lower-Mid,6-10,MA,2079
+RENT,Verified,Lower-Mid,1-2,CO,2080
+OWN,Not Verified,Lower-Mid,,TX,2081
+MORTGAGE,Verified,Upper-Mid,6-10,ID,2082
+OWN,Verified,High,1-2,CA,2083
+OWN,Source Verified,Lower-Mid,6-10,MO,2084
+RENT,Source Verified,High,3-5,TX,2085
+MORTGAGE,Verified,Upper-Mid,6-10,WI,2086
+OWN,Not Verified,Low,3-5,MO,2087
+MORTGAGE,Source Verified,High,1-2,GA,2088
+RENT,Verified,High,6-10,VA,2089
+OWN,Source Verified,Low,0 or less,PA,2090
+MORTGAGE,Not Verified,Lower-Mid,6-10,UT,2091
+MORTGAGE,Not Verified,Low,,IN,2092
+RENT,Verified,Upper-Mid,3-5,VA,2093
+RENT,Verified,High,6-10,PA,2094
+MORTGAGE,Source Verified,Upper-Mid,,OH,2095
+RENT,Verified,High,1-2,FL,2096
+MORTGAGE,Source Verified,Upper-Mid,0 or less,TX,2097
+RENT,Not Verified,Upper-Mid,1-2,CT,2098
+OWN,Source Verified,Lower-Mid,0 or less,CT,2099
+OWN,Not Verified,Lower-Mid,1-2,NJ,2100
+RENT,Source Verified,Upper-Mid,1-2,KS,2101
+RENT,Verified,Lower-Mid,6-10,NV,2102
+MORTGAGE,Verified,Lower-Mid,6-10,NC,2103
+OWN,Verified,High,3-5,VA,2104
+RENT,Verified,Low,,KS,2105
+MORTGAGE,Not Verified,Upper-Mid,1-2,MS,2106
+OWN,Source Verified,Lower-Mid,3-5,NY,2107
+RENT,Source Verified,Low,0 or less,CO,2108
+OWN,Not Verified,Lower-Mid,1-2,MD,2109
+MORTGAGE,Verified,Lower-Mid,,WA,2110
+RENT,Source Verified,Low,6-10,AZ,2111
+OWN,Verified,High,6-10,IL,2112
+MORTGAGE,Verified,Lower-Mid,6-10,LA,2113
+RENT,Verified,Low,1-2,IN,2114
+MORTGAGE,Source Verified,High,0 or less,MD,2115
+OWN,Not Verified,Upper-Mid,,NY,2116
+MORTGAGE,Source Verified,Low,3-5,NE,2117
+OWN,Source Verified,Low,6-10,AZ,2118
+MORTGAGE,Verified,Low,1-2,MD,2119
+MORTGAGE,Verified,Low,6-10,MS,2120
+MORTGAGE,Verified,High,6-10,ND,2121
+MORTGAGE,Verified,Low,6-10,CT,2122
+MORTGAGE,Not Verified,Upper-Mid,3-5,MI,2123
+RENT,Not Verified,Upper-Mid,6-10,KS,2124
+RENT,Not Verified,Low,3-5,PA,2125
+OWN,Verified,High,6-10,NV,2126
+OWN,Source Verified,Low,6-10,PA,2127
+OWN,Not Verified,Upper-Mid,6-10,OR,2128
+RENT,Verified,Lower-Mid,3-5,CT,2129
+OWN,Verified,Lower-Mid,3-5,CT,2130
+RENT,Source Verified,Upper-Mid,,UT,2131
+RENT,Verified,High,3-5,MA,2132
+MORTGAGE,Source Verified,Low,,NY,2133
+RENT,Not Verified,Lower-Mid,1-2,FL,2134
+MORTGAGE,Verified,Lower-Mid,3-5,AZ,2135
+OWN,Source Verified,Low,6-10,MI,2136
+MORTGAGE,Not Verified,Lower-Mid,3-5,NJ,2137
+MORTGAGE,Not Verified,Lower-Mid,0 or less,MD,2138
+OWN,Source Verified,Lower-Mid,6-10,PA,2139
+RENT,Verified,Low,1-2,AL,2140
+RENT,Source Verified,Upper-Mid,1-2,KY,2141
+OWN,Not Verified,Lower-Mid,,MD,2142
+MORTGAGE,Source Verified,High,6-10,UT,2143
+MORTGAGE,Source Verified,Lower-Mid,1-2,VA,2144
+RENT,Source Verified,Low,,NY,2145
+OWN,Verified,High,6-10,MD,2146
+RENT,Not Verified,High,0 or less,CA,2147
+RENT,Source Verified,Lower-Mid,0 or less,ID,2148
+RENT,Verified,Low,1-2,WI,2149
+MORTGAGE,Source Verified,Upper-Mid,3-5,ME,2150
+MORTGAGE,Source Verified,Low,3-5,MI,2151
+RENT,Source Verified,Low,,CT,2152
+RENT,Verified,Upper-Mid,1-2,CA,2153
+RENT,Source Verified,Lower-Mid,3-5,AZ,2154
+MORTGAGE,Not Verified,Upper-Mid,6-10,MO,2155
+MORTGAGE,Verified,High,0 or less,NJ,2156
+MORTGAGE,Verified,Low,,MD,2157
+RENT,Source Verified,High,6-10,TX,2158
+MORTGAGE,Verified,Upper-Mid,0 or less,MN,2159
+OWN,Verified,Low,1-2,TX,2160
+RENT,Not Verified,Low,0 or less,IL,2161
+RENT,Not Verified,Low,6-10,NJ,2162
+OWN,Source Verified,Low,,LA,2163
+RENT,Not Verified,Upper-Mid,0 or less,OH,2164
+MORTGAGE,Not Verified,High,1-2,KY,2165
+RENT,Source Verified,Upper-Mid,3-5,WV,2166
+RENT,Source Verified,Upper-Mid,3-5,WA,2167
+RENT,Verified,Low,6-10,AR,2168
+MORTGAGE,Source Verified,Low,1-2,AK,2169
+MORTGAGE,Source Verified,Low,6-10,ID,2170
+RENT,Not Verified,Upper-Mid,0 or less,NV,2171
+OWN,Not Verified,Low,1-2,AZ,2172
+RENT,Verified,Low,6-10,MD,2173
+MORTGAGE,Not Verified,,,ID,2174
+OWN,Not Verified,Low,,CA,2175
+RENT,Source Verified,Low,6-10,MO,2176
+RENT,Source Verified,Low,,AR,2177
+OWN,Source Verified,Low,3-5,LA,2178
+OWN,Source Verified,Low,,NY,2179
+RENT,Verified,Upper-Mid,6-10,MA,2180
+MORTGAGE,Source Verified,Upper-Mid,1-2,NY,2181
+RENT,Source Verified,Lower-Mid,1-2,NH,2182
+OWN,Source Verified,Lower-Mid,1-2,NY,2183
+MORTGAGE,Not Verified,High,6-10,KS,2184
+MORTGAGE,Source Verified,Lower-Mid,1-2,MS,2185
+RENT,Verified,High,6-10,MA,2186
+RENT,Verified,High,6-10,WA,2187
+OWN,Verified,Lower-Mid,1-2,MN,2188
+RENT,Source Verified,Low,3-5,AZ,2189
+OWN,Not Verified,Lower-Mid,,WY,2190
+MORTGAGE,Source Verified,Lower-Mid,3-5,MT,2191
+MORTGAGE,Source Verified,High,0 or less,LA,2192
+RENT,Verified,High,0 or less,NY,2193
+RENT,Not Verified,Lower-Mid,6-10,ME,2194
+MORTGAGE,Verified,Lower-Mid,6-10,NH,2195
+OWN,Source Verified,Low,3-5,WI,2196
+RENT,Verified,Lower-Mid,3-5,SC,2197
+MORTGAGE,Not Verified,Low,1-2,AR,2198
+MORTGAGE,Verified,Upper-Mid,6-10,CT,2199
+RENT,Source Verified,Low,1-2,IL,2200
+RENT,Not Verified,Lower-Mid,,GA,2201
+RENT,Source Verified,High,3-5,DC,2202
+MORTGAGE,Not Verified,High,6-10,WI,2203
+RENT,Source Verified,Low,,TX,2204
+OWN,Source Verified,Low,0 or less,NY,2205
+OWN,Verified,Lower-Mid,1-2,CO,2206
+MORTGAGE,Source Verified,Low,,NC,2207
+MORTGAGE,Source Verified,High,6-10,AK,2208
+RENT,Source Verified,Low,1-2,UT,2209
+RENT,Not Verified,Lower-Mid,3-5,TX,2210
+OWN,Source Verified,Low,0 or less,FL,2211
+MORTGAGE,Verified,Upper-Mid,6-10,ME,2212
+RENT,Source Verified,Lower-Mid,,WA,2213
+OWN,Verified,Upper-Mid,6-10,AZ,2214
+MORTGAGE,Source Verified,Upper-Mid,1-2,MO,2215
+MORTGAGE,Source Verified,Upper-Mid,1-2,MI,2216
+OWN,Source Verified,Upper-Mid,1-2,FL,2217
+OWN,Verified,Low,6-10,IN,2218
+RENT,Source Verified,High,6-10,NV,2219
+MORTGAGE,Not Verified,Lower-Mid,3-5,IN,2220
+MORTGAGE,Verified,High,3-5,NM,2221
+MORTGAGE,Verified,Lower-Mid,1-2,MA,2222
+MORTGAGE,Not Verified,Low,1-2,MO,2223
+MORTGAGE,Verified,Lower-Mid,1-2,FL,2224
+RENT,Source Verified,Low,6-10,IL,2225
+MORTGAGE,Verified,High,1-2,AZ,2226
+RENT,Verified,Upper-Mid,,TX,2227
+MORTGAGE,Verified,Lower-Mid,3-5,KS,2228
+OWN,Verified,Low,3-5,TN,2229
+MORTGAGE,Verified,Upper-Mid,1-2,IL,2230
+MORTGAGE,Not Verified,Upper-Mid,,FL,2231
+RENT,Not Verified,Upper-Mid,3-5,RI,2232
+RENT,Not Verified,Low,6-10,NV,2233
+MORTGAGE,Verified,High,,MO,2234
+OWN,Not Verified,Lower-Mid,,AZ,2235
+RENT,Verified,Low,6-10,FL,2236
+MORTGAGE,Source Verified,Low,0 or less,IN,2237
+RENT,Verified,Lower-Mid,0 or less,MA,2238
+OWN,Not Verified,High,6-10,WA,2239
+MORTGAGE,Verified,High,0 or less,WA,2240
+RENT,Verified,Low,1-2,WV,2241
+RENT,Source Verified,High,,NJ,2242
+MORTGAGE,Not Verified,Upper-Mid,3-5,NM,2243
+RENT,Not Verified,Lower-Mid,6-10,MN,2244
+RENT,Source Verified,Low,1-2,KS,2245
+OWN,Source Verified,Low,6-10,CA,2246
+MORTGAGE,Not Verified,Upper-Mid,6-10,NH,2247
+MORTGAGE,Not Verified,Lower-Mid,0 or less,TX,2248
+MORTGAGE,Not Verified,Low,1-2,IL,2249
+RENT,Source Verified,Lower-Mid,6-10,WA,2250
+RENT,Verified,Lower-Mid,3-5,WI,2251
+OWN,Verified,Low,6-10,AK,2252
+RENT,Verified,Upper-Mid,1-2,ID,2253
+RENT,Source Verified,High,1-2,AK,2254
+RENT,Source Verified,Low,,MN,2255
+RENT,Source Verified,Upper-Mid,3-5,MI,2256
+MORTGAGE,Not Verified,Low,3-5,NC,2257
+RENT,Source Verified,Upper-Mid,1-2,MO,2258
+OWN,Verified,Low,6-10,WI,2259
+MORTGAGE,Not Verified,Low,1-2,TN,2260
+MORTGAGE,Not Verified,High,6-10,NH,2261
+RENT,Source Verified,Low,6-10,OH,2262
+OWN,Verified,Upper-Mid,3-5,OH,2263
+MORTGAGE,Verified,Upper-Mid,0 or less,TX,2264
+RENT,Source Verified,Upper-Mid,3-5,ND,2265
+MORTGAGE,Verified,Upper-Mid,,KY,2266
+OWN,Not Verified,Low,,VA,2267
+OWN,Source Verified,High,1-2,NJ,2268
+RENT,Verified,Lower-Mid,1-2,NC,2269
+OWN,Source Verified,Upper-Mid,6-10,PA,2270
+MORTGAGE,Verified,Lower-Mid,0 or less,FL,2271
+OWN,Not Verified,Upper-Mid,,NJ,2272
+RENT,Verified,Low,6-10,KY,2273
+OWN,Verified,Lower-Mid,6-10,MD,2274
+MORTGAGE,Source Verified,Upper-Mid,3-5,VA,2275
+MORTGAGE,Verified,Lower-Mid,1-2,MI,2276
+OWN,Source Verified,Low,6-10,NC,2277
+MORTGAGE,Source Verified,Lower-Mid,3-5,SC,2278
+OWN,Source Verified,Upper-Mid,6-10,OK,2279
+RENT,Not Verified,Lower-Mid,1-2,OK,2280
+RENT,Not Verified,Lower-Mid,1-2,CO,2281
+MORTGAGE,Not Verified,High,3-5,WV,2282
+RENT,Source Verified,High,1-2,CO,2283
+MORTGAGE,Not Verified,Low,6-10,MI,2284
+RENT,Verified,Upper-Mid,,NY,2285
+OWN,Not Verified,Upper-Mid,6-10,OH,2286
+RENT,Source Verified,Low,3-5,NV,2287
+MORTGAGE,Source Verified,High,1-2,KS,2288
+OWN,Not Verified,High,6-10,FL,2289
+MORTGAGE,Not Verified,High,6-10,AL,2290
+OWN,Source Verified,High,,CA,2291
+MORTGAGE,Source Verified,Upper-Mid,0 or less,MN,2292
+OWN,Verified,Lower-Mid,6-10,VA,2293
+RENT,Not Verified,Upper-Mid,0 or less,VA,2294
+OWN,Verified,Lower-Mid,1-2,NC,2295
+MORTGAGE,Not Verified,Low,6-10,OR,2296
+MORTGAGE,Not Verified,Upper-Mid,1-2,CA,2297
+MORTGAGE,Source Verified,Lower-Mid,6-10,NJ,2298
+OWN,Verified,Low,3-5,WY,2299
+MORTGAGE,Not Verified,Lower-Mid,1-2,MA,2300
+OWN,Not Verified,Lower-Mid,,NM,2301
+RENT,Source Verified,Lower-Mid,3-5,LA,2302
+OWN,Source Verified,High,3-5,NY,2303
+RENT,Not Verified,Upper-Mid,0 or less,NY,2304
+OWN,Verified,Low,6-10,MA,2305
+RENT,Not Verified,High,3-5,GA,2306
+OWN,Verified,Lower-Mid,6-10,UT,2307
+RENT,Verified,Upper-Mid,3-5,IL,2308
+RENT,Source Verified,Lower-Mid,6-10,TN,2309
+MORTGAGE,Source Verified,Low,1-2,WI,2310
+MORTGAGE,Not Verified,Low,,MS,2311
+OWN,Verified,Low,6-10,FL,2312
+RENT,Not Verified,Upper-Mid,3-5,MI,2313
+RENT,Source Verified,Lower-Mid,1-2,WI,2314
+MORTGAGE,Not Verified,Upper-Mid,6-10,WI,2315
+OWN,Source Verified,Upper-Mid,0 or less,NY,2316
+MORTGAGE,Not Verified,Low,3-5,KY,2317
+OWN,Source Verified,Lower-Mid,6-10,IL,2318
+OWN,Verified,High,1-2,NC,2319
+MORTGAGE,Source Verified,Upper-Mid,3-5,MO,2320
+RENT,Source Verified,Lower-Mid,,FL,2321
+MORTGAGE,Not Verified,Low,0 or less,ID,2322
+RENT,Verified,Low,3-5,AZ,2323
+MORTGAGE,Verified,Lower-Mid,3-5,CT,2324
+RENT,Source Verified,Upper-Mid,3-5,KY,2325
+MORTGAGE,Verified,Upper-Mid,6-10,AZ,2326
+RENT,Not Verified,Lower-Mid,1-2,WI,2327
+MORTGAGE,Not Verified,Low,,VA,2328
+RENT,Source Verified,Upper-Mid,0 or less,FL,2329
+RENT,Not Verified,Lower-Mid,1-2,AR,2330
+OWN,Source Verified,Lower-Mid,6-10,SC,2331
+MORTGAGE,Source Verified,High,0 or less,SC,2332
+MORTGAGE,Not Verified,High,3-5,AZ,2333
+RENT,Source Verified,Low,1-2,CT,2334
+RENT,Verified,Lower-Mid,3-5,PA,2335
+MORTGAGE,Source Verified,Upper-Mid,,WV,2336
+RENT,Source Verified,High,1-2,NV,2337
+MORTGAGE,Source Verified,Low,1-2,CO,2338
+MORTGAGE,Verified,Lower-Mid,3-5,NM,2339
+RENT,Source Verified,Low,0 or less,WI,2340
+RENT,Not Verified,Low,1-2,IN,2341
+MORTGAGE,Verified,Lower-Mid,,KY,2342
+MORTGAGE,Not Verified,Low,,IL,2343
+MORTGAGE,Verified,Upper-Mid,6-10,HI,2344
+RENT,Source Verified,Upper-Mid,3-5,TX,2345
+RENT,Not Verified,High,6-10,PA,2346
+RENT,Verified,Low,1-2,MT,2347
+OWN,Source Verified,Low,1-2,TN,2348
+RENT,Source Verified,Low,6-10,MD,2349
+MORTGAGE,Verified,High,,CO,2350
+MORTGAGE,Not Verified,Upper-Mid,,GA,2351
+RENT,Source Verified,Low,6-10,TN,2352
+MORTGAGE,Not Verified,Upper-Mid,6-10,ID,2353
+OWN,Source Verified,High,6-10,MS,2354
+RENT,Not Verified,Lower-Mid,3-5,RI,2355
+RENT,Not Verified,High,1-2,DC,2356
+MORTGAGE,Not Verified,Upper-Mid,1-2,NV,2357
+MORTGAGE,Not Verified,Lower-Mid,6-10,OK,2358
+MORTGAGE,Verified,Upper-Mid,,WA,2359
+MORTGAGE,Verified,Upper-Mid,3-5,CO,2360
+OWN,Verified,High,3-5,CA,2361
+OWN,Not Verified,Low,1-2,IL,2362
+OWN,Not Verified,Low,1-2,GA,2363
+MORTGAGE,Source Verified,Upper-Mid,6-10,WA,2364
+MORTGAGE,Verified,Upper-Mid,3-5,MD,2365
+OWN,Verified,Low,6-10,MO,2366
+RENT,Source Verified,Upper-Mid,6-10,NC,2367
+RENT,Not Verified,High,3-5,IN,2368
+OWN,Not Verified,Low,1-2,NY,2369
+MORTGAGE,Not Verified,High,1-2,NY,2370
+RENT,Source Verified,Low,1-2,KY,2371
+MORTGAGE,Not Verified,Upper-Mid,0 or less,NY,2372
+RENT,Not Verified,Low,0 or less,UT,2373
+MORTGAGE,Source Verified,Low,0 or less,PA,2374
+RENT,Source Verified,Low,3-5,GA,2375
+MORTGAGE,Not Verified,Low,1-2,CA,2376
+RENT,Source Verified,Lower-Mid,6-10,CT,2377
+RENT,Verified,Upper-Mid,3-5,GA,2378
+RENT,Not Verified,Lower-Mid,6-10,VT,2379
+RENT,Source Verified,Upper-Mid,6-10,MI,2380
+MORTGAGE,Source Verified,Low,,LA,2381
+MORTGAGE,Verified,Lower-Mid,3-5,WA,2382
+RENT,Verified,Low,,NV,2383
+RENT,Source Verified,Upper-Mid,,FL,2384
+OWN,Not Verified,Lower-Mid,6-10,ID,2385
+MORTGAGE,Verified,High,0 or less,TX,2386
+MORTGAGE,Not Verified,Upper-Mid,1-2,FL,2387
+RENT,Verified,Low,3-5,MI,2388
+MORTGAGE,Source Verified,Lower-Mid,6-10,WV,2389
+RENT,Not Verified,Low,,VA,2390
+OWN,Source Verified,Upper-Mid,6-10,MA,2391
+RENT,Not Verified,High,1-2,GA,2392
+RENT,Verified,Low,0 or less,NY,2393
+OWN,Source Verified,Upper-Mid,1-2,RI,2394
+MORTGAGE,Verified,Upper-Mid,6-10,MA,2395
+OWN,Verified,Lower-Mid,1-2,TX,2396
+MORTGAGE,Source Verified,Low,3-5,IN,2397
+RENT,Verified,Lower-Mid,3-5,MD,2398
+RENT,Source Verified,Lower-Mid,0 or less,NY,2399
+OWN,Source Verified,Lower-Mid,0 or less,PA,2400
+MORTGAGE,Source Verified,High,6-10,AL,2401
+MORTGAGE,Source Verified,High,1-2,NM,2402
+OWN,Verified,Upper-Mid,3-5,OK,2403
+RENT,Not Verified,High,3-5,DC,2404
+OWN,Verified,High,6-10,NY,2405
+RENT,Source Verified,Upper-Mid,1-2,IL,2406
+RENT,Source Verified,High,6-10,CT,2407
+RENT,Not Verified,Low,3-5,OR,2408
+MORTGAGE,Verified,Low,3-5,MN,2409
+MORTGAGE,Verified,Low,6-10,OR,2410
+MORTGAGE,Source Verified,Low,,VA,2411
+MORTGAGE,Verified,Low,0 or less,TX,2412
+RENT,Source Verified,Low,,CO,2413
+RENT,Source Verified,High,6-10,OH,2414
+MORTGAGE,Verified,Upper-Mid,3-5,AK,2415
+MORTGAGE,Source Verified,Low,,OH,2416
+OWN,Verified,Low,3-5,AL,2417
+MORTGAGE,Verified,Low,6-10,AL,2418
+RENT,Verified,High,1-2,AZ,2419
+RENT,Source Verified,Low,1-2,IN,2420
+MORTGAGE,Source Verified,Upper-Mid,,MA,2421
+MORTGAGE,Not Verified,Lower-Mid,3-5,OK,2422
+MORTGAGE,Source Verified,Lower-Mid,0 or less,NC,2423
+OWN,Verified,High,6-10,PA,2424
+MORTGAGE,Verified,Low,6-10,RI,2425
+RENT,Not Verified,Low,6-10,NM,2426
+RENT,Verified,Low,1-2,TN,2427
+MORTGAGE,Source Verified,Lower-Mid,1-2,NM,2428
+RENT,Verified,Lower-Mid,3-5,FL,2429
+MORTGAGE,Verified,Upper-Mid,3-5,KS,2430
+MORTGAGE,Source Verified,High,0 or less,KS,2431
+MORTGAGE,Source Verified,Low,1-2,ID,2432
+MORTGAGE,Source Verified,High,1-2,IN,2433
+OWN,Source Verified,High,1-2,GA,2434
+RENT,Source Verified,Low,3-5,IL,2435
+MORTGAGE,Verified,Upper-Mid,1-2,UT,2436
+OWN,Not Verified,Lower-Mid,6-10,NC,2437
+MORTGAGE,Source Verified,Low,1-2,TN,2438
+RENT,Verified,Low,0 or less,MA,2439
+MORTGAGE,Source Verified,High,3-5,RI,2440
+MORTGAGE,Not Verified,Lower-Mid,1-2,AR,2441
+MORTGAGE,Source Verified,High,6-10,DE,2442
+RENT,Not Verified,High,1-2,MO,2443
+OWN,Not Verified,Low,,SD,2444
+OWN,Verified,Upper-Mid,3-5,MI,2445
+MORTGAGE,Source Verified,Upper-Mid,0 or less,SC,2446
+MORTGAGE,Not Verified,Lower-Mid,,OH,2447
+OWN,Source Verified,Lower-Mid,6-10,KY,2448
+MORTGAGE,Verified,Upper-Mid,1-2,WV,2449
+MORTGAGE,Not Verified,Low,,SC,2450
+RENT,Source Verified,Upper-Mid,,IL,2451
+MORTGAGE,Not Verified,Upper-Mid,1-2,RI,2452
+RENT,Not Verified,Low,6-10,OH,2453
+RENT,Not Verified,Low,6-10,CT,2454
+OWN,Source Verified,Low,1-2,NJ,2455
+RENT,Source Verified,High,0 or less,OH,2456
+MORTGAGE,Source Verified,Low,3-5,NJ,2457
+MORTGAGE,Not Verified,Lower-Mid,6-10,AR,2458
+MORTGAGE,Not Verified,High,1-2,GA,2459
+RENT,Not Verified,Upper-Mid,,NJ,2460
+OWN,Verified,Upper-Mid,,AZ,2461
+OWN,Source Verified,Low,6-10,IN,2462
+MORTGAGE,Verified,Lower-Mid,1-2,WV,2463
+MORTGAGE,Verified,Upper-Mid,0 or less,IL,2464
+OWN,Verified,High,,FL,2465
+MORTGAGE,Source Verified,High,1-2,PA,2466
+MORTGAGE,Not Verified,Lower-Mid,1-2,SC,2467
+OWN,Source Verified,Low,3-5,AR,2468
+OWN,Source Verified,High,3-5,VA,2469
+RENT,Verified,Low,1-2,IL,2470
+MORTGAGE,Not Verified,High,6-10,MT,2471
+RENT,Verified,Low,0 or less,TN,2472
+MORTGAGE,Verified,Low,3-5,CO,2473
+MORTGAGE,Source Verified,Low,3-5,WV,2474
+OWN,Source Verified,Upper-Mid,3-5,NJ,2475
+OWN,Source Verified,Lower-Mid,6-10,NJ,2476
+RENT,Not Verified,Lower-Mid,6-10,AK,2477
+RENT,Verified,Low,,VA,2478
+MORTGAGE,Source Verified,Upper-Mid,6-10,OK,2479
+MORTGAGE,Source Verified,Low,3-5,WI,2480
+RENT,Not Verified,Low,6-10,SD,2481
+OWN,Not Verified,Lower-Mid,1-2,TX,2482
+RENT,Source Verified,Low,,AZ,2483
+RENT,Source Verified,Low,1-2,NH,2484
+MORTGAGE,Verified,High,,CA,2485
+OWN,Verified,Lower-Mid,6-10,NH,2486
+OWN,Source Verified,Upper-Mid,3-5,MO,2487
+RENT,Source Verified,Lower-Mid,1-2,HI,2488
+RENT,Not Verified,Low,,MA,2489
+MORTGAGE,Not Verified,Upper-Mid,3-5,NY,2490
+RENT,Source Verified,Low,6-10,SD,2491
+OWN,Not Verified,Lower-Mid,3-5,NY,2492
+MORTGAGE,Not Verified,Lower-Mid,3-5,MA,2493
+RENT,Source Verified,Upper-Mid,1-2,MN,2494
+MORTGAGE,Not Verified,Lower-Mid,3-5,NY,2495
+RENT,Source Verified,High,1-2,FL,2496
+OWN,Source Verified,Low,0 or less,KS,2497
+OWN,Verified,Lower-Mid,,NM,2498
+RENT,Verified,Lower-Mid,3-5,NJ,2499
+OWN,Not Verified,High,3-5,CO,2500
+OWN,Not Verified,Low,3-5,PA,2501
+MORTGAGE,Not Verified,Low,,CA,2502
+RENT,Not Verified,Low,6-10,RI,2503
+MORTGAGE,Not Verified,Low,,NJ,2504
+OWN,Source Verified,High,1-2,NY,2505
+RENT,Source Verified,Low,1-2,VA,2506
+RENT,Source Verified,Upper-Mid,6-10,OH,2507
+MORTGAGE,Not Verified,High,3-5,OK,2508
+MORTGAGE,Not Verified,Low,,MD,2509
+MORTGAGE,Verified,Upper-Mid,3-5,MI,2510
+RENT,Verified,Low,,KY,2511
+RENT,Not Verified,Lower-Mid,6-10,AL,2512
+MORTGAGE,Source Verified,Upper-Mid,1-2,LA,2513
+MORTGAGE,Source Verified,Upper-Mid,3-5,AZ,2514
+MORTGAGE,Verified,Low,3-5,NV,2515
+MORTGAGE,Verified,Low,0 or less,OH,2516
+RENT,Source Verified,Upper-Mid,3-5,NM,2517
+OWN,Verified,High,3-5,NY,2518
+MORTGAGE,Not Verified,Low,3-5,CA,2519
+RENT,Source Verified,Low,6-10,IN,2520
+OWN,Source Verified,,,MI,2521
+RENT,Not Verified,Upper-Mid,6-10,MI,2522
+MORTGAGE,Verified,Low,,SC,2523
+MORTGAGE,Verified,High,6-10,NM,2524
+MORTGAGE,Verified,Low,6-10,WA,2525
+OWN,Verified,Low,,NM,2526
+MORTGAGE,Verified,Lower-Mid,6-10,MI,2527
+OWN,Not Verified,Low,,AR,2528
+MORTGAGE,Source Verified,Low,,CO,2529
+OWN,Verified,Low,,MO,2530
+MORTGAGE,Verified,High,1-2,OH,2531
+MORTGAGE,Source Verified,Upper-Mid,1-2,KY,2532
+OWN,Source Verified,High,6-10,AR,2533
+OWN,Not Verified,Upper-Mid,,KS,2534
+RENT,Verified,Upper-Mid,6-10,VA,2535
+MORTGAGE,Not Verified,,,AZ,2536
+RENT,Not Verified,High,6-10,LA,2537
+RENT,Verified,High,3-5,VA,2538
+MORTGAGE,Verified,Lower-Mid,3-5,TN,2539
+RENT,Source Verified,Upper-Mid,1-2,VA,2540
+MORTGAGE,Source Verified,Upper-Mid,0 or less,TN,2541
+RENT,Verified,Lower-Mid,6-10,MT,2542
+OWN,Not Verified,Low,1-2,FL,2543
+MORTGAGE,Verified,High,6-10,AR,2544
+RENT,Source Verified,Low,1-2,TN,2545
+OWN,Verified,High,3-5,IL,2546
+RENT,Not Verified,Upper-Mid,3-5,WV,2547
+RENT,Not Verified,High,6-10,MS,2548
+MORTGAGE,Not Verified,High,3-5,FL,2549
+MORTGAGE,Not Verified,,,MO,2550
+RENT,Source Verified,Low,6-10,NV,2551
+RENT,Source Verified,Upper-Mid,0 or less,GA,2552
+RENT,Not Verified,Lower-Mid,0 or less,MN,2553
+MORTGAGE,Verified,High,,DC,2554
+MORTGAGE,Source Verified,Upper-Mid,,PA,2555
+OWN,Verified,Low,,WI,2556
+OWN,Not Verified,Lower-Mid,6-10,NY,2557
+MORTGAGE,Not Verified,Upper-Mid,1-2,KY,2558
+MORTGAGE,Not Verified,Lower-Mid,6-10,WA,2559
+OWN,Not Verified,High,6-10,LA,2560
+MORTGAGE,Source Verified,Low,1-2,PA,2561
+MORTGAGE,Source Verified,Low,1-2,VA,2562
+MORTGAGE,Source Verified,Upper-Mid,1-2,AZ,2563
+RENT,Not Verified,Lower-Mid,0 or less,TX,2564
+OWN,Verified,Upper-Mid,6-10,OH,2565
+RENT,Verified,Upper-Mid,0 or less,MN,2566
+MORTGAGE,Not Verified,Upper-Mid,1-2,OR,2567
+MORTGAGE,Not Verified,,,NC,2568
+MORTGAGE,Source Verified,High,3-5,WY,2569
+MORTGAGE,Source Verified,Lower-Mid,6-10,OK,2570
+OWN,Source Verified,Upper-Mid,6-10,NC,2571
+RENT,Not Verified,High,3-5,NE,2572
+MORTGAGE,Not Verified,High,1-2,KS,2573
+OWN,Not Verified,Low,0 or less,NY,2574
+MORTGAGE,Verified,High,,NY,2575
+MORTGAGE,Not Verified,Upper-Mid,6-10,SD,2576
+OWN,Not Verified,Lower-Mid,6-10,MS,2577
+RENT,Source Verified,High,3-5,OR,2578
+MORTGAGE,Source Verified,Lower-Mid,1-2,OR,2579
+RENT,Source Verified,Low,1-2,ID,2580
+MORTGAGE,Verified,Lower-Mid,0 or less,AR,2581
+MORTGAGE,Verified,High,0 or less,DC,2582
+MORTGAGE,Verified,High,1-2,WA,2583
+MORTGAGE,Not Verified,Lower-Mid,6-10,SD,2584
+MORTGAGE,Source Verified,Low,1-2,MO,2585
+OWN,Verified,High,6-10,OH,2586
+OWN,Verified,Low,6-10,KY,2587
+RENT,Source Verified,Low,1-2,NC,2588
+OWN,Verified,Lower-Mid,1-2,FL,2589
+MORTGAGE,Not Verified,Low,0 or less,OH,2590
+MORTGAGE,Verified,Upper-Mid,3-5,LA,2591
+RENT,Source Verified,Low,6-10,WV,2592
+OWN,Not Verified,High,6-10,NC,2593
+OWN,Source Verified,Upper-Mid,3-5,IN,2594
+OWN,Not Verified,Low,3-5,NY,2595
+OWN,Not Verified,Lower-Mid,6-10,RI,2596
+MORTGAGE,Verified,Lower-Mid,1-2,UT,2597
+RENT,Source Verified,High,,CA,2598
+RENT,Not Verified,Low,1-2,DE,2599
+RENT,Source Verified,Lower-Mid,0 or less,KY,2600
+RENT,Source Verified,Lower-Mid,0 or less,NJ,2601
+RENT,Verified,Lower-Mid,1-2,FL,2602
+OWN,Verified,Lower-Mid,3-5,MO,2603
+MORTGAGE,Not Verified,High,6-10,KY,2604
+MORTGAGE,Source Verified,Low,6-10,TN,2605
+MORTGAGE,Not Verified,High,1-2,MI,2606
+MORTGAGE,Verified,Low,1-2,OH,2607
+MORTGAGE,Verified,High,6-10,KS,2608
+MORTGAGE,Source Verified,Lower-Mid,6-10,MT,2609
+RENT,Source Verified,Upper-Mid,6-10,MA,2610
+MORTGAGE,Not Verified,Lower-Mid,6-10,DE,2611
+MORTGAGE,Verified,Lower-Mid,3-5,AL,2612
+OWN,Not Verified,Lower-Mid,1-2,IN,2613
+MORTGAGE,Verified,Low,,PA,2614
+MORTGAGE,Source Verified,Upper-Mid,3-5,OH,2615
+MORTGAGE,Not Verified,Lower-Mid,,PA,2616
+RENT,Source Verified,High,1-2,MN,2617
+OWN,Source Verified,Upper-Mid,6-10,MO,2618
+OWN,Verified,Low,1-2,IL,2619
+RENT,Source Verified,Lower-Mid,6-10,SC,2620
+MORTGAGE,Not Verified,High,3-5,ND,2621
+OWN,Not Verified,Lower-Mid,3-5,MI,2622
+RENT,Verified,Upper-Mid,3-5,CT,2623
+MORTGAGE,Verified,Lower-Mid,6-10,KS,2624
+RENT,Verified,Low,,GA,2625
+MORTGAGE,Not Verified,Low,6-10,CO,2626
+OWN,Source Verified,High,6-10,MA,2627
+RENT,Not Verified,Low,1-2,TN,2628
+MORTGAGE,Not Verified,Upper-Mid,6-10,RI,2629
+MORTGAGE,Not Verified,Upper-Mid,1-2,PA,2630
+RENT,Source Verified,Low,3-5,NH,2631
+MORTGAGE,Verified,Upper-Mid,1-2,SC,2632
+RENT,Verified,Lower-Mid,3-5,CO,2633
+RENT,Source Verified,Low,6-10,AR,2634
+MORTGAGE,Not Verified,Upper-Mid,,OH,2635
+RENT,Verified,Low,1-2,MD,2636
+OWN,Source Verified,Lower-Mid,0 or less,CA,2637
+OWN,Not Verified,Low,,WV,2638
+MORTGAGE,Verified,High,1-2,MN,2639
+RENT,Not Verified,Upper-Mid,0 or less,IN,2640
+RENT,Source Verified,Upper-Mid,0 or less,IL,2641
+RENT,Verified,Lower-Mid,3-5,KY,2642
+MORTGAGE,Not Verified,Lower-Mid,6-10,AL,2643
+MORTGAGE,Source Verified,Lower-Mid,,MD,2644
+MORTGAGE,Source Verified,Low,3-5,OK,2645
+OWN,Not Verified,Lower-Mid,,OK,2646
+RENT,Not Verified,Upper-Mid,0 or less,WA,2647
+MORTGAGE,Verified,Low,6-10,UT,2648
+MORTGAGE,Verified,High,3-5,TN,2649
+RENT,Source Verified,High,0 or less,LA,2650
+MORTGAGE,Source Verified,Low,0 or less,MO,2651
+RENT,Source Verified,Upper-Mid,1-2,MA,2652
+OWN,Source Verified,Low,,WI,2653
+OWN,Source Verified,High,6-10,NC,2654
+RENT,Not Verified,Lower-Mid,0 or less,AZ,2655
+MORTGAGE,Source Verified,Upper-Mid,3-5,NV,2656
+OWN,Not Verified,Lower-Mid,1-2,VA,2657
+MORTGAGE,Verified,Low,3-5,WV,2658
+RENT,Source Verified,Low,0 or less,MI,2659
+MORTGAGE,Source Verified,High,3-5,MI,2660
+RENT,Source Verified,Upper-Mid,1-2,ID,2661
+MORTGAGE,Not Verified,Lower-Mid,3-5,MI,2662
+OWN,Not Verified,Low,0 or less,NE,2663
+OWN,Not Verified,Lower-Mid,1-2,FL,2664
+OWN,Verified,High,6-10,VA,2665
+RENT,Verified,High,3-5,CT,2666
+RENT,Source Verified,High,3-5,MI,2667
+MORTGAGE,Verified,Upper-Mid,,NC,2668
+OWN,Verified,Upper-Mid,,TX,2669
+RENT,Verified,Lower-Mid,6-10,MA,2670
+MORTGAGE,Not Verified,High,3-5,GA,2671
+OWN,Source Verified,High,1-2,TX,2672
+MORTGAGE,Source Verified,High,1-2,MI,2673
+RENT,Verified,Low,6-10,OR,2674
+RENT,Not Verified,Upper-Mid,0 or less,TX,2675
+OWN,Verified,High,6-10,MI,2676
+MORTGAGE,Not Verified,Low,6-10,MS,2677
+OWN,Verified,Low,3-5,OH,2678
+MORTGAGE,Source Verified,Low,6-10,KY,2679
+OWN,Verified,Lower-Mid,3-5,MS,2680
+RENT,Verified,Upper-Mid,3-5,MD,2681
+OWN,Not Verified,Upper-Mid,3-5,FL,2682
+RENT,Verified,Upper-Mid,6-10,NJ,2683
+MORTGAGE,Not Verified,Lower-Mid,3-5,NC,2684
+MORTGAGE,Verified,High,,MD,2685
+MORTGAGE,Source Verified,Lower-Mid,0 or less,CA,2686
+MORTGAGE,Not Verified,Low,1-2,NC,2687
+OWN,Source Verified,Low,3-5,DE,2688
+MORTGAGE,Verified,Upper-Mid,,FL,2689
+OWN,Not Verified,Lower-Mid,0 or less,NY,2690
+RENT,Verified,Low,1-2,KS,2691
+OWN,Source Verified,Upper-Mid,6-10,AZ,2692
+RENT,Not Verified,Low,,TX,2693
+MORTGAGE,Verified,Lower-Mid,1-2,GA,2694
+MORTGAGE,Not Verified,Low,1-2,ID,2695
+MORTGAGE,Not Verified,Upper-Mid,3-5,SD,2696
+OWN,Verified,Lower-Mid,6-10,GA,2697
+RENT,Source Verified,Upper-Mid,1-2,OR,2698
+RENT,Source Verified,Low,6-10,RI,2699
+OWN,Source Verified,Low,,UT,2700
+MORTGAGE,Source Verified,Lower-Mid,0 or less,KY,2701
+MORTGAGE,Source Verified,High,0 or less,GA,2702
+MORTGAGE,Verified,Upper-Mid,6-10,LA,2703
+OWN,Not Verified,Lower-Mid,,PA,2704
+OWN,Verified,Low,6-10,NY,2705
+MORTGAGE,Verified,Lower-Mid,6-10,CT,2706
+OWN,Not Verified,Upper-Mid,0 or less,OH,2707
+OWN,Source Verified,Low,0 or less,IL,2708
+MORTGAGE,Source Verified,High,1-2,LA,2709
+OWN,Not Verified,High,0 or less,TX,2710
+MORTGAGE,Source Verified,Lower-Mid,6-10,AK,2711
+OWN,Source Verified,High,6-10,OH,2712
+RENT,Source Verified,High,3-5,MO,2713
+RENT,Source Verified,Low,6-10,NM,2714
+RENT,Verified,Lower-Mid,6-10,LA,2715
+OWN,Verified,High,6-10,CT,2716
+MORTGAGE,Not Verified,Lower-Mid,1-2,DE,2717
+MORTGAGE,Verified,High,3-5,GA,2718
+MORTGAGE,Verified,High,1-2,FL,2719
+MORTGAGE,Verified,Low,1-2,IL,2720
+MORTGAGE,Source Verified,Lower-Mid,3-5,MI,2721
+OWN,Verified,Upper-Mid,3-5,IL,2722
+MORTGAGE,Not Verified,Lower-Mid,,SC,2723
+MORTGAGE,Source Verified,Low,6-10,AZ,2724
+RENT,Verified,High,3-5,NY,2725
+MORTGAGE,Not Verified,Upper-Mid,3-5,VA,2726
+MORTGAGE,Not Verified,Lower-Mid,6-10,NM,2727
+MORTGAGE,Verified,Upper-Mid,0 or less,PA,2728
+RENT,Not Verified,Low,,IL,2729
+MORTGAGE,Source Verified,Lower-Mid,1-2,OK,2730
+OWN,Not Verified,Lower-Mid,,MT,2731
+MORTGAGE,Not Verified,Lower-Mid,1-2,IL,2732
+RENT,Not Verified,Low,,WI,2733
+OWN,Not Verified,Low,6-10,NC,2734
+MORTGAGE,Not Verified,,,KS,2735
+RENT,Not Verified,Upper-Mid,,FL,2736
+MORTGAGE,Source Verified,Upper-Mid,3-5,OR,2737
+RENT,Not Verified,Upper-Mid,1-2,GA,2738
+OWN,Not Verified,Lower-Mid,3-5,DE,2739
+OWN,Source Verified,Lower-Mid,6-10,NV,2740
+RENT,Source Verified,Lower-Mid,,MN,2741
+RENT,Source Verified,High,3-5,TN,2742
+OWN,Not Verified,Lower-Mid,6-10,DE,2743
+MORTGAGE,Source Verified,Low,1-2,OH,2744
+RENT,Source Verified,Low,1-2,MN,2745
+RENT,Not Verified,Upper-Mid,6-10,NH,2746
+MORTGAGE,Verified,Lower-Mid,3-5,MS,2747
+MORTGAGE,Not Verified,Lower-Mid,0 or less,KS,2748
+RENT,Verified,Low,0 or less,WI,2749
+OWN,Verified,Low,1-2,SD,2750
+OWN,Not Verified,Lower-Mid,,VA,2751
+RENT,Not Verified,Upper-Mid,,WA,2752
+RENT,Source Verified,Lower-Mid,6-10,LA,2753
+MORTGAGE,Source Verified,Lower-Mid,3-5,WV,2754
+RENT,Not Verified,Lower-Mid,1-2,MT,2755
+RENT,Verified,Low,3-5,RI,2756
+MORTGAGE,Not Verified,Lower-Mid,6-10,MD,2757
+RENT,Source Verified,High,0 or less,NC,2758
+OWN,Verified,Upper-Mid,1-2,GA,2759
+OWN,Not Verified,Lower-Mid,6-10,SD,2760
+RENT,Source Verified,Lower-Mid,3-5,NV,2761
+MORTGAGE,Not Verified,High,3-5,MO,2762
+OWN,Not Verified,Low,6-10,FL,2763
+RENT,Not Verified,High,,CA,2764
+MORTGAGE,Source Verified,Lower-Mid,0 or less,WA,2765
+MORTGAGE,Not Verified,High,6-10,LA,2766
+RENT,Not Verified,Low,,ME,2767
+OWN,Source Verified,Lower-Mid,6-10,CO,2768
+OWN,Not Verified,Lower-Mid,3-5,GA,2769
+MORTGAGE,Source Verified,Low,0 or less,IL,2770
+RENT,Not Verified,Lower-Mid,1-2,AL,2771
+OWN,Not Verified,Lower-Mid,,IL,2772
+RENT,Not Verified,Lower-Mid,3-5,TN,2773
+MORTGAGE,Source Verified,Upper-Mid,0 or less,GA,2774
+MORTGAGE,Source Verified,Lower-Mid,3-5,AZ,2775
+RENT,Source Verified,High,1-2,WA,2776
+OWN,Source Verified,Lower-Mid,6-10,OK,2777
+OWN,Source Verified,Lower-Mid,,WV,2778
+OWN,Not Verified,High,0 or less,IL,2779
+MORTGAGE,Not Verified,High,0 or less,CT,2780
+MORTGAGE,Source Verified,Upper-Mid,1-2,CT,2781
+MORTGAGE,Verified,Lower-Mid,6-10,CO,2782
+MORTGAGE,Not Verified,Upper-Mid,6-10,KY,2783
+MORTGAGE,Source Verified,High,0 or less,MN,2784
+MORTGAGE,Verified,Upper-Mid,3-5,CT,2785
+MORTGAGE,Not Verified,High,1-2,TX,2786
+OWN,Source Verified,Upper-Mid,3-5,PA,2787
+RENT,Verified,Upper-Mid,1-2,PA,2788
+MORTGAGE,Source Verified,Lower-Mid,6-10,NM,2789
+RENT,Verified,Lower-Mid,6-10,CO,2790
+RENT,Source Verified,Upper-Mid,6-10,AZ,2791
+MORTGAGE,Source Verified,High,1-2,NV,2792
+OWN,Verified,Lower-Mid,6-10,TN,2793
+RENT,Not Verified,High,3-5,IL,2794
+MORTGAGE,Source Verified,Upper-Mid,0 or less,AZ,2795
+OWN,Not Verified,Lower-Mid,6-10,LA,2796
+RENT,Source Verified,Upper-Mid,,WI,2797
+MORTGAGE,Not Verified,Lower-Mid,6-10,WV,2798
+RENT,Source Verified,Upper-Mid,1-2,SC,2799
+RENT,Not Verified,Lower-Mid,6-10,NH,2800
+OWN,Not Verified,Lower-Mid,6-10,OR,2801
+OWN,Source Verified,Upper-Mid,1-2,SD,2802
+OWN,Verified,Low,6-10,VT,2803
+MORTGAGE,Verified,High,1-2,AL,2804
+RENT,Verified,Upper-Mid,3-5,AZ,2805
+RENT,Not Verified,Lower-Mid,0 or less,NE,2806
+RENT,Not Verified,Low,3-5,WV,2807
+RENT,Not Verified,High,6-10,WI,2808
+MORTGAGE,Source Verified,High,6-10,NE,2809
+RENT,Source Verified,Upper-Mid,3-5,WI,2810
+OWN,Not Verified,Lower-Mid,3-5,PA,2811
+OWN,Source Verified,Upper-Mid,0 or less,MD,2812
+RENT,Verified,Low,0 or less,FL,2813
+OWN,Source Verified,Lower-Mid,1-2,ND,2814
+RENT,Source Verified,Low,3-5,CO,2815
+MORTGAGE,Verified,Upper-Mid,6-10,PA,2816
+OWN,Verified,Lower-Mid,3-5,IN,2817
+RENT,Source Verified,Upper-Mid,,CA,2818
+RENT,Not Verified,Low,6-10,WV,2819
+OWN,Source Verified,Upper-Mid,6-10,IN,2820
+OWN,Verified,High,6-10,TX,2821
+OWN,Source Verified,Lower-Mid,6-10,GA,2822
+RENT,Source Verified,High,6-10,UT,2823
+RENT,Verified,Low,6-10,TN,2824
+OWN,Not Verified,High,3-5,FL,2825
+RENT,Not Verified,High,1-2,IL,2826
+RENT,Not Verified,Low,3-5,MA,2827
+OWN,Source Verified,Upper-Mid,6-10,VA,2828
+MORTGAGE,Source Verified,High,6-10,MT,2829
+RENT,Not Verified,High,1-2,OR,2830
+RENT,Verified,Low,6-10,NE,2831
+RENT,Not Verified,Lower-Mid,6-10,NE,2832
+RENT,Not Verified,Low,,MD,2833
+RENT,Not Verified,High,6-10,NH,2834
+OWN,Not Verified,Low,3-5,OK,2835
+RENT,Source Verified,High,1-2,OH,2836
+MORTGAGE,Not Verified,Upper-Mid,1-2,AZ,2837
+MORTGAGE,Verified,Upper-Mid,3-5,NV,2838
+MORTGAGE,Not Verified,High,1-2,AL,2839
+RENT,Not Verified,High,6-10,HI,2840
+OWN,Not Verified,Lower-Mid,0 or less,AR,2841
+OWN,Source Verified,High,6-10,MI,2842
+RENT,Not Verified,Low,6-10,KS,2843
+MORTGAGE,Source Verified,Lower-Mid,6-10,AR,2844
+RENT,Not Verified,Low,1-2,UT,2845
+OWN,Source Verified,Upper-Mid,,NJ,2846
+MORTGAGE,Verified,Low,1-2,WY,2847
+MORTGAGE,Not Verified,Low,3-5,MO,2848
+OWN,Not Verified,Upper-Mid,1-2,CA,2849
+RENT,Verified,Low,3-5,CT,2850
+RENT,Not Verified,Lower-Mid,3-5,KY,2851
+RENT,Source Verified,Low,3-5,OR,2852
+MORTGAGE,Source Verified,High,6-10,AR,2853
+MORTGAGE,Not Verified,Low,1-2,TX,2854
+RENT,Verified,Low,1-2,CT,2855
+MORTGAGE,Not Verified,Low,1-2,IN,2856
+OWN,Source Verified,High,3-5,NV,2857
+RENT,Not Verified,Lower-Mid,,NY,2858
+MORTGAGE,Source Verified,Low,3-5,NY,2859
+MORTGAGE,Verified,High,6-10,WI,2860
+MORTGAGE,Source Verified,Low,6-10,CT,2861
+MORTGAGE,Source Verified,High,1-2,IL,2862
+MORTGAGE,Not Verified,High,6-10,SD,2863
+RENT,Not Verified,Lower-Mid,3-5,WA,2864
+RENT,Source Verified,Low,6-10,UT,2865
+RENT,Not Verified,Low,1-2,MD,2866
+MORTGAGE,Source Verified,Upper-Mid,6-10,NE,2867
+RENT,Not Verified,Lower-Mid,1-2,OR,2868
+MORTGAGE,Not Verified,Low,3-5,TN,2869
+RENT,Verified,Lower-Mid,3-5,OH,2870
+MORTGAGE,Verified,Lower-Mid,,WV,2871
+RENT,Verified,High,1-2,NH,2872
+MORTGAGE,Not Verified,Upper-Mid,6-10,AR,2873
+RENT,Not Verified,High,1-2,SC,2874
+OWN,Not Verified,High,0 or less,MO,2875
+RENT,Not Verified,Low,0 or less,NC,2876
+MORTGAGE,Not Verified,High,1-2,OR,2877
+RENT,Verified,Low,3-5,UT,2878
+MORTGAGE,Not Verified,Lower-Mid,1-2,VA,2879
+RENT,Source Verified,Low,3-5,MS,2880
+OWN,Source Verified,Upper-Mid,0 or less,OH,2881
+RENT,Source Verified,Lower-Mid,1-2,LA,2882
+OWN,Verified,Low,,MI,2883
+OWN,Source Verified,Lower-Mid,1-2,AL,2884
+OWN,Source Verified,High,,TN,2885
+RENT,Verified,Upper-Mid,6-10,OH,2886
+OWN,Not Verified,Upper-Mid,6-10,CT,2887
+MORTGAGE,Verified,Low,3-5,MO,2888
+OWN,Source Verified,High,6-10,OK,2889
+OWN,Source Verified,Lower-Mid,,MI,2890
+MORTGAGE,Source Verified,Low,0 or less,FL,2891
+MORTGAGE,Source Verified,Upper-Mid,6-10,WI,2892
+OWN,Not Verified,Upper-Mid,3-5,AL,2893
+OWN,Not Verified,Upper-Mid,3-5,MA,2894
+MORTGAGE,Source Verified,Low,6-10,RI,2895
+MORTGAGE,Not Verified,Lower-Mid,3-5,OR,2896
+RENT,Source Verified,Upper-Mid,6-10,NV,2897
+RENT,Not Verified,High,3-5,SC,2898
+MORTGAGE,Source Verified,High,3-5,WI,2899
+OWN,Verified,Lower-Mid,6-10,NV,2900
+OWN,Verified,Lower-Mid,3-5,NJ,2901
+RENT,Source Verified,High,3-5,WI,2902
+MORTGAGE,Not Verified,Lower-Mid,3-5,NV,2903
+MORTGAGE,Verified,Lower-Mid,,TX,2904
+RENT,Not Verified,Low,3-5,UT,2905
+RENT,Source Verified,Low,0 or less,NV,2906
+OWN,Not Verified,Low,6-10,KY,2907
+MORTGAGE,Verified,High,3-5,AL,2908
+MORTGAGE,Not Verified,Upper-Mid,1-2,KS,2909
+RENT,Verified,High,6-10,FL,2910
+MORTGAGE,Verified,Upper-Mid,3-5,ID,2911
+RENT,Not Verified,Upper-Mid,1-2,IN,2912
+MORTGAGE,Source Verified,Low,6-10,IL,2913
+MORTGAGE,Source Verified,Low,3-5,VT,2914
+MORTGAGE,Verified,Low,,DE,2915
+OWN,Verified,Low,3-5,WV,2916
+MORTGAGE,Verified,Low,6-10,NH,2917
+OWN,Verified,Lower-Mid,,MN,2918
+MORTGAGE,Source Verified,Upper-Mid,3-5,PA,2919
+MORTGAGE,Verified,Lower-Mid,6-10,OH,2920
+RENT,Not Verified,Lower-Mid,6-10,OK,2921
+OWN,Verified,Upper-Mid,6-10,TN,2922
+OWN,Source Verified,Low,0 or less,MO,2923
+MORTGAGE,Verified,Lower-Mid,,IL,2924
+RENT,Not Verified,Low,0 or less,SC,2925
+OWN,Source Verified,Lower-Mid,,RI,2926
+OWN,Verified,Upper-Mid,1-2,MD,2927
+OWN,Source Verified,Low,1-2,MS,2928
+OWN,Not Verified,Low,1-2,MD,2929
+RENT,Verified,Upper-Mid,6-10,IL,2930
+RENT,Not Verified,High,1-2,OH,2931
+OWN,Source Verified,Lower-Mid,,TX,2932
+OWN,Not Verified,Upper-Mid,0 or less,NY,2933
+OWN,Source Verified,Low,,CO,2934
+MORTGAGE,Verified,Low,6-10,IN,2935
+RENT,Verified,High,3-5,MI,2936
+OWN,Verified,Upper-Mid,6-10,GA,2937
+OWN,Not Verified,Lower-Mid,0 or less,TN,2938
+MORTGAGE,Not Verified,Low,3-5,WI,2939
+RENT,Verified,Lower-Mid,,MA,2940
+RENT,Not Verified,Lower-Mid,0 or less,MT,2941
+OWN,Source Verified,Low,0 or less,MI,2942
+OWN,Verified,Upper-Mid,6-10,MO,2943
+MORTGAGE,Source Verified,Low,0 or less,KS,2944
+MORTGAGE,Verified,Upper-Mid,0 or less,CA,2945
+MORTGAGE,Source Verified,Lower-Mid,0 or less,IL,2946
+OWN,Source Verified,High,3-5,MS,2947
+RENT,Verified,Low,0 or less,SD,2948
+MORTGAGE,Not Verified,Low,1-2,AZ,2949
+OWN,Not Verified,Upper-Mid,,MD,2950
+OWN,Source Verified,High,3-5,IL,2951
+OWN,Source Verified,High,6-10,WI,2952
+RENT,Not Verified,High,3-5,OR,2953
+MORTGAGE,Not Verified,Lower-Mid,1-2,GA,2954
+OWN,Verified,Lower-Mid,0 or less,NY,2955
+RENT,Source Verified,Low,6-10,KY,2956
+MORTGAGE,Source Verified,Lower-Mid,1-2,IN,2957
+OWN,Verified,High,,CO,2958
+RENT,Source Verified,Low,6-10,HI,2959
+MORTGAGE,Source Verified,High,3-5,DE,2960
+OWN,Not Verified,High,6-10,NV,2961
+RENT,Verified,Lower-Mid,6-10,MD,2962
+MORTGAGE,Not Verified,Upper-Mid,0 or less,OH,2963
+MORTGAGE,Source Verified,High,1-2,RI,2964
+OWN,Source Verified,Lower-Mid,1-2,AK,2965
+OWN,Verified,Low,6-10,CO,2966
+MORTGAGE,Source Verified,Upper-Mid,,IL,2967
+RENT,Verified,High,1-2,NV,2968
+RENT,Source Verified,Upper-Mid,3-5,OR,2969
+RENT,Source Verified,Upper-Mid,1-2,RI,2970
+MORTGAGE,Verified,Lower-Mid,3-5,OH,2971
+MORTGAGE,Source Verified,Lower-Mid,1-2,CO,2972
+RENT,Not Verified,Low,,MI,2973
+RENT,Not Verified,Upper-Mid,6-10,HI,2974
+RENT,Not Verified,,,MA,2975
+RENT,Not Verified,Lower-Mid,6-10,MO,2976
+OWN,Verified,Low,3-5,IN,2977
+MORTGAGE,Source Verified,Lower-Mid,6-10,RI,2978
+RENT,Not Verified,Low,1-2,HI,2979
+MORTGAGE,Verified,Lower-Mid,0 or less,TX,2980
+RENT,Source Verified,Upper-Mid,1-2,PA,2981
+MORTGAGE,Not Verified,Lower-Mid,,MI,2982
+MORTGAGE,Verified,High,0 or less,CO,2983
+OWN,Verified,High,0 or less,CA,2984
+OWN,Verified,Low,6-10,IL,2985
+MORTGAGE,Source Verified,Low,1-2,NC,2986
+MORTGAGE,Verified,Upper-Mid,6-10,UT,2987
+MORTGAGE,Not Verified,High,0 or less,MI,2988
+MORTGAGE,Not Verified,Lower-Mid,6-10,ID,2989
+OWN,Verified,High,6-10,NE,2990
+MORTGAGE,Verified,Low,6-10,WI,2991
+MORTGAGE,Verified,Lower-Mid,3-5,OR,2992
+RENT,Source Verified,High,6-10,NC,2993
+RENT,Verified,Low,6-10,NJ,2994
+MORTGAGE,Not Verified,Low,6-10,OK,2995
+OWN,Not Verified,High,1-2,NC,2996
+OWN,Verified,Low,6-10,AZ,2997
+RENT,Verified,Low,0 or less,UT,2998
+OWN,Verified,Lower-Mid,6-10,WV,2999
+MORTGAGE,Verified,Upper-Mid,,VA,3000
+MORTGAGE,Verified,Low,3-5,NE,3001
+RENT,Verified,Lower-Mid,6-10,MS,3002
+RENT,Source Verified,High,3-5,FL,3003
+RENT,Source Verified,Lower-Mid,1-2,WA,3004
+MORTGAGE,Not Verified,High,1-2,MN,3005
+RENT,Verified,Low,3-5,GA,3006
+RENT,Verified,Lower-Mid,6-10,VA,3007
+RENT,Not Verified,Upper-Mid,1-2,NC,3008
+MORTGAGE,Not Verified,,,NY,3009
+OWN,Source Verified,Low,6-10,NH,3010
+MORTGAGE,Source Verified,High,1-2,UT,3011
+RENT,Source Verified,Upper-Mid,1-2,CO,3012
+MORTGAGE,Verified,Lower-Mid,1-2,SC,3013
+RENT,Source Verified,Upper-Mid,0 or less,MD,3014
+RENT,Source Verified,Lower-Mid,1-2,VA,3015
+RENT,Not Verified,Lower-Mid,0 or less,WA,3016
+MORTGAGE,Verified,Low,6-10,SC,3017
+MORTGAGE,Not Verified,Lower-Mid,1-2,UT,3018
+OWN,Verified,Upper-Mid,6-10,RI,3019
+RENT,Not Verified,High,1-2,AZ,3020
+MORTGAGE,Source Verified,Low,6-10,NM,3021
+MORTGAGE,Not Verified,Upper-Mid,0 or less,WV,3022
+MORTGAGE,Source Verified,Lower-Mid,,FL,3023
+RENT,Verified,High,6-10,LA,3024
+RENT,Source Verified,High,1-2,SC,3025
+MORTGAGE,Not Verified,Upper-Mid,6-10,DE,3026
+OWN,Not Verified,Low,0 or less,GA,3027
+MORTGAGE,Source Verified,Low,0 or less,NM,3028
+RENT,Verified,Lower-Mid,6-10,HI,3029
+MORTGAGE,Verified,Lower-Mid,3-5,NH,3030
+RENT,Verified,Low,3-5,DE,3031
+RENT,Not Verified,Low,1-2,VA,3032
+MORTGAGE,Verified,High,,IL,3033
+RENT,Verified,Lower-Mid,0 or less,MD,3034
+RENT,Source Verified,High,0 or less,CO,3035
+RENT,Source Verified,Lower-Mid,6-10,VA,3036
+MORTGAGE,Not Verified,Low,,OR,3037
+MORTGAGE,Verified,Lower-Mid,,OH,3038
+OWN,Not Verified,Low,3-5,TX,3039
+MORTGAGE,Source Verified,Low,0 or less,AZ,3040
+OWN,Source Verified,Upper-Mid,1-2,KY,3041
+RENT,Source Verified,Upper-Mid,3-5,TN,3042
+RENT,Source Verified,High,6-10,WI,3043
+RENT,Not Verified,High,0 or less,OH,3044
+RENT,Source Verified,Lower-Mid,6-10,MT,3045
+OWN,Not Verified,Low,3-5,FL,3046
+RENT,Verified,Lower-Mid,,KS,3047
+RENT,Not Verified,Low,0 or less,KY,3048
+MORTGAGE,Not Verified,High,1-2,LA,3049
+OWN,Not Verified,Low,6-10,GA,3050
+MORTGAGE,Source Verified,Upper-Mid,3-5,NJ,3051
+RENT,Source Verified,Low,1-2,RI,3052
+RENT,Not Verified,High,6-10,GA,3053
+RENT,Source Verified,Low,0 or less,AL,3054
+RENT,Source Verified,Upper-Mid,3-5,PA,3055
+MORTGAGE,Source Verified,Lower-Mid,3-5,WY,3056
+OWN,Verified,Low,3-5,NY,3057
+MORTGAGE,Source Verified,Lower-Mid,3-5,NV,3058
+RENT,Verified,Low,1-2,NM,3059
+MORTGAGE,Not Verified,Upper-Mid,3-5,AR,3060
+OWN,Verified,Low,,GA,3061
+OWN,Not Verified,Low,3-5,NJ,3062
+MORTGAGE,Source Verified,Low,1-2,IL,3063
+RENT,Source Verified,Lower-Mid,0 or less,OR,3064
+MORTGAGE,Verified,Upper-Mid,6-10,KS,3065
+OWN,Verified,Low,0 or less,OK,3066
+MORTGAGE,Not Verified,Lower-Mid,3-5,AZ,3067
+MORTGAGE,Source Verified,Lower-Mid,3-5,VT,3068
+OWN,Verified,Low,,MN,3069
+MORTGAGE,Source Verified,High,,MT,3070
+MORTGAGE,Source Verified,Upper-Mid,0 or less,AR,3071
+MORTGAGE,Verified,High,,NV,3072
+RENT,Source Verified,Upper-Mid,0 or less,MA,3073
+RENT,Source Verified,Low,3-5,RI,3074
+RENT,Verified,Upper-Mid,6-10,CO,3075
+RENT,Source Verified,Low,0 or less,MN,3076
+MORTGAGE,Verified,Low,3-5,NY,3077
+RENT,Verified,Low,,MI,3078
+RENT,Verified,Low,1-2,NC,3079
+OWN,Not Verified,Upper-Mid,6-10,CO,3080
+OWN,Source Verified,Lower-Mid,1-2,GA,3081
+MORTGAGE,Not Verified,Upper-Mid,6-10,WY,3082
+MORTGAGE,Source Verified,Low,,CA,3083
+RENT,Source Verified,Upper-Mid,1-2,AZ,3084
+MORTGAGE,Verified,Lower-Mid,3-5,MO,3085
+MORTGAGE,Verified,Upper-Mid,,OK,3086
+OWN,Not Verified,Lower-Mid,3-5,MD,3087
+MORTGAGE,Verified,High,3-5,SC,3088
+RENT,Source Verified,Low,6-10,GA,3089
+MORTGAGE,Not Verified,High,0 or less,OR,3090
+MORTGAGE,Not Verified,Upper-Mid,6-10,ME,3091
+MORTGAGE,Source Verified,Lower-Mid,,AK,3092
+MORTGAGE,Source Verified,Low,3-5,TN,3093
+RENT,Verified,Low,3-5,LA,3094
+OWN,Source Verified,Low,0 or less,AL,3095
+MORTGAGE,Not Verified,Upper-Mid,6-10,LA,3096
+RENT,Not Verified,High,6-10,TN,3097
+MORTGAGE,Not Verified,Lower-Mid,,NY,3098
+MORTGAGE,Source Verified,Lower-Mid,3-5,CT,3099
+RENT,Not Verified,Upper-Mid,0 or less,GA,3100
+MORTGAGE,Verified,High,6-10,MS,3101
+RENT,Not Verified,Low,6-10,WI,3102
+OWN,Source Verified,Upper-Mid,6-10,MD,3103
+OWN,Not Verified,Lower-Mid,6-10,MD,3104
+MORTGAGE,Verified,Lower-Mid,6-10,UT,3105
+RENT,Source Verified,Lower-Mid,6-10,NC,3106
+RENT,Not Verified,Upper-Mid,3-5,CO,3107
+MORTGAGE,Not Verified,Lower-Mid,1-2,KS,3108
+OWN,Not Verified,Low,1-2,MT,3109
+OWN,Source Verified,Lower-Mid,6-10,AK,3110
+RENT,Verified,Lower-Mid,0 or less,NJ,3111
+MORTGAGE,Source Verified,Upper-Mid,3-5,KS,3112
+RENT,Verified,Lower-Mid,3-5,MO,3113
+MORTGAGE,Source Verified,High,3-5,NM,3114
+MORTGAGE,Not Verified,Lower-Mid,,IN,3115
+MORTGAGE,Not Verified,Low,3-5,MD,3116
+RENT,Verified,Low,1-2,GA,3117
+RENT,Not Verified,Lower-Mid,0 or less,OR,3118
+OWN,Not Verified,High,,PA,3119
+OWN,Verified,Low,1-2,NY,3120
+RENT,Source Verified,Lower-Mid,3-5,DC,3121
+MORTGAGE,Not Verified,Low,3-5,OR,3122
+MORTGAGE,Source Verified,High,0 or less,VA,3123
+RENT,Not Verified,Lower-Mid,1-2,MO,3124
+OWN,Source Verified,Upper-Mid,6-10,AL,3125
+RENT,Source Verified,Lower-Mid,3-5,WI,3126
+OWN,Source Verified,Low,6-10,WA,3127
+MORTGAGE,Source Verified,Upper-Mid,3-5,AK,3128
+OWN,Not Verified,Lower-Mid,,NC,3129
+MORTGAGE,Verified,Upper-Mid,6-10,NY,3130
+RENT,Not Verified,Lower-Mid,1-2,PA,3131
+MORTGAGE,Not Verified,High,3-5,ME,3132
+OWN,Not Verified,High,6-10,IL,3133
+RENT,Verified,High,,PA,3134
+MORTGAGE,Verified,Upper-Mid,3-5,WA,3135
+MORTGAGE,Verified,High,0 or less,GA,3136
+MORTGAGE,Not Verified,High,0 or less,MD,3137
+OWN,Verified,Lower-Mid,6-10,WA,3138
+RENT,Not Verified,High,6-10,IN,3139
+OWN,Source Verified,High,3-5,SC,3140
+MORTGAGE,Source Verified,High,,IL,3141
+OWN,Source Verified,Lower-Mid,1-2,NE,3142
+OWN,Source Verified,Lower-Mid,3-5,WV,3143
+OWN,Verified,Low,3-5,MN,3144
+OWN,Not Verified,Lower-Mid,6-10,MA,3145
+RENT,Not Verified,Lower-Mid,3-5,NV,3146
+MORTGAGE,Source Verified,Low,,MS,3147
+RENT,Verified,Low,6-10,GA,3148
+MORTGAGE,Not Verified,Low,6-10,NM,3149
+OWN,Source Verified,Low,3-5,MI,3150
+OWN,Not Verified,High,6-10,PA,3151
+OWN,Not Verified,Upper-Mid,6-10,TN,3152
+RENT,Not Verified,Lower-Mid,1-2,DE,3153
+OWN,Not Verified,Low,0 or less,IL,3154
+RENT,Verified,Lower-Mid,3-5,MA,3155
+MORTGAGE,Source Verified,Upper-Mid,6-10,RI,3156
+MORTGAGE,Not Verified,Lower-Mid,1-2,OH,3157
+RENT,Verified,Low,3-5,MT,3158
+OWN,Source Verified,Upper-Mid,6-10,OR,3159
+RENT,Not Verified,Lower-Mid,0 or less,NC,3160
+MORTGAGE,Source Verified,Upper-Mid,3-5,OK,3161
+RENT,Not Verified,Lower-Mid,0 or less,NV,3162
+OWN,Not Verified,Lower-Mid,1-2,OH,3163
+OWN,Source Verified,Low,6-10,NJ,3164
+MORTGAGE,Verified,High,6-10,DC,3165
+RENT,Not Verified,Lower-Mid,3-5,AZ,3166
+OWN,Not Verified,Low,0 or less,MO,3167
+MORTGAGE,Not Verified,Lower-Mid,6-10,NE,3168
+RENT,Not Verified,Low,6-10,AK,3169
+MORTGAGE,Verified,Low,3-5,MA,3170
+RENT,Not Verified,Low,6-10,CO,3171
+RENT,Verified,Lower-Mid,6-10,NE,3172
+OWN,Verified,Low,,WV,3173
+RENT,Verified,High,1-2,PA,3174
+MORTGAGE,Verified,Lower-Mid,1-2,IL,3175
+RENT,Verified,Upper-Mid,,GA,3176
+OWN,Verified,Low,1-2,TN,3177
+RENT,Not Verified,Lower-Mid,3-5,FL,3178
+MORTGAGE,Not Verified,High,3-5,NV,3179
+MORTGAGE,Not Verified,Upper-Mid,1-2,UT,3180
+OWN,Source Verified,Low,1-2,AZ,3181
+MORTGAGE,Not Verified,Upper-Mid,0 or less,VA,3182
+OWN,Source Verified,Lower-Mid,6-10,AL,3183
+OWN,Not Verified,Lower-Mid,3-5,CA,3184
+OWN,Verified,Upper-Mid,3-5,VA,3185
+MORTGAGE,Verified,Lower-Mid,6-10,SC,3186
+MORTGAGE,Not Verified,Upper-Mid,0 or less,WA,3187
+MORTGAGE,Not Verified,High,1-2,TN,3188
+MORTGAGE,Not Verified,Upper-Mid,,NJ,3189
+RENT,Verified,Low,3-5,NJ,3190
+RENT,Verified,Upper-Mid,6-10,RI,3191
+RENT,Source Verified,High,6-10,RI,3192
+RENT,Verified,Low,1-2,MN,3193
+OWN,Not Verified,Low,,SC,3194
+RENT,Not Verified,Lower-Mid,1-2,OH,3195
+RENT,Not Verified,Low,0 or less,OR,3196
+MORTGAGE,Not Verified,High,,IL,3197
+MORTGAGE,Verified,Upper-Mid,3-5,VT,3198
+OWN,Source Verified,Upper-Mid,0 or less,GA,3199
+MORTGAGE,Not Verified,Upper-Mid,0 or less,TX,3200
+RENT,Not Verified,Upper-Mid,1-2,CO,3201
+MORTGAGE,Not Verified,High,3-5,KY,3202
+OWN,Not Verified,Lower-Mid,1-2,KY,3203
+MORTGAGE,Not Verified,Upper-Mid,1-2,OK,3204
+RENT,Source Verified,Low,0 or less,OH,3205
+OWN,Source Verified,Lower-Mid,3-5,MD,3206
+OWN,Source Verified,Low,6-10,AL,3207
+RENT,Source Verified,Upper-Mid,3-5,HI,3208
+OWN,Source Verified,Lower-Mid,1-2,TX,3209
+MORTGAGE,Verified,Lower-Mid,,VA,3210
+MORTGAGE,Not Verified,Lower-Mid,6-10,LA,3211
+OWN,Source Verified,Upper-Mid,,NV,3212
+RENT,Not Verified,Low,,SC,3213
+OWN,Source Verified,Low,0 or less,IN,3214
+MORTGAGE,Source Verified,Low,1-2,VT,3215
+RENT,Verified,Low,,VT,3216
+MORTGAGE,Verified,Upper-Mid,6-10,NH,3217
+RENT,Verified,Upper-Mid,0 or less,FL,3218
+RENT,Source Verified,Lower-Mid,0 or less,ND,3219
+MORTGAGE,Not Verified,High,6-10,AR,3220
+MORTGAGE,Source Verified,Upper-Mid,0 or less,WV,3221
+RENT,Verified,High,0 or less,CO,3222
+RENT,Source Verified,Lower-Mid,,NC,3223
+MORTGAGE,Verified,High,1-2,IL,3224
+MORTGAGE,Source Verified,Upper-Mid,,NE,3225
+RENT,Source Verified,High,6-10,DC,3226
+MORTGAGE,Not Verified,Low,6-10,WV,3227
+OWN,Not Verified,Low,,CO,3228
+RENT,Source Verified,Upper-Mid,1-2,MS,3229
+MORTGAGE,Verified,High,1-2,TN,3230
+MORTGAGE,Verified,Lower-Mid,1-2,CA,3231
+OWN,Verified,Low,,ND,3232
+OWN,Source Verified,High,0 or less,IL,3233
+RENT,Source Verified,Lower-Mid,0 or less,AR,3234
+MORTGAGE,Not Verified,Upper-Mid,0 or less,KS,3235
+MORTGAGE,Source Verified,Low,3-5,AL,3236
+MORTGAGE,Source Verified,Lower-Mid,0 or less,FL,3237
+MORTGAGE,Verified,Low,0 or less,SC,3238
+RENT,Not Verified,Low,3-5,CO,3239
+RENT,Verified,Low,6-10,SC,3240
+MORTGAGE,Source Verified,Upper-Mid,3-5,NY,3241
+MORTGAGE,Source Verified,Low,,SC,3242
+MORTGAGE,Source Verified,High,6-10,WV,3243
+MORTGAGE,Not Verified,Low,6-10,NV,3244
+MORTGAGE,Not Verified,Low,3-5,AL,3245
+MORTGAGE,Verified,Low,,LA,3246
+MORTGAGE,Verified,High,3-5,UT,3247
+RENT,Source Verified,Lower-Mid,6-10,MS,3248
+RENT,Verified,Low,6-10,UT,3249
+OWN,Verified,High,3-5,AZ,3250
+RENT,Verified,Upper-Mid,0 or less,NJ,3251
+MORTGAGE,Verified,Low,1-2,OR,3252
+RENT,Not Verified,High,1-2,HI,3253
+OWN,Not Verified,Upper-Mid,6-10,MO,3254
+RENT,Not Verified,Upper-Mid,1-2,DC,3255
+MORTGAGE,Not Verified,Upper-Mid,,AL,3256
+OWN,Source Verified,Low,3-5,NY,3257
+MORTGAGE,Not Verified,Lower-Mid,3-5,MD,3258
+OWN,Source Verified,Upper-Mid,1-2,PA,3259
+MORTGAGE,Source Verified,Low,6-10,DE,3260
+MORTGAGE,Not Verified,Upper-Mid,0 or less,AL,3261
+OWN,Source Verified,Low,,MD,3262
+MORTGAGE,Source Verified,Upper-Mid,1-2,TN,3263
+RENT,Verified,Low,6-10,AZ,3264
+RENT,Verified,Lower-Mid,3-5,TX,3265
+RENT,Not Verified,High,6-10,DC,3266
+RENT,Source Verified,Upper-Mid,6-10,AR,3267
+MORTGAGE,Verified,Lower-Mid,3-5,MI,3268
+RENT,Source Verified,Lower-Mid,0 or less,MA,3269
+MORTGAGE,Verified,High,3-5,CO,3270
+RENT,Source Verified,Low,,NV,3271
+MORTGAGE,Verified,High,3-5,OH,3272
+RENT,Source Verified,High,0 or less,NV,3273
+OWN,Not Verified,Low,3-5,WA,3274
+MORTGAGE,Not Verified,High,1-2,WI,3275
+MORTGAGE,Source Verified,Lower-Mid,0 or less,OK,3276
+MORTGAGE,Not Verified,Upper-Mid,,IL,3277
+MORTGAGE,Not Verified,Low,1-2,FL,3278
+MORTGAGE,Verified,Lower-Mid,1-2,HI,3279
+MORTGAGE,Verified,Low,,MS,3280
+MORTGAGE,Verified,High,0 or less,AZ,3281
+MORTGAGE,Verified,Lower-Mid,3-5,LA,3282
+MORTGAGE,Source Verified,Upper-Mid,3-5,MS,3283
+RENT,Verified,High,0 or less,TX,3284
+RENT,Source Verified,Low,0 or less,MS,3285
+MORTGAGE,Not Verified,Lower-Mid,3-5,MO,3286
+MORTGAGE,Not Verified,Low,1-2,NJ,3287
+RENT,Verified,Upper-Mid,,FL,3288
+MORTGAGE,Not Verified,Lower-Mid,1-2,NV,3289
+MORTGAGE,Source Verified,Lower-Mid,6-10,SD,3290
+MORTGAGE,Verified,Lower-Mid,3-5,PA,3291
+RENT,Verified,Lower-Mid,3-5,AK,3292
+OWN,Verified,Low,1-2,CA,3293
+RENT,Verified,Lower-Mid,6-10,KY,3294
+OWN,Not Verified,Upper-Mid,0 or less,TX,3295
+MORTGAGE,Source Verified,Low,3-5,MN,3296
+OWN,Not Verified,Lower-Mid,,NJ,3297
+MORTGAGE,Not Verified,High,1-2,NM,3298
+MORTGAGE,Not Verified,High,1-2,VA,3299
+OWN,Not Verified,High,6-10,CT,3300
+RENT,Not Verified,High,0 or less,MD,3301
+RENT,Verified,Low,3-5,OH,3302
+OWN,Source Verified,High,3-5,NJ,3303
+RENT,Not Verified,Low,,RI,3304
+RENT,Not Verified,Upper-Mid,3-5,VT,3305
+RENT,Verified,Upper-Mid,6-10,CT,3306
+RENT,Verified,Lower-Mid,3-5,WY,3307
+OWN,Source Verified,Lower-Mid,3-5,MS,3308
+MORTGAGE,Verified,Lower-Mid,3-5,NV,3309
+MORTGAGE,Source Verified,Lower-Mid,,SC,3310
+RENT,Source Verified,Lower-Mid,,KY,3311
+MORTGAGE,Verified,Lower-Mid,3-5,NY,3312
+RENT,Not Verified,Lower-Mid,,VA,3313
+OWN,Not Verified,Low,,ID,3314
+RENT,Not Verified,Upper-Mid,0 or less,MI,3315
+OWN,Not Verified,Low,1-2,VA,3316
+OWN,Source Verified,Upper-Mid,6-10,NE,3317
+MORTGAGE,Not Verified,Upper-Mid,3-5,GA,3318
+MORTGAGE,Source Verified,Upper-Mid,0 or less,KS,3319
+OWN,Not Verified,Low,6-10,AZ,3320
+MORTGAGE,Source Verified,Low,1-2,HI,3321
+OWN,Verified,Lower-Mid,,TX,3322
+RENT,Not Verified,High,3-5,CT,3323
+MORTGAGE,Not Verified,High,3-5,NC,3324
+MORTGAGE,Source Verified,Lower-Mid,1-2,SD,3325
+MORTGAGE,Verified,Lower-Mid,1-2,CO,3326
+MORTGAGE,Not Verified,High,1-2,NJ,3327
+OWN,Source Verified,Lower-Mid,,FL,3328
+RENT,Source Verified,Lower-Mid,6-10,MI,3329
+RENT,Source Verified,Upper-Mid,0 or less,SC,3330
+OWN,Source Verified,Low,0 or less,OH,3331
+MORTGAGE,Verified,Low,6-10,NJ,3332
+OWN,Not Verified,Upper-Mid,3-5,KY,3333
+RENT,Verified,Upper-Mid,,CT,3334
+OWN,Not Verified,Lower-Mid,6-10,WA,3335
+MORTGAGE,Source Verified,Low,6-10,WV,3336
+OWN,Verified,Low,6-10,AR,3337
+MORTGAGE,Source Verified,High,,NY,3338
+RENT,Source Verified,Upper-Mid,3-5,NE,3339
+MORTGAGE,Not Verified,,3-5,IL,3340
+MORTGAGE,Source Verified,Upper-Mid,3-5,MA,3341
+RENT,Source Verified,Low,,LA,3342
+MORTGAGE,Source Verified,Lower-Mid,0 or less,LA,3343
+MORTGAGE,Not Verified,Low,0 or less,NV,3344
+MORTGAGE,Not Verified,Upper-Mid,3-5,MD,3345
+MORTGAGE,Not Verified,Low,6-10,LA,3346
+OWN,Verified,Upper-Mid,6-10,MD,3347
+MORTGAGE,Source Verified,High,0 or less,WI,3348
+MORTGAGE,Source Verified,High,3-5,NE,3349
+RENT,Verified,Upper-Mid,3-5,MA,3350
+MORTGAGE,Source Verified,Lower-Mid,6-10,ME,3351
+MORTGAGE,Source Verified,Lower-Mid,3-5,UT,3352
+RENT,Verified,Low,1-2,MO,3353
+MORTGAGE,Source Verified,Lower-Mid,0 or less,CT,3354
+OWN,Source Verified,Low,6-10,TN,3355
+RENT,Source Verified,Low,,GA,3356
+OWN,Source Verified,Lower-Mid,1-2,HI,3357
+OWN,Source Verified,Lower-Mid,6-10,AZ,3358
+OWN,Not Verified,Lower-Mid,3-5,FL,3359
+MORTGAGE,Not Verified,Low,1-2,WI,3360
+OWN,Source Verified,Upper-Mid,,MI,3361
+RENT,Not Verified,High,,NY,3362
+MORTGAGE,Not Verified,High,3-5,MN,3363
+RENT,Verified,High,3-5,AL,3364
+RENT,Verified,Upper-Mid,1-2,GA,3365
+OWN,Source Verified,High,,NV,3366
+MORTGAGE,Source Verified,Lower-Mid,,MI,3367
+MORTGAGE,Verified,Lower-Mid,6-10,OK,3368
+RENT,Not Verified,High,6-10,MI,3369
+RENT,Source Verified,Lower-Mid,6-10,OR,3370
+RENT,Verified,Upper-Mid,,NJ,3371
+OWN,Source Verified,Lower-Mid,1-2,OH,3372
+RENT,Source Verified,Lower-Mid,3-5,SC,3373
+RENT,Verified,High,3-5,NV,3374
+RENT,Source Verified,Low,0 or less,NH,3375
+MORTGAGE,Not Verified,Lower-Mid,1-2,MS,3376
+RENT,Not Verified,Lower-Mid,3-5,NC,3377
+MORTGAGE,Source Verified,Low,0 or less,MN,3378
+MORTGAGE,Source Verified,Low,,NH,3379
+RENT,Source Verified,High,6-10,ME,3380
+RENT,Verified,Lower-Mid,,AZ,3381
+OWN,Verified,Low,,OK,3382
+RENT,Source Verified,High,1-2,WI,3383
+RENT,Not Verified,Low,1-2,GA,3384
+MORTGAGE,Not Verified,Low,1-2,NY,3385
+OWN,Source Verified,Lower-Mid,1-2,NC,3386
+RENT,Source Verified,Upper-Mid,1-2,AK,3387
+RENT,Source Verified,Lower-Mid,1-2,RI,3388
+MORTGAGE,Source Verified,High,3-5,AK,3389
+OWN,Not Verified,Lower-Mid,3-5,ID,3390
+MORTGAGE,Source Verified,Lower-Mid,3-5,WA,3391
+MORTGAGE,Verified,High,,AL,3392
+OWN,Verified,Lower-Mid,0 or less,NC,3393
+MORTGAGE,Verified,High,6-10,MT,3394
+MORTGAGE,Not Verified,Lower-Mid,1-2,NJ,3395
+RENT,Verified,Lower-Mid,6-10,CT,3396
+MORTGAGE,Not Verified,,,TN,3397
+MORTGAGE,Not Verified,Low,0 or less,IL,3398
+MORTGAGE,Verified,Lower-Mid,0 or less,NY,3399
+MORTGAGE,Verified,Upper-Mid,1-2,IN,3400
+RENT,Source Verified,Upper-Mid,1-2,OH,3401
+OWN,Verified,Lower-Mid,,CA,3402
+MORTGAGE,Verified,High,3-5,VA,3403
+OWN,Source Verified,Low,1-2,CT,3404
+MORTGAGE,Verified,High,1-2,PA,3405
+OWN,Not Verified,Upper-Mid,3-5,KS,3406
+MORTGAGE,Verified,Lower-Mid,,FL,3407
+OWN,Verified,Lower-Mid,,OH,3408
+RENT,Verified,Upper-Mid,3-5,LA,3409
+OWN,Not Verified,Lower-Mid,1-2,MS,3410
+RENT,Source Verified,Low,0 or less,SC,3411
+OWN,Source Verified,Low,3-5,IL,3412
+RENT,Not Verified,Low,,NH,3413
+RENT,Source Verified,Lower-Mid,,NY,3414
+RENT,Not Verified,Low,6-10,IN,3415
+MORTGAGE,Verified,Lower-Mid,6-10,VT,3416
+RENT,Not Verified,Lower-Mid,3-5,MI,3417
+MORTGAGE,Not Verified,Low,3-5,WA,3418
+MORTGAGE,Not Verified,Lower-Mid,3-5,LA,3419
+MORTGAGE,Not Verified,Lower-Mid,3-5,NH,3420
+RENT,Not Verified,Low,0 or less,CO,3421
+MORTGAGE,Verified,Upper-Mid,1-2,NV,3422
+OWN,Source Verified,Lower-Mid,0 or less,AZ,3423
+OWN,Source Verified,High,6-10,KS,3424
+RENT,Source Verified,Upper-Mid,6-10,CO,3425
+RENT,Not Verified,High,6-10,OR,3426
+RENT,Source Verified,Upper-Mid,1-2,IN,3427
+OWN,Verified,Low,6-10,NC,3428
+RENT,Source Verified,Lower-Mid,6-10,DE,3429
+OWN,Verified,Upper-Mid,6-10,NJ,3430
+OWN,Verified,Lower-Mid,1-2,OH,3431
+MORTGAGE,Source Verified,Upper-Mid,3-5,WV,3432
+OWN,Verified,Low,,NE,3433
+MORTGAGE,Source Verified,Low,3-5,ID,3434
+MORTGAGE,Not Verified,Lower-Mid,3-5,TN,3435
+MORTGAGE,Source Verified,Lower-Mid,0 or less,AZ,3436
+OWN,Verified,Low,,NC,3437
+RENT,Source Verified,Lower-Mid,,NV,3438
+MORTGAGE,Verified,Low,0 or less,CA,3439
+RENT,Source Verified,Lower-Mid,0 or less,OH,3440
+OWN,Source Verified,High,3-5,MN,3441
+MORTGAGE,Source Verified,High,3-5,OH,3442
+MORTGAGE,Verified,High,3-5,MD,3443
+OWN,Source Verified,Low,6-10,NM,3444
+RENT,Source Verified,Upper-Mid,0 or less,MN,3445
+RENT,Verified,High,3-5,OH,3446
+OWN,Not Verified,High,0 or less,KS,3447
+OWN,Not Verified,High,6-10,AR,3448
+MORTGAGE,Source Verified,Upper-Mid,1-2,AK,3449
+RENT,Source Verified,Upper-Mid,0 or less,OH,3450
+OWN,Not Verified,Low,1-2,PA,3451
+RENT,Verified,Upper-Mid,0 or less,OH,3452
+OWN,Verified,Low,,AZ,3453
+RENT,Verified,High,3-5,WA,3454
+OWN,Not Verified,Lower-Mid,,TN,3455
+OWN,Not Verified,High,6-10,OR,3456
+MORTGAGE,Source Verified,Upper-Mid,,WA,3457
+RENT,Source Verified,Low,0 or less,LA,3458
+OWN,Not Verified,Lower-Mid,6-10,MN,3459
+MORTGAGE,Source Verified,High,3-5,WA,3460
+MORTGAGE,Verified,Lower-Mid,,NJ,3461
+OWN,Source Verified,High,3-5,CA,3462
+MORTGAGE,Not Verified,Low,1-2,RI,3463
+MORTGAGE,Not Verified,Low,0 or less,AL,3464
+MORTGAGE,Source Verified,Low,3-5,LA,3465
+RENT,Source Verified,Upper-Mid,,PA,3466
+MORTGAGE,Not Verified,Upper-Mid,,MS,3467
+RENT,Not Verified,Lower-Mid,,OR,3468
+RENT,Verified,Low,,IL,3469
+RENT,Verified,Low,0 or less,WA,3470
+MORTGAGE,Not Verified,Low,6-10,ME,3471
+MORTGAGE,Not Verified,Lower-Mid,6-10,CT,3472
+RENT,Verified,Low,3-5,MA,3473
+RENT,Source Verified,Low,6-10,LA,3474
+RENT,Verified,Upper-Mid,6-10,OK,3475
+MORTGAGE,Not Verified,Upper-Mid,,ID,3476
+MORTGAGE,Not Verified,Upper-Mid,3-5,TN,3477
+RENT,Verified,Low,3-5,NC,3478
+OWN,Not Verified,Upper-Mid,6-10,MI,3479
+MORTGAGE,Not Verified,Lower-Mid,,MN,3480
+MORTGAGE,Source Verified,Upper-Mid,,TX,3481
+OWN,Source Verified,Upper-Mid,0 or less,IL,3482
+OWN,Verified,Lower-Mid,,PA,3483
+OWN,Verified,Lower-Mid,1-2,CA,3484
+RENT,Verified,Low,1-2,TX,3485
+MORTGAGE,Source Verified,Upper-Mid,6-10,MS,3486
+OWN,Verified,Lower-Mid,6-10,OK,3487
+OWN,Verified,Low,6-10,MI,3488
+OWN,Not Verified,Lower-Mid,1-2,NC,3489
+OWN,Not Verified,Upper-Mid,,TX,3490
+MORTGAGE,Source Verified,High,3-5,MO,3491
+RENT,Verified,Lower-Mid,,NV,3492
+OWN,Verified,Upper-Mid,1-2,FL,3493
+MORTGAGE,Not Verified,Low,,MO,3494
+MORTGAGE,Not Verified,Lower-Mid,,WI,3495
+MORTGAGE,Verified,Lower-Mid,1-2,AZ,3496
+RENT,Verified,Upper-Mid,,RI,3497
+MORTGAGE,Verified,Lower-Mid,,CT,3498
+RENT,Not Verified,Upper-Mid,1-2,NM,3499
+MORTGAGE,Verified,Low,3-5,VA,3500
+MORTGAGE,Source Verified,Lower-Mid,0 or less,VT,3501
+OWN,Source Verified,Lower-Mid,6-10,MN,3502
+OWN,Verified,Low,3-5,VA,3503
+RENT,Not Verified,Upper-Mid,3-5,MN,3504
+RENT,Source Verified,Lower-Mid,1-2,AR,3505
+MORTGAGE,Not Verified,Low,6-10,SC,3506
+MORTGAGE,Verified,Lower-Mid,3-5,KY,3507
+OWN,Source Verified,Upper-Mid,0 or less,OR,3508
+MORTGAGE,Not Verified,Upper-Mid,3-5,WI,3509
+RENT,Verified,Low,3-5,ID,3510
+OWN,Not Verified,Upper-Mid,,FL,3511
+RENT,Not Verified,Lower-Mid,1-2,GA,3512
+OWN,Verified,Low,,MD,3513
+MORTGAGE,Not Verified,Lower-Mid,,AL,3514
+RENT,Source Verified,Lower-Mid,3-5,OK,3515
+MORTGAGE,Not Verified,Low,,TX,3516
+OWN,Verified,High,1-2,PA,3517
+OWN,Source Verified,Upper-Mid,1-2,CO,3518
+OWN,Verified,Lower-Mid,,MI,3519
+RENT,Source Verified,Lower-Mid,1-2,AL,3520
+MORTGAGE,Verified,Upper-Mid,1-2,WA,3521
+OWN,Verified,Lower-Mid,1-2,NJ,3522
+RENT,Source Verified,Lower-Mid,0 or less,AL,3523
+OWN,Source Verified,Upper-Mid,3-5,MS,3524
+MORTGAGE,Source Verified,High,0 or less,NJ,3525
+RENT,Verified,Lower-Mid,3-5,NM,3526
+RENT,Source Verified,Low,,OH,3527
+MORTGAGE,Verified,Upper-Mid,3-5,IN,3528
+MORTGAGE,Not Verified,Lower-Mid,3-5,WA,3529
+RENT,Verified,Low,1-2,CO,3530
+MORTGAGE,Verified,Low,6-10,KS,3531
+RENT,Source Verified,Lower-Mid,3-5,ID,3532
+OWN,Not Verified,Upper-Mid,6-10,AR,3533
+MORTGAGE,Verified,Lower-Mid,,MN,3534
+OWN,Source Verified,Low,3-5,SC,3535
+MORTGAGE,Verified,Lower-Mid,6-10,RI,3536
+MORTGAGE,Verified,High,0 or less,AL,3537
+MORTGAGE,Verified,Upper-Mid,1-2,ME,3538
+MORTGAGE,Verified,Upper-Mid,0 or less,MO,3539
+OWN,Verified,Low,6-10,ID,3540
+MORTGAGE,Source Verified,Upper-Mid,6-10,WV,3541
+RENT,Verified,Lower-Mid,3-5,NC,3542
+OWN,Verified,Lower-Mid,,NC,3543
+MORTGAGE,Verified,Low,,AL,3544
+RENT,Not Verified,Low,3-5,NH,3545
+RENT,Verified,Upper-Mid,3-5,UT,3546
+MORTGAGE,Source Verified,High,0 or less,OH,3547
+MORTGAGE,Verified,High,0 or less,OR,3548
+OWN,Source Verified,High,0 or less,NY,3549
+MORTGAGE,Verified,Lower-Mid,3-5,VA,3550
+RENT,Not Verified,High,0 or less,FL,3551
+MORTGAGE,Source Verified,High,1-2,MN,3552
+MORTGAGE,Source Verified,Lower-Mid,1-2,MN,3553
+MORTGAGE,Verified,Upper-Mid,6-10,MS,3554
+OWN,Not Verified,High,6-10,NE,3555
+RENT,Verified,Lower-Mid,0 or less,FL,3556
+MORTGAGE,Verified,Low,0 or less,OK,3557
+RENT,Not Verified,Lower-Mid,0 or less,OH,3558
+RENT,Verified,Low,,CT,3559
+MORTGAGE,Source Verified,Lower-Mid,0 or less,GA,3560
+OWN,Not Verified,Lower-Mid,,AR,3561
+RENT,Source Verified,Low,0 or less,PA,3562
+OWN,Source Verified,Lower-Mid,6-10,MA,3563
+MORTGAGE,Verified,Upper-Mid,,SC,3564
+MORTGAGE,Source Verified,High,0 or less,CO,3565
+OWN,Verified,Upper-Mid,6-10,CT,3566
+MORTGAGE,Source Verified,High,3-5,UT,3567
+RENT,Source Verified,Lower-Mid,1-2,KS,3568
+MORTGAGE,Verified,Upper-Mid,,MA,3569
+RENT,Not Verified,Upper-Mid,3-5,OK,3570
+RENT,Verified,High,3-5,PA,3571
+MORTGAGE,Not Verified,Lower-Mid,6-10,WY,3572
+MORTGAGE,Source Verified,Upper-Mid,6-10,SD,3573
+MORTGAGE,Source Verified,Upper-Mid,0 or less,AL,3574
+OWN,Verified,High,6-10,GA,3575
+RENT,Source Verified,Lower-Mid,3-5,IN,3576
+OWN,Source Verified,Low,6-10,MA,3577
+RENT,Source Verified,Lower-Mid,,MA,3578
+OWN,Verified,Upper-Mid,1-2,TX,3579
+RENT,Source Verified,Upper-Mid,3-5,AR,3580
+RENT,Verified,Low,6-10,RI,3581
+OWN,Verified,High,3-5,GA,3582
+OWN,Source Verified,Low,,MO,3583
+MORTGAGE,Not Verified,Upper-Mid,1-2,LA,3584
+MORTGAGE,Source Verified,Lower-Mid,1-2,MI,3585
+OWN,Source Verified,Lower-Mid,3-5,AL,3586
+MORTGAGE,Verified,Low,1-2,NM,3587
+RENT,Verified,Lower-Mid,1-2,PA,3588
+MORTGAGE,Source Verified,Upper-Mid,,MD,3589
+MORTGAGE,Source Verified,High,0 or less,NH,3590
+MORTGAGE,Source Verified,Upper-Mid,1-2,WI,3591
