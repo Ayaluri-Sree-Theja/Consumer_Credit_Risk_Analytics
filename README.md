@@ -1,6 +1,9 @@
-Consumer Credit Risk & Customer Stress Analytics
+#Consumer Credit Risk & Customer Stress Analytics
+
 End-to-end analytics project demonstrates how SQL + Tableau can be used to monitor loan portfolio risk, identify product concentration, and use customer complaints as an early-warning signal for emerging credit stress.
-Project Objective
+
+#Project Objective
+
 Financial institutions often monitor credit performance after delinquencies happen.
 This project focuses on detecting leading indicators of stress, combining:
 •	portfolio exposure data
