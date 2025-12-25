@@ -1,1 +1,14 @@
 
+The original datasets used in this project are large and not uploaded.
+
+To reproduce the project:
+
+1. Download datasets from the sources.
+2. Load them into the database using the schema in /sql
+3. Refresh the Tableau workbook connection.
+
+Data is intentionally excluded due to size and storage limits.
+
+Sources: 1. https://catalog.data.gov/organization/cfpb-gov
+	       2. https://www.consumerfinance.gov/data-research/consumer-complaints/search/?dateRange=All&date_received_max=2025-12-24&date_received_min=2011-12-01&page=1&searchField=all&size=25&sort=created_date_desc&tab=List
+	       3. https://fred.stlouisfed.org/
