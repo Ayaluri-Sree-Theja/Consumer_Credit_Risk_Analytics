@@ -34,8 +34,11 @@ These dashboards work together to show where risk originates, concentrates, and 
  **Key Insights (Highlights)**
  
 •	~19–20% of portfolio exposure is classified high-risk at origination.
+
 •	Debt consolidation and credit cards account for most concentration risk.
+
 •	Complaint activity spikes align closely with elevated-risk product lines.
+
 •	Risk is more behavior-driven than macro-driven in this dataset.
 
 Full interpretation and recommendations are included in the Executive Summary.
